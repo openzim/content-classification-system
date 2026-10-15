@@ -4,26 +4,15 @@ A "family" is a ZIM name with its language code replaced by '*'
 (e.g. wikipedia_*_chemistry). Rules are looked up in order:
 FAMILY (exact family key) > SERIES (prefix + suffix function) > SITE (first token).
 """
+import json
+from pathlib import Path
 
-TAXONOMY = {
-    "encyclopedias-general-reference":  "Encyclopedias & General Reference",
-    "languages-dictionaries":           "Languages & Dictionaries",
-    "books-literature":                 "Books & Literature",
-    "school-courses":                   "School & Courses",
-    "science-mathematics":              "Science & Mathematics",
-    "computers-technology":             "Computers & Technology",
-    "health-medicine":                  "Health & Medicine",
-    "history":                          "History",
-    "geography-maps-travel":            "Geography, Maps & Travel",
-    "society-politics-economy":         "Society, Politics & Economy",
-    "religion-philosophy":              "Religion & Philosophy",
-    "arts-music-film":                  "Arts, Music & Film",
-    "games-fandom-humor":               "Games, Fandom & Humor",
-    "sports-outdoors":                  "Sports & Outdoors",
-    "home-food-diy":                    "Home, Food & DIY",
-    "survival-preparedness":            "Survival & Preparedness",
-    "other":                            "Other",
-}
+
+# categories and their English labels come from the reference data
+_REF = Path(__file__).resolve().parent.parent / "categories"
+_EN = json.loads((_REF / "i18n" / "en.json").read_text())
+TAXONOMY = {c["id"]: _EN[f"category-{c['id']}"]
+            for c in json.loads((_REF / "categories.json").read_text())["categories"]}
 
 # first token of the ZIM name -> categories
 SITE = {}
@@ -44,7 +33,7 @@ _site(["languages-dictionaries"], """wiktionary dicoado.org chinese.stackexchang
 _site(["books-literature"], """wikisource bnr bouquineux.com africanstorybook.org booksdash prunelle
     editions-ganndal lilote litterature-audio-poetry literature.stackexchange.com
     writing.stackexchange.com ebooks.stackexchange.com athena ncert-audiobooks folgerpedia.folger.edu""")
-_site(["school-courses"], """wikibooks wikiversity khanacademy avanti maitre moldova-ministry-education
+_site(["courses-textbooks"], """wikibooks wikiversity khanacademy avanti maitre moldova-ministry-education
     diksha-std10ssc diksha-std5ssc dse youscribe eleda.education media-eleda.ouvaton.org
     education-et-numerique les-fondamentaux ghana-bece-past-questions oer4schools edutechwiki
     academia.stackexchange.com cseducators.stackexchange.com matheducators.stackexchange.com
@@ -164,7 +153,7 @@ FAMILY = {
 def _wikipedia(s):
     return {
         "all": ["encyclopedias-general-reference"], "top": ["encyclopedias-general-reference"], "100": ["encyclopedias-general-reference"], "top1m": ["encyclopedias-general-reference"],
-        "50000": ["encyclopedias-general-reference"], "for_schools": ["encyclopedias-general-reference", "school-courses"],
+        "50000": ["encyclopedias-general-reference"], "for_schools": ["encyclopedias-general-reference", "courses-textbooks"],
         "astronomy": ["science-mathematics"], "chemistry": ["science-mathematics"], "mathematics": ["science-mathematics"],
         "physics": ["science-mathematics"], "molcell": ["science-mathematics"], "climate-change": ["science-mathematics"],
         "computer": ["computers-technology"], "medicine": ["health-medicine"], "history": ["history"],
@@ -183,7 +172,7 @@ def _gutenberg(s):
     if lcc.startswith("p"):
         return ["books-literature"]
     subj = {"b": "religion-philosophy", "c": "history", "d": "history", "e": "history", "f": "history",
-            "g": "geography-maps-travel", "h": "society-politics-economy", "j": "society-politics-economy", "k": "society-politics-economy", "l": "school-courses",
+            "g": "geography-maps-travel", "h": "society-politics-economy", "j": "society-politics-economy", "k": "society-politics-economy", "l": "courses-textbooks",
             "m": "arts-music-film", "n": "arts-music-film", "q": "science-mathematics", "r": "health-medicine", "s": "home-food-diy",
             "t": "science-mathematics", "u": "history", "v": "history"}.get(lcc)
     return ["books-literature", subj] if subj else None
@@ -196,8 +185,8 @@ def _cps(s):
             }.get(s, ["science-mathematics"])
 
 def _libretexts(s):
-    return {"biz": ["society-politics-economy"], "human": ["books-literature", "history"], "k12": ["school-courses"],
-            "med": ["health-medicine"], "socialsci": ["society-politics-economy"], "workforce": ["school-courses"],
+    return {"biz": ["society-politics-economy"], "human": ["books-literature", "history"], "k12": ["courses-textbooks"],
+            "med": ["health-medicine"], "socialsci": ["society-politics-economy"], "workforce": ["courses-textbooks"],
             "eng": ["science-mathematics"]}.get(s, ["science-mathematics"])
 
 TED_TOPICS = {
@@ -241,7 +230,7 @@ TED_TOPICS = {
         entertainment fashion film graphic-design industrial-design library literature magic museums
         music painting performance photography poetry product-design science-fiction spoken-word
         storytelling street-art television theater tv typography writing""",
-    "school-courses":                   "education teaching ted-ed language grammar",
+    "courses-textbooks":                   "education teaching ted-ed language grammar",
     "sports-outdoors":                  "sports play",
     "home-food-diy":                    "agriculture farming food gardening toys",
     "games-fandom-humor":               "gaming humor",
@@ -264,8 +253,7 @@ _site(["science-mathematics"], "madrasa")
 _site(["computers-technology"], "tridion.stackexchange.com wikimedia")
 TED_MAP["resources"] = "science-mathematics"
 
-# ---- v2: "For Children" category + subject-specific courses get School & Courses too
-TAXONOMY = {"for-children": "For Children", **TAXONOMY}
+# ---- v2: subject-specific courses get Courses & Textbooks too
 
 def _maitre(s):
     s = s.removesuffix("_fr")
@@ -283,7 +271,7 @@ _site(["languages-dictionaries"], "francais-avec-pierre test-delf-dalf plume-app
 
 # primary category comes from rules above; these ADD categories on top
 ADD = {
-    "school-courses": """libretexts.org avanti maitre madrasa freecodecamp unine.ch python-class-vc htdp.org
+    "courses-textbooks": """libretexts.org avanti maitre madrasa freecodecamp unine.ch python-class-vc htdp.org
         jeffe.cs.illinois.edu opendatastructures.org ethanweed learningstatistics
         learningstatisticswithr.com mspeekenbrink openmusictheory.com artofproblemsolving
         la-chaine-de-maths-et-tiques francais-avec-pierre test-delf-dalf biologycourses
@@ -311,10 +299,10 @@ FAMILY_FINAL = {
     "zaya-english-duniya-marathi_mr": ["languages-dictionaries", "for-children"],
     "plume-app.co_*_all": ["languages-dictionaries", "for-children"],
     "wikipedia_*_for_schools": ["encyclopedias-general-reference", "for-children"],
-    "libretexts.org_*_human": ["school-courses"],
+    "libretexts.org_*_human": ["courses-textbooks"],
     "madrasa_*_scientists": ["science-mathematics", "history"],
 }
 def finalize(key, cats):
     if key in FAMILY_FINAL: return FAMILY_FINAL[key]
-    if key.startswith("maitre_"): return ["school-courses", "for-children"]
+    if key.startswith("maitre_"): return ["courses-textbooks", "for-children"]
     return cats

@@ -3,53 +3,53 @@
 - africanstorybook.org_*_all (1) African Storybooks  +books-literature
 - booksdash_*_all (1) Bookdash  +books-literature
 - dicoado.org_*_all (1) Dico des Ados  +languages-dictionaries
-- diksha-std5ssc_en (1) Std 5 SSC English  +school-courses
+- diksha-std5ssc_en (1) Std 5 SSC English  +courses-textbooks
 - editions-ganndal_*_fo-livres (1) Éditions Ganndal  +books-literature
-- eleda.education_*_fo-offline (1) Les mathématiques du primaire  +school-courses
+- eleda.education_*_fo-offline (1) Les mathématiques du primaire  +courses-textbooks
 - klexikon_*_all (1) Klexikon – das Kinderlexikon  +encyclopedias-general-reference
-- les-fondamentaux_*_all (1) Les fondamentaux  +school-courses
+- les-fondamentaux_*_all (1) Les fondamentaux  +courses-textbooks
 - lilote_*_fo (1) Lilote, Quiz de lecture  +books-literature
 - madrasa_*_songs (1) مدرسة - الأغاني التعليمية  +arts-music-film
 - madrasa_*_stories (1) مدرسة - مجموعة القصص  +books-literature
-- maitre_*_additions_20_fr (1) Additioner et Soustraire < 20  +school-courses
-- maitre_*_additions_fr (1) Maître Lucas: les Additions  +school-courses
-- maitre_*_alimentation_fr (1) Maître Lucas: l'Alimentation  +school-courses
-- maitre_*_apprendre_a_dessiner_fr (1) Apprendre à Dessiner  +school-courses
-- maitre_*_calcul_decimaux_fr (1) Calcul décimal  +school-courses
-- maitre_*_calcul_mental_fr (1) Maître Lucas: le Calcul mental  +school-courses
-- maitre_*_calculs_et_coloriages_magiques_fr (1) Calculs et Coloriages magiques  +school-courses
-- maitre_*_comparer_et_ranger_fr (1) Comparer et Ranger  +school-courses
-- maitre_*_comparer_nombres_100_fr (1) Comparer jusqu'à 100  +school-courses
-- maitre_*_completer_algorithmes_fr (1) Compléter les Algorithmes  +school-courses
-- maitre_*_completer_les_mots_fr (1) Compléter les Mots  +school-courses
-- maitre_*_compter_audela_de_20_fr (1) Compter au delà de 20  +school-courses
-- maitre_*_compter_jusque_10_fr (1) Compter jusqu'à 10  +school-courses
-- maitre_*_compter_jusque_20_fr (1) Compter jusqu'à 20  +school-courses
-- maitre_*_compter_jusque_5_fr (1) Compter jusqu'à 5  +school-courses
-- maitre_*_compter_par_intervalles_fr (1) Compter par intervalles  +school-courses
-- maitre_*_confusion_des_lettres_fr (1) Confusion des lettres p-q, b-d  +school-courses
-- maitre_*_conjugaison_fr (1) Maître Lucas: Conjugaison  +school-courses
-- maitre_*_corps_humain_fr (1) Corps humain et Activité  +school-courses
-- maitre_*_developpement_fr (1) Développement du vivant  +school-courses
-- maitre_*_dictees_de_nombres_fr (1) Dictées de Nombres  +school-courses
-- maitre_*_dictees_fr (1) Maître Lucas: Dictées  +school-courses
-- maitre_*_divisions_fr (1) Maître Lucas: Divisions  +school-courses
-- maitre_*_double_et_moitie_fr (1) Maître Lucas: Double et Moitié  +school-courses
-- maitre_*_ecriture_fr (1) Maître Lucas: Ecriture  +school-courses
-- maitre_*_enigmes_fr (1) Maître Lucas: Énigmes  +school-courses
-- maitre_*_enseignement_civique_fr (1) Enseignement civique et moral  +school-courses
-- maitre_*_espace_geometrie_fr (1) Espace et Géométrie  +school-courses
-- maitre_*_fractions_fr (1) Maître Lucas: Fractions  +school-courses
-- maitre_*_grammaire_fr (1) Maître Lucas: Grammaire  +school-courses
-- maitre_*_grandeur_et_mesures_fr (1) Grandeur et Mesures  +school-courses
-- maitre_*_labyrinthe_de_calculs_fr (1) Labyrinthe de Calculs  +school-courses
-- maitre_*_lecture_fr (1) Maître Lucas: Lecture  +school-courses
-- maitre_*_planete_terre_fr (1) Planète Terre et Environnement  +school-courses
-- media-eleda.ouvaton.org_*_offline (1) Eleda  +school-courses
-- moldova-ministry-education_*_clasa1 (1) Manual pentru Clasa I  +school-courses
-- moldova-ministry-education_*_clasa2 (1) Manual pentru Clasa II-a  +school-courses
-- moldova-ministry-education_*_clasa3 (1) Manual pentru Clasa III-a  +school-courses
-- moldova-ministry-education_*_clasa4 (1) Manual pentru Clasa IV-a  +school-courses
+- maitre_*_additions_20_fr (1) Additioner et Soustraire < 20  +courses-textbooks
+- maitre_*_additions_fr (1) Maître Lucas: les Additions  +courses-textbooks
+- maitre_*_alimentation_fr (1) Maître Lucas: l'Alimentation  +courses-textbooks
+- maitre_*_apprendre_a_dessiner_fr (1) Apprendre à Dessiner  +courses-textbooks
+- maitre_*_calcul_decimaux_fr (1) Calcul décimal  +courses-textbooks
+- maitre_*_calcul_mental_fr (1) Maître Lucas: le Calcul mental  +courses-textbooks
+- maitre_*_calculs_et_coloriages_magiques_fr (1) Calculs et Coloriages magiques  +courses-textbooks
+- maitre_*_comparer_et_ranger_fr (1) Comparer et Ranger  +courses-textbooks
+- maitre_*_comparer_nombres_100_fr (1) Comparer jusqu'à 100  +courses-textbooks
+- maitre_*_completer_algorithmes_fr (1) Compléter les Algorithmes  +courses-textbooks
+- maitre_*_completer_les_mots_fr (1) Compléter les Mots  +courses-textbooks
+- maitre_*_compter_audela_de_20_fr (1) Compter au delà de 20  +courses-textbooks
+- maitre_*_compter_jusque_10_fr (1) Compter jusqu'à 10  +courses-textbooks
+- maitre_*_compter_jusque_20_fr (1) Compter jusqu'à 20  +courses-textbooks
+- maitre_*_compter_jusque_5_fr (1) Compter jusqu'à 5  +courses-textbooks
+- maitre_*_compter_par_intervalles_fr (1) Compter par intervalles  +courses-textbooks
+- maitre_*_confusion_des_lettres_fr (1) Confusion des lettres p-q, b-d  +courses-textbooks
+- maitre_*_conjugaison_fr (1) Maître Lucas: Conjugaison  +courses-textbooks
+- maitre_*_corps_humain_fr (1) Corps humain et Activité  +courses-textbooks
+- maitre_*_developpement_fr (1) Développement du vivant  +courses-textbooks
+- maitre_*_dictees_de_nombres_fr (1) Dictées de Nombres  +courses-textbooks
+- maitre_*_dictees_fr (1) Maître Lucas: Dictées  +courses-textbooks
+- maitre_*_divisions_fr (1) Maître Lucas: Divisions  +courses-textbooks
+- maitre_*_double_et_moitie_fr (1) Maître Lucas: Double et Moitié  +courses-textbooks
+- maitre_*_ecriture_fr (1) Maître Lucas: Ecriture  +courses-textbooks
+- maitre_*_enigmes_fr (1) Maître Lucas: Énigmes  +courses-textbooks
+- maitre_*_enseignement_civique_fr (1) Enseignement civique et moral  +courses-textbooks
+- maitre_*_espace_geometrie_fr (1) Espace et Géométrie  +courses-textbooks
+- maitre_*_fractions_fr (1) Maître Lucas: Fractions  +courses-textbooks
+- maitre_*_grammaire_fr (1) Maître Lucas: Grammaire  +courses-textbooks
+- maitre_*_grandeur_et_mesures_fr (1) Grandeur et Mesures  +courses-textbooks
+- maitre_*_labyrinthe_de_calculs_fr (1) Labyrinthe de Calculs  +courses-textbooks
+- maitre_*_lecture_fr (1) Maître Lucas: Lecture  +courses-textbooks
+- maitre_*_planete_terre_fr (1) Planète Terre et Environnement  +courses-textbooks
+- media-eleda.ouvaton.org_*_offline (1) Eleda  +courses-textbooks
+- moldova-ministry-education_*_clasa1 (1) Manual pentru Clasa I  +courses-textbooks
+- moldova-ministry-education_*_clasa2 (1) Manual pentru Clasa II-a  +courses-textbooks
+- moldova-ministry-education_*_clasa3 (1) Manual pentru Clasa III-a  +courses-textbooks
+- moldova-ministry-education_*_clasa4 (1) Manual pentru Clasa IV-a  +courses-textbooks
 - plume-app.co_*_all (1) Le Dojo de Plume  +languages-dictionaries
 - prunelle_*_auteurs-en-herbe (1) Auteurs en herbe (Prunelle)  +books-literature
 - prunelle_*_budding-authors (1) Budding authors  +books-literature
@@ -58,11 +58,11 @@
 - prunelle_*_interactive-books (1) Prunelle books  +books-literature
 - prunelle_*_livres-interactifs (1) Livres interactifs (Prunelle)  +books-literature
 - slam-out-loud_*_all (1) Slam Out Loud  +arts-music-film
-- ubongo_*_all (2) Ubongo Français  +school-courses
+- ubongo_*_all (2) Ubongo Français  +courses-textbooks
 - vikidia_*_all (9) Vikidia  +encyclopedias-general-reference
 - voa_*_all (7) ከአና ጋር እንግሊዝኛ ይማሩ!  +languages-dictionaries
 - wikipedia_*_for_schools (1) ويكيبيديا للمدارس - العربية  +encyclopedias-general-reference
-- youscribe_*_primaire (1) Ressources éducatives primaire  +school-courses
+- youscribe_*_primaire (1) Ressources éducatives primaire  +courses-textbooks
 - zaya-english-duniya-marathi_mr (1) English Duniya - Marathi  +languages-dictionaries
 
 ## Encyclopedias & General Reference `encyclopedias-general-reference` (28 families)
@@ -102,7 +102,7 @@
 - ell.stackexchange.com_*_all (1) English Language Learners Q&A
 - english.stackexchange.com_*_all (1) English Language & Usage Q&A
 - esperanto.stackexchange.com_*_all (1) Esperanto Language Q&A
-- francais-avec-pierre_*_all (1) La grammaire française  +school-courses
+- francais-avec-pierre_*_all (1) La grammaire française  +courses-textbooks
 - french.stackexchange.com_*_all (1) French Language Q&A
 - german.stackexchange.com_*_all (1) German Language Q&A
 - italian.stackexchange.com_*_all (1) Italian Language Q&A
@@ -111,7 +111,7 @@
 - languagelearning.stackexchange.com_*_all (1) Language Learning Q&A
 - latin.stackexchange.com_*_all (1) Latin Language Q&A
 - linguistics.stackexchange.com_*_all (1) Linguistics Q&A
-- madrasa_*_arabic (1) مدرسة - مجموعة اللغة العربية  +school-courses
+- madrasa_*_arabic (1) مدرسة - مجموعة اللغة العربية  +courses-textbooks
 - plume-app.co_*_all (1) Le Dojo de Plume  +for-children
 - portuguese.stackexchange.com_*_all (1) Portuguese Language Q&A
 - rus.stackexchange.com_*_all (1) Русский язык
@@ -119,10 +119,10 @@
 - shamela.ws_*_al-balagha (1) البلاغة؛ المجموعة رقم 35  +religion-philosophy
 - shamela.ws_*_al-lugha (1) اللغة؛ المجموعة رقم 29  +religion-philosophy
 - spanish.stackexchange.com_*_all (1) Spanish Language Q&A
-- test-delf-dalf_*_all (1) Français langue étrangère  +school-courses
+- test-delf-dalf_*_all (1) Français langue étrangère  +courses-textbooks
 - ukrainian.stackexchange.com_*_all (1) Ukrainian Language Q&A
 - voa_*_all (7) ከአና ጋር እንግሊዝኛ ይማሩ!  +for-children
-- voa_*_en_all (1) VOA Learning  +school-courses
+- voa_*_en_all (1) VOA Learning  +courses-textbooks
 - wiktionary_*_all (146) Wiktionary
 - zaya-english-duniya-marathi_mr (1) English Duniya - Marathi  +for-children
 
@@ -146,7 +146,7 @@
 - gutenberg_*_lcc-h (1) Project Gutenberg Library  +society-politics-economy
 - gutenberg_*_lcc-j (1) Project Gutenberg Library  +society-politics-economy
 - gutenberg_*_lcc-k (1) Project Gutenberg Library  +society-politics-economy
-- gutenberg_*_lcc-l (1) Project Gutenberg Library  +school-courses
+- gutenberg_*_lcc-l (1) Project Gutenberg Library  +courses-textbooks
 - gutenberg_*_lcc-m (1) Project Gutenberg Library  +arts-music-film
 - gutenberg_*_lcc-n (1) Project Gutenberg Library  +arts-music-film
 - gutenberg_*_lcc-p (1) Project Gutenberg Library
@@ -191,7 +191,7 @@
 - wikisource_*_all (66) ويكي مصدر
 - writing.stackexchange.com_*_all (1) Writing Q&A
 
-## School & Courses `school-courses` (205 families)
+## Courses & Textbooks `courses-textbooks` (205 families)
 - academia.stackexchange.com_*_all (1) Academia Q&A
 - artofproblemsolving_*_all (1) Art of Problem Solving  +science-mathematics
 - avanti_*_3dimensional-geometry (1) M26 3 Dimensional Geometry  +science-mathematics
@@ -400,97 +400,97 @@
 
 ## Science & Mathematics `science-mathematics` (263 families)
 - apod.nasa.gov_*_all (1) Astronomy Picture of the Day
-- artofproblemsolving_*_all (1) Art of Problem Solving  +school-courses
+- artofproblemsolving_*_all (1) Art of Problem Solving  +courses-textbooks
 - astrolabe_*_all (1) Astrolabe
 - astronomy.stackexchange.com_*_all (1) Astronomy Q&A
-- avanti_*_3dimensional-geometry (1) M26 3 Dimensional Geometry  +school-courses
-- avanti_*_ac-circuits (1) P21 AC Circuits  +school-courses
-- avanti_*_alcohol-phenol-ether (1) C25 Alcohol, Phenol & Ether  +school-courses
-- avanti_*_alkyhalide (1) C24 Alkyhalide  +school-courses
-- avanti_*_amines (1) C28 Amines  +school-courses
-- avanti_*_atomic-structure (1) C2 Atomic Structure  +school-courses
-- avanti_*_binomial-theorem (1) M9 Binomial Theorem  +school-courses
-- avanti_*_biomolecules (1) C29 Chemistry in Everyday  +school-courses
-- avanti_*_capacitors (1) P16 Capacitors  +school-courses
-- avanti_*_carbonyl-compounds (1) C26 Carbonyl Compounds  +school-courses
-- avanti_*_carborylic-acid (1) C27 Carborylic Acid  +school-courses
-- avanti_*_chemical-bonding (1) C4 Chemical Bonding  +school-courses
-- avanti_*_chemical-equilibrium (1) C7 Chemical Equilibrium  +school-courses
-- avanti_*_chemical-kinetics (1) C18 Chemical Kinetics  +school-courses
-- avanti_*_complex-numbers (1) M7 Complex Numbers  +school-courses
-- avanti_*_concepts-of-chemistry (1) C1 Basic Chemistry Concepts  +school-courses
-- avanti_*_conics1 (1) M13 Conic Sections - I  +school-courses
-- avanti_*_conics2 (1) M14 Conic Sections - II  +school-courses
-- avanti_*_continuity (1) M20 Continuity Differentiat.  +school-courses
-- avanti_*_coordination-compounds (1) C23 Coordination Compounds  +school-courses
-- avanti_*_current-electricity (1) P17 Current Electricity  +school-courses
-- avanti_*_definite-integration (1) M23 Definite Integration  +school-courses
-- avanti_*_df-blocks-elements (1) C22 d and f- block Elements  +school-courses
-- avanti_*_differential-equations (1) M24 Differential Equations  +school-courses
-- avanti_*_dynamics-of-motion (1) P5 Law of Motion  +school-courses
-- avanti_*_electrochemistry (1) C17 Electrochemistry  +school-courses
-- avanti_*_electromagnetic-induction (1) P20 Electromagnetic Induction  +school-courses
-- avanti_*_electromagnetic-waves (1) P26 Electromagnetic Waves  +school-courses
-- avanti_*_electrostatic (1) P15 Electrostatics  +school-courses
-- avanti_*_environmental-chemistry (1) C30 Environmental Chemistry  +school-courses
-- avanti_*_functions2 (1) M17 Relations and Functions  +school-courses
-- avanti_*_fundamentals-of-mathematics (1) M1 Fundamentals of Mathematics  +school-courses
-- avanti_*_goc (1) C13 GOC  +school-courses
-- avanti_*_gravitation (1) P8 Gravitation  +school-courses
-- avanti_*_hydrocarbons (1) C14 Hydrocarbons  +school-courses
-- avanti_*_hydrogen (1) C10 Hydrogen  +school-courses
-- avanti_*_indefinite-integration (1) M22 Integrals  +school-courses
-- avanti_*_inequalities (1) M5 Linear Inequalities  +school-courses
-- avanti_*_inverse-trigonometry (1) M18 Inverse Trigonometry  +school-courses
-- avanti_*_ionic-equilibrium (1) C8 Ionic Equilibrium  +school-courses
-- avanti_*_limit (1) M11 Limits  +school-courses
-- avanti_*_magnetic-effect (1) P18 Magnetic Effects  +school-courses
-- avanti_*_magnetism-matter (1) P19 Magnetism and Matter  +school-courses
-- avanti_*_mathematical-induction (1) M4 Mathematical Induction  +school-courses
-- avanti_*_mathematical-reasoning (1) M15 Mathematical Reasoning  +school-courses
-- avanti_*_matrices-determinants (1) M19 Matrices and Determinants  +school-courses
-- avanti_*_metallurgy (1) C20 Metallurgy  +school-courses
-- avanti_*_modern-physics (1) P24 Modern Physics  +school-courses
-- avanti_*_motion-in-2d (1) P4 Motion in a Plane  +school-courses
-- avanti_*_motion-in-straight-line (1) P2 Motion in a Straight Line  +school-courses
-- avanti_*_oscillations (1) P13 Oscillations  +school-courses
-- avanti_*_p-block-elements (1) C12 P - Block Elements  +school-courses
-- avanti_*_p-blocks-elements2 (1) C21 P Block Elements II  +school-courses
-- avanti_*_periodic-properties (1) C3 Periodic Classification  +school-courses
-- avanti_*_permutations (1) M8 Permutations Combinations  +school-courses
-- avanti_*_probability (1) M27 Probability  +school-courses
-- avanti_*_properties-of-fluids (1) P10 Fluid Mechanical  +school-courses
-- avanti_*_properties-of-solids (1) P9 Solids Mechanical  +school-courses
-- avanti_*_quadratic-equations (1) M6 Quadratic Equations  +school-courses
-- avanti_*_ray-optics (1) P22 Ray Optics  +school-courses
-- avanti_*_redox-reactions (1) C9 Redox Reactions  +school-courses
-- avanti_*_rotation (1) P7 System of Particles  +school-courses
-- avanti_*_s-block-elements (1) C11 S - Block Elements  +school-courses
-- avanti_*_semiconductor-electronics (1) P25 Semiconductor Electronics  +school-courses
-- avanti_*_sequence-series (1) M10 Sequences and Series  +school-courses
-- avanti_*_sets-functions (1) M2 Sets, Relations, Functions  +school-courses
-- avanti_*_solid-state (1) C15 Solid State  +school-courses
-- avanti_*_solutions (1) C16 Solutions  +school-courses
-- avanti_*_states-of-matter (1) C5 States of Matter  +school-courses
-- avanti_*_statistics (1) M16 Statistics  +school-courses
-- avanti_*_straight-lines (1) M12 Straight Lines  +school-courses
-- avanti_*_surface-chemistry (1) C19 Surface Chemistry  +school-courses
-- avanti_*_thermal-properties (1) P11 Matter Thermal Properties  +school-courses
-- avanti_*_thermodynamics (1) C3 Periodic Classification  +school-courses
-- avanti_*_thermodynamics-and-kinetic-theory (1) P12 Theory of Gases  +school-courses
-- avanti_*_trigonometry (1) M3 Trigonometric Functions  +school-courses
-- avanti_*_units-and-measurements (1) P1 Units and Measurement  +school-courses
-- avanti_*_vector-algebra (1) M25 Vector Algebra  +school-courses
-- avanti_*_vector-and-calculus (1) P3 Vectors Calculus  +school-courses
-- avanti_*_wave-optics (1) P23 Wave Optics  +school-courses
-- avanti_*_waves (1) P14 Waves  +school-courses
-- avanti_*_work-power-energy (1) P6 Work Energy and Power  +school-courses
+- avanti_*_3dimensional-geometry (1) M26 3 Dimensional Geometry  +courses-textbooks
+- avanti_*_ac-circuits (1) P21 AC Circuits  +courses-textbooks
+- avanti_*_alcohol-phenol-ether (1) C25 Alcohol, Phenol & Ether  +courses-textbooks
+- avanti_*_alkyhalide (1) C24 Alkyhalide  +courses-textbooks
+- avanti_*_amines (1) C28 Amines  +courses-textbooks
+- avanti_*_atomic-structure (1) C2 Atomic Structure  +courses-textbooks
+- avanti_*_binomial-theorem (1) M9 Binomial Theorem  +courses-textbooks
+- avanti_*_biomolecules (1) C29 Chemistry in Everyday  +courses-textbooks
+- avanti_*_capacitors (1) P16 Capacitors  +courses-textbooks
+- avanti_*_carbonyl-compounds (1) C26 Carbonyl Compounds  +courses-textbooks
+- avanti_*_carborylic-acid (1) C27 Carborylic Acid  +courses-textbooks
+- avanti_*_chemical-bonding (1) C4 Chemical Bonding  +courses-textbooks
+- avanti_*_chemical-equilibrium (1) C7 Chemical Equilibrium  +courses-textbooks
+- avanti_*_chemical-kinetics (1) C18 Chemical Kinetics  +courses-textbooks
+- avanti_*_complex-numbers (1) M7 Complex Numbers  +courses-textbooks
+- avanti_*_concepts-of-chemistry (1) C1 Basic Chemistry Concepts  +courses-textbooks
+- avanti_*_conics1 (1) M13 Conic Sections - I  +courses-textbooks
+- avanti_*_conics2 (1) M14 Conic Sections - II  +courses-textbooks
+- avanti_*_continuity (1) M20 Continuity Differentiat.  +courses-textbooks
+- avanti_*_coordination-compounds (1) C23 Coordination Compounds  +courses-textbooks
+- avanti_*_current-electricity (1) P17 Current Electricity  +courses-textbooks
+- avanti_*_definite-integration (1) M23 Definite Integration  +courses-textbooks
+- avanti_*_df-blocks-elements (1) C22 d and f- block Elements  +courses-textbooks
+- avanti_*_differential-equations (1) M24 Differential Equations  +courses-textbooks
+- avanti_*_dynamics-of-motion (1) P5 Law of Motion  +courses-textbooks
+- avanti_*_electrochemistry (1) C17 Electrochemistry  +courses-textbooks
+- avanti_*_electromagnetic-induction (1) P20 Electromagnetic Induction  +courses-textbooks
+- avanti_*_electromagnetic-waves (1) P26 Electromagnetic Waves  +courses-textbooks
+- avanti_*_electrostatic (1) P15 Electrostatics  +courses-textbooks
+- avanti_*_environmental-chemistry (1) C30 Environmental Chemistry  +courses-textbooks
+- avanti_*_functions2 (1) M17 Relations and Functions  +courses-textbooks
+- avanti_*_fundamentals-of-mathematics (1) M1 Fundamentals of Mathematics  +courses-textbooks
+- avanti_*_goc (1) C13 GOC  +courses-textbooks
+- avanti_*_gravitation (1) P8 Gravitation  +courses-textbooks
+- avanti_*_hydrocarbons (1) C14 Hydrocarbons  +courses-textbooks
+- avanti_*_hydrogen (1) C10 Hydrogen  +courses-textbooks
+- avanti_*_indefinite-integration (1) M22 Integrals  +courses-textbooks
+- avanti_*_inequalities (1) M5 Linear Inequalities  +courses-textbooks
+- avanti_*_inverse-trigonometry (1) M18 Inverse Trigonometry  +courses-textbooks
+- avanti_*_ionic-equilibrium (1) C8 Ionic Equilibrium  +courses-textbooks
+- avanti_*_limit (1) M11 Limits  +courses-textbooks
+- avanti_*_magnetic-effect (1) P18 Magnetic Effects  +courses-textbooks
+- avanti_*_magnetism-matter (1) P19 Magnetism and Matter  +courses-textbooks
+- avanti_*_mathematical-induction (1) M4 Mathematical Induction  +courses-textbooks
+- avanti_*_mathematical-reasoning (1) M15 Mathematical Reasoning  +courses-textbooks
+- avanti_*_matrices-determinants (1) M19 Matrices and Determinants  +courses-textbooks
+- avanti_*_metallurgy (1) C20 Metallurgy  +courses-textbooks
+- avanti_*_modern-physics (1) P24 Modern Physics  +courses-textbooks
+- avanti_*_motion-in-2d (1) P4 Motion in a Plane  +courses-textbooks
+- avanti_*_motion-in-straight-line (1) P2 Motion in a Straight Line  +courses-textbooks
+- avanti_*_oscillations (1) P13 Oscillations  +courses-textbooks
+- avanti_*_p-block-elements (1) C12 P - Block Elements  +courses-textbooks
+- avanti_*_p-blocks-elements2 (1) C21 P Block Elements II  +courses-textbooks
+- avanti_*_periodic-properties (1) C3 Periodic Classification  +courses-textbooks
+- avanti_*_permutations (1) M8 Permutations Combinations  +courses-textbooks
+- avanti_*_probability (1) M27 Probability  +courses-textbooks
+- avanti_*_properties-of-fluids (1) P10 Fluid Mechanical  +courses-textbooks
+- avanti_*_properties-of-solids (1) P9 Solids Mechanical  +courses-textbooks
+- avanti_*_quadratic-equations (1) M6 Quadratic Equations  +courses-textbooks
+- avanti_*_ray-optics (1) P22 Ray Optics  +courses-textbooks
+- avanti_*_redox-reactions (1) C9 Redox Reactions  +courses-textbooks
+- avanti_*_rotation (1) P7 System of Particles  +courses-textbooks
+- avanti_*_s-block-elements (1) C11 S - Block Elements  +courses-textbooks
+- avanti_*_semiconductor-electronics (1) P25 Semiconductor Electronics  +courses-textbooks
+- avanti_*_sequence-series (1) M10 Sequences and Series  +courses-textbooks
+- avanti_*_sets-functions (1) M2 Sets, Relations, Functions  +courses-textbooks
+- avanti_*_solid-state (1) C15 Solid State  +courses-textbooks
+- avanti_*_solutions (1) C16 Solutions  +courses-textbooks
+- avanti_*_states-of-matter (1) C5 States of Matter  +courses-textbooks
+- avanti_*_statistics (1) M16 Statistics  +courses-textbooks
+- avanti_*_straight-lines (1) M12 Straight Lines  +courses-textbooks
+- avanti_*_surface-chemistry (1) C19 Surface Chemistry  +courses-textbooks
+- avanti_*_thermal-properties (1) P11 Matter Thermal Properties  +courses-textbooks
+- avanti_*_thermodynamics (1) C3 Periodic Classification  +courses-textbooks
+- avanti_*_thermodynamics-and-kinetic-theory (1) P12 Theory of Gases  +courses-textbooks
+- avanti_*_trigonometry (1) M3 Trigonometric Functions  +courses-textbooks
+- avanti_*_units-and-measurements (1) P1 Units and Measurement  +courses-textbooks
+- avanti_*_vector-algebra (1) M25 Vector Algebra  +courses-textbooks
+- avanti_*_vector-and-calculus (1) P3 Vectors Calculus  +courses-textbooks
+- avanti_*_wave-optics (1) P23 Wave Optics  +courses-textbooks
+- avanti_*_waves (1) P14 Waves  +courses-textbooks
+- avanti_*_work-power-energy (1) P6 Work Energy and Power  +courses-textbooks
 - bibnum_*_all (1) BibNum
 - bioacoustics.stackexchange.com_*_all (1) Bioacoustics Q&A
 - bioinformatics.stackexchange.com_*_all (1) Bioinformatics Q&A
 - biologie-tout-compris_*_all (1) Tania Louis
 - biology.stackexchange.com_*_all (1) Biology Q&A
-- biologycourses_*_all (1) Biology Courses  +school-courses
+- biologycourses_*_all (1) Biology Courses  +courses-textbooks
 - cest-pas-sorcier_*_agronomie (1) Alimentation & Agronomie  +home-food-diy
 - cest-pas-sorcier_*_all (1) C'est pas sorcier
 - cest-pas-sorcier_*_astronomie (1) Espace & Astronomie
@@ -508,38 +508,38 @@
 - e-penser_*_all (1) e-penser 2.0
 - earthscience.stackexchange.com_*_all (1) Earth Science Q&A
 - encyclopedie-environnement.org_*_all (1) Environment Encyclopedia
-- ethanweed_*_all (1) Learning statistics - Python  +school-courses
+- ethanweed_*_all (1) Learning statistics - Python  +courses-textbooks
 - genomicseducation_*_all (1) Genomics Education Programme
 - gutenberg_*_lcc-q (1) Project Gutenberg Library  +books-literature
 - gutenberg_*_lcc-t (1) Project Gutenberg Library  +books-literature
 - hsm.stackexchange.com_*_all (1) Science and Maths History Q&A
-- la-chaine-de-maths-et-tiques_*_all (1) Maths et tiques  +school-courses
-- learningstatistics_*_all (1) Learning Statistics - CogStat  +school-courses
-- learningstatisticswithr.com_*_all (1) Learning Statistics with R  +school-courses
-- libretexts.org_*_bio (1) Biology LibreTexts  +school-courses
-- libretexts.org_*_chem (1) Chemistry LibreTexts  +school-courses
-- libretexts.org_*_eng (1) Engineering LibreTexts  +school-courses
-- libretexts.org_*_geo (1) Geosciences LibreTexts  +school-courses
-- libretexts.org_*_math (1) Mathematics LibreTexts  +school-courses
-- libretexts.org_*_phys (1) Physics LibreTexts  +school-courses
-- libretexts.org_*_stats (1) Statistics LibreTexts  +school-courses
+- la-chaine-de-maths-et-tiques_*_all (1) Maths et tiques  +courses-textbooks
+- learningstatistics_*_all (1) Learning Statistics - CogStat  +courses-textbooks
+- learningstatisticswithr.com_*_all (1) Learning Statistics with R  +courses-textbooks
+- libretexts.org_*_bio (1) Biology LibreTexts  +courses-textbooks
+- libretexts.org_*_chem (1) Chemistry LibreTexts  +courses-textbooks
+- libretexts.org_*_eng (1) Engineering LibreTexts  +courses-textbooks
+- libretexts.org_*_geo (1) Geosciences LibreTexts  +courses-textbooks
+- libretexts.org_*_math (1) Mathematics LibreTexts  +courses-textbooks
+- libretexts.org_*_phys (1) Physics LibreTexts  +courses-textbooks
+- libretexts.org_*_stats (1) Statistics LibreTexts  +courses-textbooks
 - lost-stats.github.io_*_all (1) Statistical techniques Library
-- madrasa_*_astronomy (1) مدرسة - مجموعة علم الفلك  +school-courses
-- madrasa_*_biology (1) مدرسة - مجموعة علم الأحياء  +school-courses
-- madrasa_*_chemistry (1) مدرسة - مجموعة الكيمياء  +school-courses
-- madrasa_*_electeng (1) مدرسة - الهندسة الكهربائية  +school-courses
-- madrasa_*_gasinteraction (1) مدرسة - مجموعة تفاعل الغازات  +school-courses
-- madrasa_*_magnets (1) مدرسة - القوى المغناطيسية  +school-courses
-- madrasa_*_math (1) مدرسة - مجموعة الرياضيات  +school-courses
-- madrasa_*_physics (1) مدرسة - مجموعة الفيزياء  +school-courses
+- madrasa_*_astronomy (1) مدرسة - مجموعة علم الفلك  +courses-textbooks
+- madrasa_*_biology (1) مدرسة - مجموعة علم الأحياء  +courses-textbooks
+- madrasa_*_chemistry (1) مدرسة - مجموعة الكيمياء  +courses-textbooks
+- madrasa_*_electeng (1) مدرسة - الهندسة الكهربائية  +courses-textbooks
+- madrasa_*_gasinteraction (1) مدرسة - مجموعة تفاعل الغازات  +courses-textbooks
+- madrasa_*_magnets (1) مدرسة - القوى المغناطيسية  +courses-textbooks
+- madrasa_*_math (1) مدرسة - مجموعة الرياضيات  +courses-textbooks
+- madrasa_*_physics (1) مدرسة - مجموعة الفيزياء  +courses-textbooks
 - madrasa_*_scientists (1) مدرسة - مجموعة علماء العرب  +history
 - math.stackexchange.com_*_all (1) Mathematics Q&A
 - mathoverflow.net_*_all (1) MathOverflow
 - matrix67.com_*_blog (1) Matrix67 Blog
 - mattermodeling.stackexchange.com_*_all (1) Matter Modeling Q&A
 - micmaths_*_all (1) Mic Maths
-- mooc-energie-climat_*_all (1) Le MOOC Energie et Climat  +school-courses
-- mspeekenbrink_*_all (1) Data Analysis and Modelling  +school-courses
+- mooc-energie-climat_*_all (1) Le MOOC Energie et Climat  +courses-textbooks
+- mspeekenbrink_*_all (1) Data Analysis and Modelling  +courses-textbooks
 - ncase.me_*_all (1) Nicky Case
 - or.stackexchange.com_*_all (1) Operations Research Q&A
 - phet_*_all (114) PhET Interactive Simulations
@@ -944,11 +944,11 @@
 - es.stackoverflow.com_*_all (1) Stack Overflow en español
 - ethereum.stackexchange.com_*_all (1) Ethereum Q&A
 - expressionengine.stackexchange.com_*_all (1) ExpressionEngine® Q&A
-- freecodecamp_*_all (10) FreeCodeCamp  +school-courses
-- freecodecamp_*_coding-interview-prep (8) FreeCodeCamp Interview Prep  +school-courses
-- freecodecamp_*_javascript-algorithms-and-data-structures (9) FreeCodeCamp JavaScript  +school-courses
-- freecodecamp_*_project-euler (8) Project Euler  +school-courses
-- freecodecamp_*_rosetta-code (10) Rosetta-Code  +school-courses
+- freecodecamp_*_all (10) FreeCodeCamp  +courses-textbooks
+- freecodecamp_*_coding-interview-prep (8) FreeCodeCamp Interview Prep  +courses-textbooks
+- freecodecamp_*_javascript-algorithms-and-data-structures (9) FreeCodeCamp JavaScript  +courses-textbooks
+- freecodecamp_*_project-euler (8) Project Euler  +courses-textbooks
+- freecodecamp_*_rosetta-code (10) Rosetta-Code  +courses-textbooks
 - gamedev.stackexchange.com_*_all (1) Game Development Q&A
 - genai.stackexchange.com_*_all (1) GenAI Q&A
 - gentoo_*_all (1) Gentoo Wiki
@@ -957,13 +957,13 @@
 - gobyexample.com_*_all (1) Go by example
 - ham.stackexchange.com_*_all (1) Amateur Radio Q&A
 - hardwarerecs.stackexchange.com_*_all (1) Hardware Recommendations Q&A
-- htdp.org_*_all (1) How to Design Programs  +school-courses
+- htdp.org_*_all (1) How to Design Programs  +courses-textbooks
 - incognitocat.me_*_all (1) Incognito cat  +survival-preparedness
 - installgentoo_*_all (1) InstallGentoo Wiki
 - iot.stackexchange.com_*_all (1) Internet of Things Q&A
 - iota.stackexchange.com_*_all (1) Iota Q&A
 - ja.stackoverflow.com_*_all (1) スタック・オーバーフロー
-- jeffe.cs.illinois.edu_*_all (1) Algorithms  +school-courses
+- jeffe.cs.illinois.edu_*_all (1) Algorithms  +courses-textbooks
 - joomla.stackexchange.com_*_all (1) Joomla Q&A
 - kris-occhipinti_*_all (1) Kris Occhipinti
 - langdev.stackexchange.com_*_all (1) Programming Language Design
@@ -978,7 +978,7 @@
 - networkengineering.stackexchange.com_*_all (1) Network Engineering Q&A
 - noted.lol_*_all (1) Noted.lol
 - opendata.stackexchange.com_*_all (1) Open Data Q&A
-- opendatastructures.org_*_all (1) Open Data Structures  +school-courses
+- opendatastructures.org_*_all (1) Open Data Structures  +courses-textbooks
 - opensource.stackexchange.com_*_all (1) Open Source Q&A
 - openwrt.org_*_all (1) OpenWRT
 - openzim_*_all (1) OpenZim Wiki
@@ -988,7 +988,7 @@
 - postmarketos_*_all (1) postmarketOS
 - privacydefence.org_*_opsecbible (1) The OpSec Bible  +survival-preparedness
 - pt.stackoverflow.com_*_all (1) Stack Overflow em Português
-- python-class-vc_*_all (1) Python 程式設計的第一步  +school-courses
+- python-class-vc_*_all (1) Python 程式設計的第一步  +courses-textbooks
 - quantumcomputing.stackexchange.com_*_all (1) Quantum Computing Q&A
 - raspberrypi.stackexchange.com_*_all (1) Raspberry Pi Q&A
 - retrocomputing.stackexchange.com_*_all (1) Retrocomputing Q&A
@@ -1051,7 +1051,7 @@
 - tor.stackexchange.com_*_all (1) Tor Q&A
 - tridion.stackexchange.com_*_all (1) Tridion Q&A
 - ubuntuusers_*_all (1) Ubuntuusers Wiki
-- unine.ch_*_premiers-pas-avec-python (1) Premiers pas avec Python  +school-courses
+- unine.ch_*_premiers-pas-avec-python (1) Premiers pas avec Python  +courses-textbooks
 - unix.stackexchange.com_*_all (1) Unix & Linux Q&A
 - unrealircd_*_all (1) UnrealIRCd Docs
 - ux.stackexchange.com_*_all (1) User Experience Q&A
@@ -1073,7 +1073,7 @@
 - hygiene-mentale_*_all (1) Hygiène Mentale
 - irp.fas.org_*_military-medicine (1) Military Medicine  +survival-preparedness
 - librepathology_*_all (1) Libre Pathology
-- libretexts.org_*_med (1) Medicine LibreTexts  +school-courses
+- libretexts.org_*_med (1) Medicine LibreTexts  +courses-textbooks
 - mdwiki_*_all (1) MDWiki Medical Encyclopedia
 - medicalsciences.stackexchange.com_*_all (1) Medical Sciences Q&A
 - medlineplus.gov_*_all (2) MedlinePlus
@@ -1398,8 +1398,8 @@
 - iranwire-com_*_all (1) ایران وایر
 - law.stackexchange.com_*_all (1) Law Q&A
 - lgbtqia.wiki_*_all (1) LGBTQIA Wiki
-- libretexts.org_*_biz (1) Business LibreTexts  +school-courses
-- libretexts.org_*_socialsci (1) Social Sciences LibreTexts  +school-courses
+- libretexts.org_*_biz (1) Business LibreTexts  +courses-textbooks
+- libretexts.org_*_socialsci (1) Social Sciences LibreTexts  +courses-textbooks
 - marxists.org_*_all (2) Marxists.org
 - money.stackexchange.com_*_all (1) Personal Finance & Money Q&A
 - patents.stackexchange.com_*_all (1) Ask Patents
@@ -1565,7 +1565,7 @@
 - music.stackexchange.com_*_all (1) Music: Practice & Theory
 - musicfans.stackexchange.com_*_all (1) Music Fans Q&A
 - mutopiaproject.org_*_all (1) Mutopia Project
-- openmusictheory.com_*_all (1) Open Music Theory  +school-courses
+- openmusictheory.com_*_all (1) Open Music Theory  +courses-textbooks
 - partituras-gratis.es_*_all (1) Breizh partitions
 - photo.stackexchange.com_*_all (1) Photography Q&A
 - ragajunglism.org_*_all (1) RagaGunglism

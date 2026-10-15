@@ -12,7 +12,7 @@ def classify(name):
     if not c: return None
     k = famkey(name); tok = name.split('_')[0]
     extra = rules.ADD_FAMILY.get(k, []) + [x for x in rules.ADD_SITE.get(tok, [])
-             if not (x == 'school-courses' and k in rules.NO_EDU)]
+             if not (x == 'courses-textbooks' and k in rules.NO_EDU)]
     for x in extra:
         if x not in c: c.append(x)
     return rules.finalize(k, c)

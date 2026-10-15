@@ -1,7 +1,7 @@
 name,family,title,language,categories
 100r.co_en_all,100r.co_*_all,Hundred Rabbits,eng,survival-preparedness
 3dprinting.stackexchange.com_en_all,3dprinting.stackexchange.com_*_all,3D Printing Q&A,eng,computers-technology
-academia.stackexchange.com_en_all,academia.stackexchange.com_*_all,Academia Q&A,eng,school-courses
+academia.stackexchange.com_en_all,academia.stackexchange.com_*_all,Academia Q&A,eng,courses-textbooks
 africanstorybook.org_mul_all,africanstorybook.org_*_all,African Storybooks,mul,books-literature;for-children
 ai.stackexchange.com_en_all,ai.stackexchange.com_*_all,Artificial Intelligence Q&A,eng,computers-technology
 alcohol.stackexchange.com_en_all,alcohol.stackexchange.com_*_all,"Beer, Wine & Spirits Q&A",eng,home-food-diy
@@ -17,93 +17,93 @@ appropedia_en_all,appropedia_*_all,Appropedia,eng,home-food-diy
 archlinux_en_all,archlinux_*_all,ArchWiki,eng,computers-technology
 arduino.stackexchange.com_en_all,arduino.stackexchange.com_*_all,Arduino Q&A,eng,computers-technology
 armypubs_en_all,armypubs_*_all,Army Publishing Directorate,eng,society-politics-economy
-artofproblemsolving_en_all,artofproblemsolving_*_all,Art of Problem Solving,eng,science-mathematics;school-courses
+artofproblemsolving_en_all,artofproblemsolving_*_all,Art of Problem Solving,eng,science-mathematics;courses-textbooks
 askubuntu.com_en_all,askubuntu.com_*_all,Ask Ubuntu Q&A,eng,computers-technology
 astrolabe_fr_all,astrolabe_*_all,Astrolabe,fra,science-mathematics
 astronomy.stackexchange.com_en_all,astronomy.stackexchange.com_*_all,Astronomy Q&A,eng,science-mathematics
 athena_fr_all,athena_*_all,Athena,fra,books-literature
-avanti_hi_3dimensional-geometry,avanti_*_3dimensional-geometry,M26 3 Dimensional Geometry,hin,science-mathematics;school-courses
-avanti_hi_ac-circuits,avanti_*_ac-circuits,P21 AC Circuits,hin,science-mathematics;school-courses
-avanti_hi_alcohol-phenol-ether,avanti_*_alcohol-phenol-ether,"C25 Alcohol, Phenol & Ether",hin,science-mathematics;school-courses
-avanti_hi_alkyhalide,avanti_*_alkyhalide,C24 Alkyhalide,hin,science-mathematics;school-courses
-avanti_hi_amines,avanti_*_amines,C28 Amines,hin,science-mathematics;school-courses
-avanti_hi_atomic-structure,avanti_*_atomic-structure,C2 Atomic Structure,hin,science-mathematics;school-courses
-avanti_hi_binomial-theorem,avanti_*_binomial-theorem,M9 Binomial Theorem,hin,science-mathematics;school-courses
-avanti_hi_biomolecules,avanti_*_biomolecules,C29 Chemistry in Everyday,hin,science-mathematics;school-courses
-avanti_hi_capacitors,avanti_*_capacitors,P16 Capacitors,hin,science-mathematics;school-courses
-avanti_hi_carbonyl-compounds,avanti_*_carbonyl-compounds,C26 Carbonyl Compounds,hin,science-mathematics;school-courses
-avanti_hi_carborylic-acid,avanti_*_carborylic-acid,C27 Carborylic Acid,hin,science-mathematics;school-courses
-avanti_hi_chemical-bonding,avanti_*_chemical-bonding,C4 Chemical Bonding,hin,science-mathematics;school-courses
-avanti_hi_chemical-equilibrium,avanti_*_chemical-equilibrium,C7 Chemical Equilibrium,hin,science-mathematics;school-courses
-avanti_hi_chemical-kinetics,avanti_*_chemical-kinetics,C18 Chemical Kinetics,hin,science-mathematics;school-courses
-avanti_hi_complex-numbers,avanti_*_complex-numbers,M7 Complex Numbers,hin,science-mathematics;school-courses
-avanti_hi_concepts-of-chemistry,avanti_*_concepts-of-chemistry,C1 Basic Chemistry Concepts,hin,science-mathematics;school-courses
-avanti_hi_conics1,avanti_*_conics1,M13 Conic Sections - I,hin,science-mathematics;school-courses
-avanti_hi_conics2,avanti_*_conics2,M14 Conic Sections - II,hin,science-mathematics;school-courses
-avanti_hi_continuity,avanti_*_continuity,M20 Continuity Differentiat.,hin,science-mathematics;school-courses
-avanti_hi_coordination-compounds,avanti_*_coordination-compounds,C23 Coordination Compounds,hin,science-mathematics;school-courses
-avanti_hi_current-electricity,avanti_*_current-electricity,P17 Current Electricity,hin,science-mathematics;school-courses
-avanti_hi_definite-integration,avanti_*_definite-integration,M23 Definite Integration,hin,science-mathematics;school-courses
-avanti_hi_df-blocks-elements,avanti_*_df-blocks-elements,C22 d and f- block Elements,hin,science-mathematics;school-courses
-avanti_hi_differential-equations,avanti_*_differential-equations,M24 Differential Equations,hin,science-mathematics;school-courses
-avanti_hi_dynamics-of-motion,avanti_*_dynamics-of-motion,P5 Law of Motion,hin,science-mathematics;school-courses
-avanti_hi_electrochemistry,avanti_*_electrochemistry,C17 Electrochemistry,hin,science-mathematics;school-courses
-avanti_hi_electromagnetic-induction,avanti_*_electromagnetic-induction,P20 Electromagnetic Induction,hin,science-mathematics;school-courses
-avanti_hi_electromagnetic-waves,avanti_*_electromagnetic-waves,P26 Electromagnetic Waves,hin,science-mathematics;school-courses
-avanti_hi_electrostatic,avanti_*_electrostatic,P15 Electrostatics,hin,science-mathematics;school-courses
-avanti_hi_environmental-chemistry,avanti_*_environmental-chemistry,C30 Environmental Chemistry,hin,science-mathematics;school-courses
-avanti_hi_functions2,avanti_*_functions2,M17 Relations and Functions,hin,science-mathematics;school-courses
-avanti_hi_fundamentals-of-mathematics,avanti_*_fundamentals-of-mathematics,M1 Fundamentals of Mathematics,hin,science-mathematics;school-courses
-avanti_hi_goc,avanti_*_goc,C13 GOC,hin,science-mathematics;school-courses
-avanti_hi_gravitation,avanti_*_gravitation,P8 Gravitation,hin,science-mathematics;school-courses
-avanti_hi_hydrocarbons,avanti_*_hydrocarbons,C14 Hydrocarbons,hin,science-mathematics;school-courses
-avanti_hi_hydrogen,avanti_*_hydrogen,C10 Hydrogen,hin,science-mathematics;school-courses
-avanti_hi_indefinite-integration,avanti_*_indefinite-integration,M22 Integrals,hin,science-mathematics;school-courses
-avanti_hi_inequalities,avanti_*_inequalities,M5 Linear Inequalities,hin,science-mathematics;school-courses
-avanti_hi_inverse-trigonometry,avanti_*_inverse-trigonometry,M18 Inverse Trigonometry,hin,science-mathematics;school-courses
-avanti_hi_ionic-equilibrium,avanti_*_ionic-equilibrium,C8 Ionic Equilibrium,hin,science-mathematics;school-courses
-avanti_hi_limit,avanti_*_limit,M11 Limits,hin,science-mathematics;school-courses
-avanti_hi_magnetic-effect,avanti_*_magnetic-effect,P18 Magnetic Effects,hin,science-mathematics;school-courses
-avanti_hi_magnetism-matter,avanti_*_magnetism-matter,P19 Magnetism and Matter,hin,science-mathematics;school-courses
-avanti_hi_mathematical-induction,avanti_*_mathematical-induction,M4 Mathematical Induction,hin,science-mathematics;school-courses
-avanti_hi_mathematical-reasoning,avanti_*_mathematical-reasoning,M15 Mathematical Reasoning,hin,science-mathematics;school-courses
-avanti_hi_matrices-determinants,avanti_*_matrices-determinants,M19 Matrices and Determinants,hin,science-mathematics;school-courses
-avanti_hi_metallurgy,avanti_*_metallurgy,C20 Metallurgy,hin,science-mathematics;school-courses
-avanti_hi_modern-physics,avanti_*_modern-physics,P24 Modern Physics,hin,science-mathematics;school-courses
-avanti_hi_motion-in-2d,avanti_*_motion-in-2d,P4 Motion in a Plane,hin,science-mathematics;school-courses
-avanti_hi_motion-in-straight-line,avanti_*_motion-in-straight-line,P2 Motion in a Straight Line,hin,science-mathematics;school-courses
-avanti_hi_oscillations,avanti_*_oscillations,P13 Oscillations,hin,science-mathematics;school-courses
-avanti_hi_p-block-elements,avanti_*_p-block-elements,C12 P - Block Elements,hin,science-mathematics;school-courses
-avanti_hi_p-blocks-elements2,avanti_*_p-blocks-elements2,C21 P Block Elements II,hin,science-mathematics;school-courses
-avanti_hi_periodic-properties,avanti_*_periodic-properties,C3 Periodic Classification,hin,science-mathematics;school-courses
-avanti_hi_permutations,avanti_*_permutations,M8 Permutations Combinations,hin,science-mathematics;school-courses
-avanti_hi_probability,avanti_*_probability,M27 Probability,hin,science-mathematics;school-courses
-avanti_hi_properties-of-fluids,avanti_*_properties-of-fluids,P10 Fluid Mechanical,hin,science-mathematics;school-courses
-avanti_hi_properties-of-solids,avanti_*_properties-of-solids,P9 Solids Mechanical,hin,science-mathematics;school-courses
-avanti_hi_quadratic-equations,avanti_*_quadratic-equations,M6 Quadratic Equations,hin,science-mathematics;school-courses
-avanti_hi_ray-optics,avanti_*_ray-optics,P22 Ray Optics,hin,science-mathematics;school-courses
-avanti_hi_redox-reactions,avanti_*_redox-reactions,C9 Redox Reactions,hin,science-mathematics;school-courses
-avanti_hi_rotation,avanti_*_rotation,P7 System of Particles,hin,science-mathematics;school-courses
-avanti_hi_s-block-elements,avanti_*_s-block-elements,C11 S - Block Elements,hin,science-mathematics;school-courses
-avanti_hi_semiconductor-electronics,avanti_*_semiconductor-electronics,P25 Semiconductor Electronics,hin,science-mathematics;school-courses
-avanti_hi_sequence-series,avanti_*_sequence-series,M10 Sequences and Series,hin,science-mathematics;school-courses
-avanti_hi_sets-functions,avanti_*_sets-functions,"M2 Sets, Relations, Functions",hin,science-mathematics;school-courses
-avanti_hi_solid-state,avanti_*_solid-state,C15 Solid State,hin,science-mathematics;school-courses
-avanti_hi_solutions,avanti_*_solutions,C16 Solutions,hin,science-mathematics;school-courses
-avanti_hi_states-of-matter,avanti_*_states-of-matter,C5 States of Matter,hin,science-mathematics;school-courses
-avanti_hi_statistics,avanti_*_statistics,M16 Statistics,hin,science-mathematics;school-courses
-avanti_hi_straight-lines,avanti_*_straight-lines,M12 Straight Lines,hin,science-mathematics;school-courses
-avanti_hi_surface-chemistry,avanti_*_surface-chemistry,C19 Surface Chemistry,hin,science-mathematics;school-courses
-avanti_hi_thermal-properties,avanti_*_thermal-properties,P11 Matter Thermal Properties,hin,science-mathematics;school-courses
-avanti_hi_thermodynamics,avanti_*_thermodynamics,C3 Periodic Classification,hin,science-mathematics;school-courses
-avanti_hi_thermodynamics-and-kinetic-theory,avanti_*_thermodynamics-and-kinetic-theory,P12 Theory of Gases,hin,science-mathematics;school-courses
-avanti_hi_trigonometry,avanti_*_trigonometry,M3 Trigonometric Functions,hin,science-mathematics;school-courses
-avanti_hi_units-and-measurements,avanti_*_units-and-measurements,P1 Units and Measurement,hin,science-mathematics;school-courses
-avanti_hi_vector-algebra,avanti_*_vector-algebra,M25 Vector Algebra,hin,science-mathematics;school-courses
-avanti_hi_vector-and-calculus,avanti_*_vector-and-calculus,P3 Vectors Calculus,hin,science-mathematics;school-courses
-avanti_hi_wave-optics,avanti_*_wave-optics,P23 Wave Optics,hin,science-mathematics;school-courses
-avanti_hi_waves,avanti_*_waves,P14 Waves,hin,science-mathematics;school-courses
-avanti_hi_work-power-energy,avanti_*_work-power-energy,P6 Work Energy and Power,hin,science-mathematics;school-courses
+avanti_hi_3dimensional-geometry,avanti_*_3dimensional-geometry,M26 3 Dimensional Geometry,hin,science-mathematics;courses-textbooks
+avanti_hi_ac-circuits,avanti_*_ac-circuits,P21 AC Circuits,hin,science-mathematics;courses-textbooks
+avanti_hi_alcohol-phenol-ether,avanti_*_alcohol-phenol-ether,"C25 Alcohol, Phenol & Ether",hin,science-mathematics;courses-textbooks
+avanti_hi_alkyhalide,avanti_*_alkyhalide,C24 Alkyhalide,hin,science-mathematics;courses-textbooks
+avanti_hi_amines,avanti_*_amines,C28 Amines,hin,science-mathematics;courses-textbooks
+avanti_hi_atomic-structure,avanti_*_atomic-structure,C2 Atomic Structure,hin,science-mathematics;courses-textbooks
+avanti_hi_binomial-theorem,avanti_*_binomial-theorem,M9 Binomial Theorem,hin,science-mathematics;courses-textbooks
+avanti_hi_biomolecules,avanti_*_biomolecules,C29 Chemistry in Everyday,hin,science-mathematics;courses-textbooks
+avanti_hi_capacitors,avanti_*_capacitors,P16 Capacitors,hin,science-mathematics;courses-textbooks
+avanti_hi_carbonyl-compounds,avanti_*_carbonyl-compounds,C26 Carbonyl Compounds,hin,science-mathematics;courses-textbooks
+avanti_hi_carborylic-acid,avanti_*_carborylic-acid,C27 Carborylic Acid,hin,science-mathematics;courses-textbooks
+avanti_hi_chemical-bonding,avanti_*_chemical-bonding,C4 Chemical Bonding,hin,science-mathematics;courses-textbooks
+avanti_hi_chemical-equilibrium,avanti_*_chemical-equilibrium,C7 Chemical Equilibrium,hin,science-mathematics;courses-textbooks
+avanti_hi_chemical-kinetics,avanti_*_chemical-kinetics,C18 Chemical Kinetics,hin,science-mathematics;courses-textbooks
+avanti_hi_complex-numbers,avanti_*_complex-numbers,M7 Complex Numbers,hin,science-mathematics;courses-textbooks
+avanti_hi_concepts-of-chemistry,avanti_*_concepts-of-chemistry,C1 Basic Chemistry Concepts,hin,science-mathematics;courses-textbooks
+avanti_hi_conics1,avanti_*_conics1,M13 Conic Sections - I,hin,science-mathematics;courses-textbooks
+avanti_hi_conics2,avanti_*_conics2,M14 Conic Sections - II,hin,science-mathematics;courses-textbooks
+avanti_hi_continuity,avanti_*_continuity,M20 Continuity Differentiat.,hin,science-mathematics;courses-textbooks
+avanti_hi_coordination-compounds,avanti_*_coordination-compounds,C23 Coordination Compounds,hin,science-mathematics;courses-textbooks
+avanti_hi_current-electricity,avanti_*_current-electricity,P17 Current Electricity,hin,science-mathematics;courses-textbooks
+avanti_hi_definite-integration,avanti_*_definite-integration,M23 Definite Integration,hin,science-mathematics;courses-textbooks
+avanti_hi_df-blocks-elements,avanti_*_df-blocks-elements,C22 d and f- block Elements,hin,science-mathematics;courses-textbooks
+avanti_hi_differential-equations,avanti_*_differential-equations,M24 Differential Equations,hin,science-mathematics;courses-textbooks
+avanti_hi_dynamics-of-motion,avanti_*_dynamics-of-motion,P5 Law of Motion,hin,science-mathematics;courses-textbooks
+avanti_hi_electrochemistry,avanti_*_electrochemistry,C17 Electrochemistry,hin,science-mathematics;courses-textbooks
+avanti_hi_electromagnetic-induction,avanti_*_electromagnetic-induction,P20 Electromagnetic Induction,hin,science-mathematics;courses-textbooks
+avanti_hi_electromagnetic-waves,avanti_*_electromagnetic-waves,P26 Electromagnetic Waves,hin,science-mathematics;courses-textbooks
+avanti_hi_electrostatic,avanti_*_electrostatic,P15 Electrostatics,hin,science-mathematics;courses-textbooks
+avanti_hi_environmental-chemistry,avanti_*_environmental-chemistry,C30 Environmental Chemistry,hin,science-mathematics;courses-textbooks
+avanti_hi_functions2,avanti_*_functions2,M17 Relations and Functions,hin,science-mathematics;courses-textbooks
+avanti_hi_fundamentals-of-mathematics,avanti_*_fundamentals-of-mathematics,M1 Fundamentals of Mathematics,hin,science-mathematics;courses-textbooks
+avanti_hi_goc,avanti_*_goc,C13 GOC,hin,science-mathematics;courses-textbooks
+avanti_hi_gravitation,avanti_*_gravitation,P8 Gravitation,hin,science-mathematics;courses-textbooks
+avanti_hi_hydrocarbons,avanti_*_hydrocarbons,C14 Hydrocarbons,hin,science-mathematics;courses-textbooks
+avanti_hi_hydrogen,avanti_*_hydrogen,C10 Hydrogen,hin,science-mathematics;courses-textbooks
+avanti_hi_indefinite-integration,avanti_*_indefinite-integration,M22 Integrals,hin,science-mathematics;courses-textbooks
+avanti_hi_inequalities,avanti_*_inequalities,M5 Linear Inequalities,hin,science-mathematics;courses-textbooks
+avanti_hi_inverse-trigonometry,avanti_*_inverse-trigonometry,M18 Inverse Trigonometry,hin,science-mathematics;courses-textbooks
+avanti_hi_ionic-equilibrium,avanti_*_ionic-equilibrium,C8 Ionic Equilibrium,hin,science-mathematics;courses-textbooks
+avanti_hi_limit,avanti_*_limit,M11 Limits,hin,science-mathematics;courses-textbooks
+avanti_hi_magnetic-effect,avanti_*_magnetic-effect,P18 Magnetic Effects,hin,science-mathematics;courses-textbooks
+avanti_hi_magnetism-matter,avanti_*_magnetism-matter,P19 Magnetism and Matter,hin,science-mathematics;courses-textbooks
+avanti_hi_mathematical-induction,avanti_*_mathematical-induction,M4 Mathematical Induction,hin,science-mathematics;courses-textbooks
+avanti_hi_mathematical-reasoning,avanti_*_mathematical-reasoning,M15 Mathematical Reasoning,hin,science-mathematics;courses-textbooks
+avanti_hi_matrices-determinants,avanti_*_matrices-determinants,M19 Matrices and Determinants,hin,science-mathematics;courses-textbooks
+avanti_hi_metallurgy,avanti_*_metallurgy,C20 Metallurgy,hin,science-mathematics;courses-textbooks
+avanti_hi_modern-physics,avanti_*_modern-physics,P24 Modern Physics,hin,science-mathematics;courses-textbooks
+avanti_hi_motion-in-2d,avanti_*_motion-in-2d,P4 Motion in a Plane,hin,science-mathematics;courses-textbooks
+avanti_hi_motion-in-straight-line,avanti_*_motion-in-straight-line,P2 Motion in a Straight Line,hin,science-mathematics;courses-textbooks
+avanti_hi_oscillations,avanti_*_oscillations,P13 Oscillations,hin,science-mathematics;courses-textbooks
+avanti_hi_p-block-elements,avanti_*_p-block-elements,C12 P - Block Elements,hin,science-mathematics;courses-textbooks
+avanti_hi_p-blocks-elements2,avanti_*_p-blocks-elements2,C21 P Block Elements II,hin,science-mathematics;courses-textbooks
+avanti_hi_periodic-properties,avanti_*_periodic-properties,C3 Periodic Classification,hin,science-mathematics;courses-textbooks
+avanti_hi_permutations,avanti_*_permutations,M8 Permutations Combinations,hin,science-mathematics;courses-textbooks
+avanti_hi_probability,avanti_*_probability,M27 Probability,hin,science-mathematics;courses-textbooks
+avanti_hi_properties-of-fluids,avanti_*_properties-of-fluids,P10 Fluid Mechanical,hin,science-mathematics;courses-textbooks
+avanti_hi_properties-of-solids,avanti_*_properties-of-solids,P9 Solids Mechanical,hin,science-mathematics;courses-textbooks
+avanti_hi_quadratic-equations,avanti_*_quadratic-equations,M6 Quadratic Equations,hin,science-mathematics;courses-textbooks
+avanti_hi_ray-optics,avanti_*_ray-optics,P22 Ray Optics,hin,science-mathematics;courses-textbooks
+avanti_hi_redox-reactions,avanti_*_redox-reactions,C9 Redox Reactions,hin,science-mathematics;courses-textbooks
+avanti_hi_rotation,avanti_*_rotation,P7 System of Particles,hin,science-mathematics;courses-textbooks
+avanti_hi_s-block-elements,avanti_*_s-block-elements,C11 S - Block Elements,hin,science-mathematics;courses-textbooks
+avanti_hi_semiconductor-electronics,avanti_*_semiconductor-electronics,P25 Semiconductor Electronics,hin,science-mathematics;courses-textbooks
+avanti_hi_sequence-series,avanti_*_sequence-series,M10 Sequences and Series,hin,science-mathematics;courses-textbooks
+avanti_hi_sets-functions,avanti_*_sets-functions,"M2 Sets, Relations, Functions",hin,science-mathematics;courses-textbooks
+avanti_hi_solid-state,avanti_*_solid-state,C15 Solid State,hin,science-mathematics;courses-textbooks
+avanti_hi_solutions,avanti_*_solutions,C16 Solutions,hin,science-mathematics;courses-textbooks
+avanti_hi_states-of-matter,avanti_*_states-of-matter,C5 States of Matter,hin,science-mathematics;courses-textbooks
+avanti_hi_statistics,avanti_*_statistics,M16 Statistics,hin,science-mathematics;courses-textbooks
+avanti_hi_straight-lines,avanti_*_straight-lines,M12 Straight Lines,hin,science-mathematics;courses-textbooks
+avanti_hi_surface-chemistry,avanti_*_surface-chemistry,C19 Surface Chemistry,hin,science-mathematics;courses-textbooks
+avanti_hi_thermal-properties,avanti_*_thermal-properties,P11 Matter Thermal Properties,hin,science-mathematics;courses-textbooks
+avanti_hi_thermodynamics,avanti_*_thermodynamics,C3 Periodic Classification,hin,science-mathematics;courses-textbooks
+avanti_hi_thermodynamics-and-kinetic-theory,avanti_*_thermodynamics-and-kinetic-theory,P12 Theory of Gases,hin,science-mathematics;courses-textbooks
+avanti_hi_trigonometry,avanti_*_trigonometry,M3 Trigonometric Functions,hin,science-mathematics;courses-textbooks
+avanti_hi_units-and-measurements,avanti_*_units-and-measurements,P1 Units and Measurement,hin,science-mathematics;courses-textbooks
+avanti_hi_vector-algebra,avanti_*_vector-algebra,M25 Vector Algebra,hin,science-mathematics;courses-textbooks
+avanti_hi_vector-and-calculus,avanti_*_vector-and-calculus,P3 Vectors Calculus,hin,science-mathematics;courses-textbooks
+avanti_hi_wave-optics,avanti_*_wave-optics,P23 Wave Optics,hin,science-mathematics;courses-textbooks
+avanti_hi_waves,avanti_*_waves,P14 Waves,hin,science-mathematics;courses-textbooks
+avanti_hi_work-power-energy,avanti_*_work-power-energy,P6 Work Energy and Power,hin,science-mathematics;courses-textbooks
 aviation.stackexchange.com_en_all,aviation.stackexchange.com_*_all,Aviation Q&A,eng,geography-maps-travel
 backrooms.fandom.com_zh-tw_all,backrooms.fandom.com_*_all,後室中文維基,zho,games-fandom-humor
 balatrowiki_en_all,balatrowiki_*_all,Balatro wiki,eng,games-fandom-humor
@@ -115,7 +115,7 @@ bioacoustics.stackexchange.com_en_all,bioacoustics.stackexchange.com_*_all,Bioac
 bioinformatics.stackexchange.com_en_all,bioinformatics.stackexchange.com_*_all,Bioinformatics Q&A,eng,science-mathematics
 biologie-tout-compris_fr_all,biologie-tout-compris_*_all,Tania Louis,fra,science-mathematics
 biology.stackexchange.com_en_all,biology.stackexchange.com_*_all,Biology Q&A,eng,science-mathematics
-biologycourses_en_all,biologycourses_*_all,Biology Courses,eng,science-mathematics;school-courses
+biologycourses_en_all,biologycourses_*_all,Biology Courses,eng,science-mathematics;courses-textbooks
 bitcoin.stackexchange.com_en_all,bitcoin.stackexchange.com_*_all,Bitcoin Q&A,eng,computers-technology
 bitcoin_en_all,bitcoin_*_all,Bitcoin Wiki,eng,computers-technology
 blender.stackexchange.com_en_all,blender.stackexchange.com_*_all,Blender Q&A,eng,computers-technology
@@ -187,10 +187,10 @@ coreyms_en_python-tutorials,coreyms_*_python-tutorials,Python Tutorials,eng,comp
 coreyms_en_sql-tutorials,coreyms_*_sql-tutorials,SQL Tutorials,eng,computers-technology
 craftcms.stackexchange.com_en_all,craftcms.stackexchange.com_*_all,Craft CMS Q&A,eng,computers-technology
 crafts.stackexchange.com_en_all,crafts.stackexchange.com_*_all,Arts & Crafts Q&A,eng,home-food-diy
-crashcourse_en_all,crashcourse_*_all,CrashCourse,eng,school-courses
+crashcourse_en_all,crashcourse_*_all,CrashCourse,eng,courses-textbooks
 crypto.stackexchange.com_en_all,crypto.stackexchange.com_*_all,Cryptography Q&A,eng,computers-technology
 cs.stackexchange.com_en_all,cs.stackexchange.com_*_all,Computer Science Q&A,eng,computers-technology
-cseducators.stackexchange.com_en_all,cseducators.stackexchange.com_*_all,Computer Science Educators Q&A,eng,school-courses
+cseducators.stackexchange.com_en_all,cseducators.stackexchange.com_*_all,Computer Science Educators Q&A,eng,courses-textbooks
 cstheory.stackexchange.com_en_all,cstheory.stackexchange.com_*_all,Theoretical Computer Science,eng,computers-technology
 cuisinelibre.org_fr_all,cuisinelibre.org_*_all,Cuisine libre,fra,home-food-diy
 cyborganthropology.com_en_all,cyborganthropology.com_*_all,Cyborg Anthropology,eng,society-politics-economy
@@ -433,15 +433,15 @@ devdocs_en_zsh,devdocs_*_zsh,Zsh Docs,eng,computers-technology
 devhints.io_en_all,devhints.io_*_all,DevHints - Rico's cheatsheets,eng,computers-technology
 devops.stackexchange.com_en_all,devops.stackexchange.com_*_all,DevOps Q&A,eng,computers-technology
 dicoado.org_fr_all,dicoado.org_*_all,Dico des Ados,fra,languages-dictionaries;for-children
-diksha-std10ssc_mr,diksha-std10ssc_mr,Std 10 SSC Marathi,mar,school-courses
-diksha-std5ssc_en,diksha-std5ssc_en,Std 5 SSC English,eng,school-courses;for-children
+diksha-std10ssc_mr,diksha-std10ssc_mr,Std 10 SSC Marathi,mar,courses-textbooks
+diksha-std5ssc_en,diksha-std5ssc_en,Std 5 SSC English,eng,courses-textbooks;for-children
 dirtybiology_fr_all,dirtybiology_*_all,DirtyBiology,fra,science-mathematics
 diy.stackexchange.com_en_all,diy.stackexchange.com_*_all,Home Improvement Q&A,eng,home-food-diy
 doc.ubuntu-fr.org_fr_all,doc.ubuntu-fr.org_*_all,Documentation ubuntu-fr,fra,computers-technology
 docs.python.org_en_all,docs.python.org_*_all,Python Documentation,eng,computers-technology
 drones.stackexchange.com_en_all,drones.stackexchange.com_*_all,Drones and Model Aircraft Q&A,eng,computers-technology
 drupal.stackexchange.com_en_all,drupal.stackexchange.com_*_all,Drupal Q&A,eng,computers-technology
-dse_ladakh_lbj,dse_*_lbj,Ladakh Department of Education,lbj,school-courses
+dse_ladakh_lbj,dse_*_lbj,Ladakh Department of Education,lbj,courses-textbooks
 dsp.stackexchange.com_en_all,dsp.stackexchange.com_*_all,Signal Processing Q&A,eng,computers-technology
 dwarffortresswiki.org_en_all,dwarffortresswiki.org_*_all,Dwarf Fortress Wiki,eng,games-fandom-humor
 e-penser_fr_all,e-penser_*_all,e-penser 2.0,fra,science-mathematics
@@ -449,12 +449,12 @@ earthscience.stackexchange.com_en_all,earthscience.stackexchange.com_*_all,Earth
 ebooks.stackexchange.com_en_all,ebooks.stackexchange.com_*_all,Ebooks Q&A,eng,books-literature
 economics.stackexchange.com_en_all,economics.stackexchange.com_*_all,Economics Q&A,eng,society-politics-economy
 editions-ganndal_fr_fo-livres,editions-ganndal_*_fo-livres,Éditions Ganndal,fra,books-literature;for-children
-education-et-numerique_fr_all,education-et-numerique_*_all,Éducation et Numérique,fra,school-courses
-edutechwiki_en_all,edutechwiki_*_all,EduTech Wiki,eng,school-courses
-edutechwiki_fr_all,edutechwiki_*_all,EduTech Wiki,fra,school-courses
+education-et-numerique_fr_all,education-et-numerique_*_all,Éducation et Numérique,fra,courses-textbooks
+edutechwiki_en_all,edutechwiki_*_all,EduTech Wiki,eng,courses-textbooks
+edutechwiki_fr_all,edutechwiki_*_all,EduTech Wiki,fra,courses-textbooks
 ekopedia_fr_all,ekopedia_*_all,Ekopedia,fra,home-food-diy
 electronics.stackexchange.com_en_all,electronics.stackexchange.com_*_all,Electronics Q&A,eng,computers-technology
-eleda.education_fr_fo-offline,eleda.education_*_fo-offline,Les mathématiques du primaire,fra,school-courses;for-children
+eleda.education_fr_fo-offline,eleda.education_*_fo-offline,Les mathématiques du primaire,fra,courses-textbooks;for-children
 elementaryos.stackexchange.com_en_all,elementaryos.stackexchange.com_*_all,elementary OS Q&A,eng,computers-technology
 ell.stackexchange.com_en_all,ell.stackexchange.com_*_all,English Language Learners Q&A,eng,languages-dictionaries
 emacs.stackexchange.com_en_all,emacs.stackexchange.com_*_all,Emacs Q&A,eng,computers-technology
@@ -465,7 +465,7 @@ english.stackexchange.com_en_all,english.stackexchange.com_*_all,English Languag
 eosio.stackexchange.com_en_all,eosio.stackexchange.com_*_all,EOS.IO Q&A,eng,computers-technology
 es.stackoverflow.com_mul_all,es.stackoverflow.com_*_all,Stack Overflow en español,"eng,spa",computers-technology
 esperanto.stackexchange.com_mul_all,esperanto.stackexchange.com_*_all,Esperanto Language Q&A,"eng,epo",languages-dictionaries
-ethanweed_en_all,ethanweed_*_all,Learning statistics - Python,eng,science-mathematics;school-courses
+ethanweed_en_all,ethanweed_*_all,Learning statistics - Python,eng,science-mathematics;courses-textbooks
 ethereum.stackexchange.com_en_all,ethereum.stackexchange.com_*_all,Ethereum Q&A,eng,computers-technology
 evageeks_en_all,evageeks_*_all,EvaWiki,eng,games-fandom-humor
 expatriates.stackexchange.com_en_all,expatriates.stackexchange.com_*_all,Expatriates Q&A,eng,geography-maps-travel
@@ -478,52 +478,52 @@ footballdatabase.com_en_all,footballdatabase.com_*_all,Football Database,eng,spo
 foss.cooking_en_all,foss.cooking_*_all,FOSS cooking,eng,home-food-diy
 fountainpen_it_all,fountainpen_*_all,Fountain Pen,ita,home-food-diy
 frackinuniverse_en_all,frackinuniverse_*_all,Frackin Universe,eng,games-fandom-humor
-francais-avec-pierre_fr_all,francais-avec-pierre_*_all,La grammaire française,fra,languages-dictionaries;school-courses
-freecodecamp_de_all,freecodecamp_*_all,FreeCodeCamp,deu,computers-technology;school-courses
-freecodecamp_de_javascript-algorithms-and-data-structures,freecodecamp_*_javascript-algorithms-and-data-structures,FreeCodeCamp JavaScript,deu,computers-technology;school-courses
-freecodecamp_de_rosetta-code,freecodecamp_*_rosetta-code,Rosetta-Code,deu,computers-technology;school-courses
-freecodecamp_en_all,freecodecamp_*_all,FreeCodeCamp,eng,computers-technology;school-courses
-freecodecamp_en_coding-interview-prep,freecodecamp_*_coding-interview-prep,FreeCodeCamp Interview Prep,eng,computers-technology;school-courses
-freecodecamp_en_javascript-algorithms-and-data-structures,freecodecamp_*_javascript-algorithms-and-data-structures,FreeCodeCamp JavaScript,eng,computers-technology;school-courses
-freecodecamp_en_project-euler,freecodecamp_*_project-euler,Project Euler,eng,computers-technology;school-courses
-freecodecamp_en_rosetta-code,freecodecamp_*_rosetta-code,Rosetta Code,eng,computers-technology;school-courses
-freecodecamp_es_all,freecodecamp_*_all,FreeCodeCamp,spa,computers-technology;school-courses
-freecodecamp_es_coding-interview-prep,freecodecamp_*_coding-interview-prep,FreeCodeCamp Entrevista,spa,computers-technology;school-courses
-freecodecamp_es_javascript-algorithms-and-data-structures,freecodecamp_*_javascript-algorithms-and-data-structures,FreeCodeCamp JavaScript,spa,computers-technology;school-courses
-freecodecamp_es_project-euler,freecodecamp_*_project-euler,Proyecto Euler,spa,computers-technology;school-courses
-freecodecamp_es_rosetta-code,freecodecamp_*_rosetta-code,Código Rosetta,spa,computers-technology;school-courses
-freecodecamp_it_all,freecodecamp_*_all,FreeCodeCamp,ita,computers-technology;school-courses
-freecodecamp_it_coding-interview-prep,freecodecamp_*_coding-interview-prep,Intervista di FreeCodeCamp,ita,computers-technology;school-courses
-freecodecamp_it_javascript-algorithms-and-data-structures,freecodecamp_*_javascript-algorithms-and-data-structures,FreeCodeCamp JavaScript,ita,computers-technology;school-courses
-freecodecamp_it_project-euler,freecodecamp_*_project-euler,Progetto Eulero,ita,computers-technology;school-courses
-freecodecamp_it_rosetta-code,freecodecamp_*_rosetta-code,Codice Rosetta,ita,computers-technology;school-courses
-freecodecamp_ja_all,freecodecamp_*_all,FreeCodeCamp,jpn,computers-technology;school-courses
-freecodecamp_ja_coding-interview-prep,freecodecamp_*_coding-interview-prep,FreeCodeCamp の面接準備,jpn,computers-technology;school-courses
-freecodecamp_ja_javascript-algorithms-and-data-structures,freecodecamp_*_javascript-algorithms-and-data-structures,FreeCodeCamp JavaScript,jpn,computers-technology;school-courses
-freecodecamp_ja_project-euler,freecodecamp_*_project-euler,プロジェクト・オイラー,jpn,computers-technology;school-courses
-freecodecamp_ja_rosetta-code,freecodecamp_*_rosetta-code,ロゼッタコード,jpn,computers-technology;school-courses
-freecodecamp_pt_all,freecodecamp_*_all,FreecodeCamp,por,computers-technology;school-courses
-freecodecamp_pt_coding-interview-prep,freecodecamp_*_coding-interview-prep,Entrevista FreeCodeCamp,por,computers-technology;school-courses
-freecodecamp_pt_javascript-algorithms-and-data-structures,freecodecamp_*_javascript-algorithms-and-data-structures,FreecodeCamp JavaScript,por,computers-technology;school-courses
-freecodecamp_pt_project-euler,freecodecamp_*_project-euler,Projeto Euler,por,computers-technology;school-courses
-freecodecamp_pt_rosetta-code,freecodecamp_*_rosetta-code,Código Roseta,por,computers-technology;school-courses
-freecodecamp_sw_all,freecodecamp_*_all,FreeCodeCamp,swa,computers-technology;school-courses
-freecodecamp_sw_rosetta-code,freecodecamp_*_rosetta-code,Kanuni ya Rosetta,swa,computers-technology;school-courses
-freecodecamp_ua_all,freecodecamp_*_all,FreeCodeCamp,ukr,computers-technology;school-courses
-freecodecamp_ua_coding-interview-prep,freecodecamp_*_coding-interview-prep,Iнтерв’ю FreeCodeCamp,ukr,computers-technology;school-courses
-freecodecamp_ua_javascript-algorithms-and-data-structures,freecodecamp_*_javascript-algorithms-and-data-structures,FreeCodeCamp JavaScript,ukr,computers-technology;school-courses
-freecodecamp_ua_project-euler,freecodecamp_*_project-euler,Проект Ейлера,ukr,computers-technology;school-courses
-freecodecamp_ua_rosetta-code,freecodecamp_*_rosetta-code,Кодекс Розетти,ukr,computers-technology;school-courses
-freecodecamp_zh-hans_all,freecodecamp_*_all,FreeCodeCamp,zho,computers-technology;school-courses
-freecodecamp_zh-hans_coding-interview-prep,freecodecamp_*_coding-interview-prep,FreeCodeCamp 面试准备,zho,computers-technology;school-courses
-freecodecamp_zh-hans_javascript-algorithms-and-data-structures,freecodecamp_*_javascript-algorithms-and-data-structures,FreeCodeCamp JavaScript,zho,computers-technology;school-courses
-freecodecamp_zh-hans_project-euler,freecodecamp_*_project-euler,Project Euler,zho,computers-technology;school-courses
-freecodecamp_zh-hans_rosetta-code,freecodecamp_*_rosetta-code,Rosetta Code,zho,computers-technology;school-courses
-freecodecamp_zh-hant_all,freecodecamp_*_all,FreeCodeCamp,zho,computers-technology;school-courses
-freecodecamp_zh-hant_coding-interview-prep,freecodecamp_*_coding-interview-prep,FreeCodeCamp 面試準備,zho,computers-technology;school-courses
-freecodecamp_zh-hant_javascript-algorithms-and-data-structures,freecodecamp_*_javascript-algorithms-and-data-structures,FreeCodeCamp JavaScript,zho,computers-technology;school-courses
-freecodecamp_zh-hant_project-euler,freecodecamp_*_project-euler,Project Euler,zho,computers-technology;school-courses
-freecodecamp_zh-hant_rosetta-code,freecodecamp_*_rosetta-code,Rosetta Code,zho,computers-technology;school-courses
+francais-avec-pierre_fr_all,francais-avec-pierre_*_all,La grammaire française,fra,languages-dictionaries;courses-textbooks
+freecodecamp_de_all,freecodecamp_*_all,FreeCodeCamp,deu,computers-technology;courses-textbooks
+freecodecamp_de_javascript-algorithms-and-data-structures,freecodecamp_*_javascript-algorithms-and-data-structures,FreeCodeCamp JavaScript,deu,computers-technology;courses-textbooks
+freecodecamp_de_rosetta-code,freecodecamp_*_rosetta-code,Rosetta-Code,deu,computers-technology;courses-textbooks
+freecodecamp_en_all,freecodecamp_*_all,FreeCodeCamp,eng,computers-technology;courses-textbooks
+freecodecamp_en_coding-interview-prep,freecodecamp_*_coding-interview-prep,FreeCodeCamp Interview Prep,eng,computers-technology;courses-textbooks
+freecodecamp_en_javascript-algorithms-and-data-structures,freecodecamp_*_javascript-algorithms-and-data-structures,FreeCodeCamp JavaScript,eng,computers-technology;courses-textbooks
+freecodecamp_en_project-euler,freecodecamp_*_project-euler,Project Euler,eng,computers-technology;courses-textbooks
+freecodecamp_en_rosetta-code,freecodecamp_*_rosetta-code,Rosetta Code,eng,computers-technology;courses-textbooks
+freecodecamp_es_all,freecodecamp_*_all,FreeCodeCamp,spa,computers-technology;courses-textbooks
+freecodecamp_es_coding-interview-prep,freecodecamp_*_coding-interview-prep,FreeCodeCamp Entrevista,spa,computers-technology;courses-textbooks
+freecodecamp_es_javascript-algorithms-and-data-structures,freecodecamp_*_javascript-algorithms-and-data-structures,FreeCodeCamp JavaScript,spa,computers-technology;courses-textbooks
+freecodecamp_es_project-euler,freecodecamp_*_project-euler,Proyecto Euler,spa,computers-technology;courses-textbooks
+freecodecamp_es_rosetta-code,freecodecamp_*_rosetta-code,Código Rosetta,spa,computers-technology;courses-textbooks
+freecodecamp_it_all,freecodecamp_*_all,FreeCodeCamp,ita,computers-technology;courses-textbooks
+freecodecamp_it_coding-interview-prep,freecodecamp_*_coding-interview-prep,Intervista di FreeCodeCamp,ita,computers-technology;courses-textbooks
+freecodecamp_it_javascript-algorithms-and-data-structures,freecodecamp_*_javascript-algorithms-and-data-structures,FreeCodeCamp JavaScript,ita,computers-technology;courses-textbooks
+freecodecamp_it_project-euler,freecodecamp_*_project-euler,Progetto Eulero,ita,computers-technology;courses-textbooks
+freecodecamp_it_rosetta-code,freecodecamp_*_rosetta-code,Codice Rosetta,ita,computers-technology;courses-textbooks
+freecodecamp_ja_all,freecodecamp_*_all,FreeCodeCamp,jpn,computers-technology;courses-textbooks
+freecodecamp_ja_coding-interview-prep,freecodecamp_*_coding-interview-prep,FreeCodeCamp の面接準備,jpn,computers-technology;courses-textbooks
+freecodecamp_ja_javascript-algorithms-and-data-structures,freecodecamp_*_javascript-algorithms-and-data-structures,FreeCodeCamp JavaScript,jpn,computers-technology;courses-textbooks
+freecodecamp_ja_project-euler,freecodecamp_*_project-euler,プロジェクト・オイラー,jpn,computers-technology;courses-textbooks
+freecodecamp_ja_rosetta-code,freecodecamp_*_rosetta-code,ロゼッタコード,jpn,computers-technology;courses-textbooks
+freecodecamp_pt_all,freecodecamp_*_all,FreecodeCamp,por,computers-technology;courses-textbooks
+freecodecamp_pt_coding-interview-prep,freecodecamp_*_coding-interview-prep,Entrevista FreeCodeCamp,por,computers-technology;courses-textbooks
+freecodecamp_pt_javascript-algorithms-and-data-structures,freecodecamp_*_javascript-algorithms-and-data-structures,FreecodeCamp JavaScript,por,computers-technology;courses-textbooks
+freecodecamp_pt_project-euler,freecodecamp_*_project-euler,Projeto Euler,por,computers-technology;courses-textbooks
+freecodecamp_pt_rosetta-code,freecodecamp_*_rosetta-code,Código Roseta,por,computers-technology;courses-textbooks
+freecodecamp_sw_all,freecodecamp_*_all,FreeCodeCamp,swa,computers-technology;courses-textbooks
+freecodecamp_sw_rosetta-code,freecodecamp_*_rosetta-code,Kanuni ya Rosetta,swa,computers-technology;courses-textbooks
+freecodecamp_ua_all,freecodecamp_*_all,FreeCodeCamp,ukr,computers-technology;courses-textbooks
+freecodecamp_ua_coding-interview-prep,freecodecamp_*_coding-interview-prep,Iнтерв’ю FreeCodeCamp,ukr,computers-technology;courses-textbooks
+freecodecamp_ua_javascript-algorithms-and-data-structures,freecodecamp_*_javascript-algorithms-and-data-structures,FreeCodeCamp JavaScript,ukr,computers-technology;courses-textbooks
+freecodecamp_ua_project-euler,freecodecamp_*_project-euler,Проект Ейлера,ukr,computers-technology;courses-textbooks
+freecodecamp_ua_rosetta-code,freecodecamp_*_rosetta-code,Кодекс Розетти,ukr,computers-technology;courses-textbooks
+freecodecamp_zh-hans_all,freecodecamp_*_all,FreeCodeCamp,zho,computers-technology;courses-textbooks
+freecodecamp_zh-hans_coding-interview-prep,freecodecamp_*_coding-interview-prep,FreeCodeCamp 面试准备,zho,computers-technology;courses-textbooks
+freecodecamp_zh-hans_javascript-algorithms-and-data-structures,freecodecamp_*_javascript-algorithms-and-data-structures,FreeCodeCamp JavaScript,zho,computers-technology;courses-textbooks
+freecodecamp_zh-hans_project-euler,freecodecamp_*_project-euler,Project Euler,zho,computers-technology;courses-textbooks
+freecodecamp_zh-hans_rosetta-code,freecodecamp_*_rosetta-code,Rosetta Code,zho,computers-technology;courses-textbooks
+freecodecamp_zh-hant_all,freecodecamp_*_all,FreeCodeCamp,zho,computers-technology;courses-textbooks
+freecodecamp_zh-hant_coding-interview-prep,freecodecamp_*_coding-interview-prep,FreeCodeCamp 面試準備,zho,computers-technology;courses-textbooks
+freecodecamp_zh-hant_javascript-algorithms-and-data-structures,freecodecamp_*_javascript-algorithms-and-data-structures,FreeCodeCamp JavaScript,zho,computers-technology;courses-textbooks
+freecodecamp_zh-hant_project-euler,freecodecamp_*_project-euler,Project Euler,zho,computers-technology;courses-textbooks
+freecodecamp_zh-hant_rosetta-code,freecodecamp_*_rosetta-code,Rosetta Code,zho,computers-technology;courses-textbooks
 freelancing.stackexchange.com_en_all,freelancing.stackexchange.com_*_all,Freelancing Q&A,eng,society-politics-economy
 french.stackexchange.com_mul_all,french.stackexchange.com_*_all,French Language Q&A,"eng,fra",languages-dictionaries
 fretmap.app_en_all,fretmap.app_*_all,FretMap.app,eng,arts-music-film
@@ -537,7 +537,7 @@ genomicseducation_en_all,genomicseducation_*_all,Genomics Education Programme,en
 gentoo_en_all,gentoo_*_all,Gentoo Wiki,eng,computers-technology
 german.stackexchange.com_mul_all,german.stackexchange.com_*_all,German Language Q&A,"eng,deu",languages-dictionaries
 getbootstrap.com_en_all,getbootstrap.com_*_all,Bootstrap,eng,computers-technology
-ghana-bece-past-questions_en_all,ghana-bece-past-questions_*_all,Ghana's BECE past questions,eng,school-courses
+ghana-bece-past-questions_en_all,ghana-bece-past-questions_*_all,Ghana's BECE past questions,eng,courses-textbooks
 gis.stackexchange.com_en_all,gis.stackexchange.com_*_all,Geographic Information Systems,eng,computers-technology
 gobyexample.com_en_all,gobyexample.com_*_all,Go by example,eng,computers-technology
 gotquestions.org_en_all,gotquestions.org_*_all,Got Questions?,eng,religion-philosophy
@@ -573,7 +573,7 @@ gutenberg_en_lcc-g,gutenberg_*_lcc-g,Project Gutenberg Library,eng,books-literat
 gutenberg_en_lcc-h,gutenberg_*_lcc-h,Project Gutenberg Library,eng,books-literature;society-politics-economy
 gutenberg_en_lcc-j,gutenberg_*_lcc-j,Project Gutenberg Library,eng,books-literature;society-politics-economy
 gutenberg_en_lcc-k,gutenberg_*_lcc-k,Project Gutenberg Library,eng,books-literature;society-politics-economy
-gutenberg_en_lcc-l,gutenberg_*_lcc-l,Project Gutenberg Library,eng,books-literature;school-courses
+gutenberg_en_lcc-l,gutenberg_*_lcc-l,Project Gutenberg Library,eng,books-literature;courses-textbooks
 gutenberg_en_lcc-m,gutenberg_*_lcc-m,Project Gutenberg Library,eng,books-literature;arts-music-film
 gutenberg_en_lcc-n,gutenberg_*_lcc-n,Project Gutenberg Library,eng,books-literature;arts-music-film
 gutenberg_en_lcc-p,gutenberg_*_lcc-p,Project Gutenberg Library,eng,books-literature
@@ -657,7 +657,7 @@ history.stackexchange.com_en_all,history.stackexchange.com_*_all,History Q&A,eng
 homebrew.stackexchange.com_en_all,homebrew.stackexchange.com_*_all,Homebrewing Q&A,eng,home-food-diy
 hra-news.org_far_all,hra-news.org_*_all,خبرگزاری هرانا,fas,society-politics-economy
 hsm.stackexchange.com_en_all,hsm.stackexchange.com_*_all,Science and Maths History Q&A,eng,science-mathematics
-htdp.org_en_all,htdp.org_*_all,How to Design Programs,eng,computers-technology;school-courses
+htdp.org_en_all,htdp.org_*_all,How to Design Programs,eng,computers-technology;courses-textbooks
 hygiene-mentale_fr_all,hygiene-mentale_*_all,Hygiène Mentale,fra,health-medicine
 ibanezwiki_en_all,ibanezwiki_*_all,Ibanez Wiki,eng,arts-music-film
 ifixit_de_all,ifixit_*_all,iFixit in German,deu,home-food-diy
@@ -685,12 +685,12 @@ islam.stackexchange.com_en_all,islam.stackexchange.com_*_all,Islam Q&A,eng,relig
 italian.stackexchange.com_mul_all,italian.stackexchange.com_*_all,Italian Language Q&A,"eng,ita",languages-dictionaries
 ja.stackoverflow.com_mul_all,ja.stackoverflow.com_*_all,スタック・オーバーフロー,"eng,jpn",computers-technology
 japanese.stackexchange.com_mul_all,japanese.stackexchange.com_*_all,Japanese Language Q&A,"eng,jpn",languages-dictionaries
-jeffe.cs.illinois.edu_en_all,jeffe.cs.illinois.edu_*_all,Algorithms,eng,computers-technology;school-courses
+jeffe.cs.illinois.edu_en_all,jeffe.cs.illinois.edu_*_all,Algorithms,eng,computers-technology;courses-textbooks
 joomla.stackexchange.com_en_all,joomla.stackexchange.com_*_all,Joomla Q&A,eng,computers-technology
 judaism.stackexchange.com_en_all,judaism.stackexchange.com_*_all,Mi Yodeya Q&A,eng,religion-philosophy
-khanacademy_en_all,khanacademy_*_all,Khan Academy (English - US curriculum),eng,school-courses
-khanacademy_es_all,khanacademy_*_all,Khan Academy (Español),spa,school-courses
-khanacademy_fr_all,khanacademy_*_all,Khan Academy (Français),fra,school-courses
+khanacademy_en_all,khanacademy_*_all,Khan Academy (English - US curriculum),eng,courses-textbooks
+khanacademy_es_all,khanacademy_*_all,Khan Academy (Español),spa,courses-textbooks
+khanacademy_fr_all,khanacademy_*_all,Khan Academy (Français),fra,courses-textbooks
 kiwix.ecured_es_all,kiwix.ecured_*_all,EcuRed,spa,encyclopedias-general-reference
 kiwix.ekopedia_fr_all,kiwix.ekopedia_*_all,Ekopedia,fra,home-food-diy
 kiwix.westeros_en_all,kiwix.westeros_*_all,A Wiki of Ice and Fire,eng,games-fandom-humor
@@ -698,31 +698,31 @@ klexikon_de_all,klexikon_*_all,Klexikon – das Kinderlexikon,deu,encyclopedias-
 kochwiki.org_de_all,kochwiki.org_*_all,Koch-Wiki,deu,home-food-diy
 korean.stackexchange.com_mul_all,korean.stackexchange.com_*_all,Korean Language Q&A,"eng,kor",languages-dictionaries
 kris-occhipinti_en_all,kris-occhipinti_*_all,Kris Occhipinti,eng,computers-technology
-la-chaine-de-maths-et-tiques_fr_all,la-chaine-de-maths-et-tiques_*_all,Maths et tiques,fra,science-mathematics;school-courses
+la-chaine-de-maths-et-tiques_fr_all,la-chaine-de-maths-et-tiques_*_all,Maths et tiques,fra,science-mathematics;courses-textbooks
 langdev.stackexchange.com_en_all,langdev.stackexchange.com_*_all,Programming Language Design,eng,computers-technology
 languagelearning.stackexchange.com_en_all,languagelearning.stackexchange.com_*_all,Language Learning Q&A,eng,languages-dictionaries
 latin.stackexchange.com_mul_all,latin.stackexchange.com_*_all,Latin Language Q&A,"eng,lat",languages-dictionaries
 law.stackexchange.com_en_all,law.stackexchange.com_*_all,Law Q&A,eng,society-politics-economy
-learningstatistics_en_all,learningstatistics_*_all,Learning Statistics - CogStat,eng,science-mathematics;school-courses
-learningstatisticswithr.com_en_all,learningstatisticswithr.com_*_all,Learning Statistics with R,eng,science-mathematics;school-courses
-les-fondamentaux_fr_all,les-fondamentaux_*_all,Les fondamentaux,fra,school-courses;for-children
+learningstatistics_en_all,learningstatistics_*_all,Learning Statistics - CogStat,eng,science-mathematics;courses-textbooks
+learningstatisticswithr.com_en_all,learningstatisticswithr.com_*_all,Learning Statistics with R,eng,science-mathematics;courses-textbooks
+les-fondamentaux_fr_all,les-fondamentaux_*_all,Les fondamentaux,fra,courses-textbooks;for-children
 lesscss.org_en_all,lesscss.org_*_all,Less CSS,eng,computers-technology
 lgbtqia.wiki_en_all,lgbtqia.wiki_*_all,LGBTQIA Wiki,eng,society-politics-economy
 liberius.net_fr_all,liberius.net_*_all,Bibliothèque Saint Libère,fra,religion-philosophy
 librepathology_en_all,librepathology_*_all,Libre Pathology,eng,health-medicine
-libretexts.org_en_bio,libretexts.org_*_bio,Biology LibreTexts,eng,science-mathematics;school-courses
-libretexts.org_en_biz,libretexts.org_*_biz,Business LibreTexts,eng,society-politics-economy;school-courses
-libretexts.org_en_chem,libretexts.org_*_chem,Chemistry LibreTexts,eng,science-mathematics;school-courses
-libretexts.org_en_eng,libretexts.org_*_eng,Engineering LibreTexts,eng,science-mathematics;school-courses
-libretexts.org_en_geo,libretexts.org_*_geo,Geosciences LibreTexts,eng,science-mathematics;school-courses
-libretexts.org_en_human,libretexts.org_*_human,Humanities LibreTexts,eng,school-courses
-libretexts.org_en_k12,libretexts.org_*_k12,K-12 Education LibreTexts,eng,school-courses
-libretexts.org_en_math,libretexts.org_*_math,Mathematics LibreTexts,eng,science-mathematics;school-courses
-libretexts.org_en_med,libretexts.org_*_med,Medicine LibreTexts,eng,health-medicine;school-courses
-libretexts.org_en_phys,libretexts.org_*_phys,Physics LibreTexts,eng,science-mathematics;school-courses
-libretexts.org_en_socialsci,libretexts.org_*_socialsci,Social Sciences LibreTexts,eng,society-politics-economy;school-courses
-libretexts.org_en_stats,libretexts.org_*_stats,Statistics LibreTexts,eng,science-mathematics;school-courses
-libretexts.org_en_workforce,libretexts.org_*_workforce,Workforce LibreTexts,eng,school-courses
+libretexts.org_en_bio,libretexts.org_*_bio,Biology LibreTexts,eng,science-mathematics;courses-textbooks
+libretexts.org_en_biz,libretexts.org_*_biz,Business LibreTexts,eng,society-politics-economy;courses-textbooks
+libretexts.org_en_chem,libretexts.org_*_chem,Chemistry LibreTexts,eng,science-mathematics;courses-textbooks
+libretexts.org_en_eng,libretexts.org_*_eng,Engineering LibreTexts,eng,science-mathematics;courses-textbooks
+libretexts.org_en_geo,libretexts.org_*_geo,Geosciences LibreTexts,eng,science-mathematics;courses-textbooks
+libretexts.org_en_human,libretexts.org_*_human,Humanities LibreTexts,eng,courses-textbooks
+libretexts.org_en_k12,libretexts.org_*_k12,K-12 Education LibreTexts,eng,courses-textbooks
+libretexts.org_en_math,libretexts.org_*_math,Mathematics LibreTexts,eng,science-mathematics;courses-textbooks
+libretexts.org_en_med,libretexts.org_*_med,Medicine LibreTexts,eng,health-medicine;courses-textbooks
+libretexts.org_en_phys,libretexts.org_*_phys,Physics LibreTexts,eng,science-mathematics;courses-textbooks
+libretexts.org_en_socialsci,libretexts.org_*_socialsci,Social Sciences LibreTexts,eng,society-politics-economy;courses-textbooks
+libretexts.org_en_stats,libretexts.org_*_stats,Statistics LibreTexts,eng,science-mathematics;courses-textbooks
+libretexts.org_en_workforce,libretexts.org_*_workforce,Workforce LibreTexts,eng,courses-textbooks
 lifehacks.stackexchange.com_en_all,lifehacks.stackexchange.com_*_all,Lifehacks Q&A,eng,home-food-diy
 lilote_fr_fo,lilote_*_fo,"Lilote, Quiz de lecture",fra,books-literature;for-children
 linguistics.stackexchange.com_en_all,linguistics.stackexchange.com_*_all,Linguistics Q&A,eng,languages-dictionaries
@@ -731,55 +731,55 @@ litterature-audio-poetry_fr,litterature-audio-poetry_fr,Littérature - Livres Au
 lost-stats.github.io_en_all,lost-stats.github.io_*_all,Statistical techniques Library,eng,science-mathematics
 lrnselfreliance_en_all,lrnselfreliance_*_all,Learning Self-Reliance,eng,survival-preparedness
 lua.org_en_all,lua.org_*_all,Lua.org,eng,computers-technology
-madrasa_ar_arabic,madrasa_*_arabic,مدرسة - مجموعة اللغة العربية,ara,languages-dictionaries;school-courses
-madrasa_ar_astronomy,madrasa_*_astronomy,مدرسة - مجموعة علم الفلك,ara,science-mathematics;school-courses
-madrasa_ar_biology,madrasa_*_biology,مدرسة - مجموعة علم الأحياء,ara,science-mathematics;school-courses
-madrasa_ar_chemistry,madrasa_*_chemistry,مدرسة - مجموعة الكيمياء,ara,science-mathematics;school-courses
-madrasa_ar_electeng,madrasa_*_electeng,مدرسة - الهندسة الكهربائية,ara,science-mathematics;school-courses
+madrasa_ar_arabic,madrasa_*_arabic,مدرسة - مجموعة اللغة العربية,ara,languages-dictionaries;courses-textbooks
+madrasa_ar_astronomy,madrasa_*_astronomy,مدرسة - مجموعة علم الفلك,ara,science-mathematics;courses-textbooks
+madrasa_ar_biology,madrasa_*_biology,مدرسة - مجموعة علم الأحياء,ara,science-mathematics;courses-textbooks
+madrasa_ar_chemistry,madrasa_*_chemistry,مدرسة - مجموعة الكيمياء,ara,science-mathematics;courses-textbooks
+madrasa_ar_electeng,madrasa_*_electeng,مدرسة - الهندسة الكهربائية,ara,science-mathematics;courses-textbooks
 madrasa_ar_futureencyclopedia,madrasa_*_futureencyclopedia,مدرسة - مجموعة موسوعة المستقبل,ara,computers-technology
-madrasa_ar_gasinteraction,madrasa_*_gasinteraction,مدرسة - مجموعة تفاعل الغازات,ara,science-mathematics;school-courses
-madrasa_ar_magnets,madrasa_*_magnets,مدرسة - القوى المغناطيسية,ara,science-mathematics;school-courses
-madrasa_ar_math,madrasa_*_math,مدرسة - مجموعة الرياضيات,ara,science-mathematics;school-courses
-madrasa_ar_physics,madrasa_*_physics,مدرسة - مجموعة الفيزياء,ara,science-mathematics;school-courses
+madrasa_ar_gasinteraction,madrasa_*_gasinteraction,مدرسة - مجموعة تفاعل الغازات,ara,science-mathematics;courses-textbooks
+madrasa_ar_magnets,madrasa_*_magnets,مدرسة - القوى المغناطيسية,ara,science-mathematics;courses-textbooks
+madrasa_ar_math,madrasa_*_math,مدرسة - مجموعة الرياضيات,ara,science-mathematics;courses-textbooks
+madrasa_ar_physics,madrasa_*_physics,مدرسة - مجموعة الفيزياء,ara,science-mathematics;courses-textbooks
 madrasa_ar_poetry,madrasa_*_poetry,مدرسة - مجموعة الشعر العربي,ara,books-literature
 madrasa_ar_scientists,madrasa_*_scientists,مدرسة - مجموعة علماء العرب,ara,science-mathematics;history
 madrasa_ar_songs,madrasa_*_songs,مدرسة - الأغاني التعليمية,ara,arts-music-film;for-children
 madrasa_ar_stories,madrasa_*_stories,مدرسة - مجموعة القصص,ara,books-literature;for-children
 magento.stackexchange.com_en_all,magento.stackexchange.com_*_all,Magento Q&A,eng,computers-technology
-maitre_lucas_additions_20_fr,maitre_*_additions_20_fr,Additioner et Soustraire < 20,fra,school-courses;for-children
-maitre_lucas_additions_fr,maitre_*_additions_fr,Maître Lucas: les Additions,fra,school-courses;for-children
-maitre_lucas_alimentation_fr,maitre_*_alimentation_fr,Maître Lucas: l'Alimentation,fra,school-courses;for-children
-maitre_lucas_apprendre_a_dessiner_fr,maitre_*_apprendre_a_dessiner_fr,Apprendre à Dessiner,fra,school-courses;for-children
-maitre_lucas_calcul_decimaux_fr,maitre_*_calcul_decimaux_fr,Calcul décimal,fra,school-courses;for-children
-maitre_lucas_calcul_mental_fr,maitre_*_calcul_mental_fr,Maître Lucas: le Calcul mental,fra,school-courses;for-children
-maitre_lucas_calculs_et_coloriages_magiques_fr,maitre_*_calculs_et_coloriages_magiques_fr,Calculs et Coloriages magiques,fra,school-courses;for-children
-maitre_lucas_comparer_et_ranger_fr,maitre_*_comparer_et_ranger_fr,Comparer et Ranger,fra,school-courses;for-children
-maitre_lucas_comparer_nombres_100_fr,maitre_*_comparer_nombres_100_fr,Comparer jusqu'à 100,fra,school-courses;for-children
-maitre_lucas_completer_algorithmes_fr,maitre_*_completer_algorithmes_fr,Compléter les Algorithmes,fra,school-courses;for-children
-maitre_lucas_completer_les_mots_fr,maitre_*_completer_les_mots_fr,Compléter les Mots,fra,school-courses;for-children
-maitre_lucas_compter_audela_de_20_fr,maitre_*_compter_audela_de_20_fr,Compter au delà de 20,fra,school-courses;for-children
-maitre_lucas_compter_jusque_10_fr,maitre_*_compter_jusque_10_fr,Compter jusqu'à 10,fra,school-courses;for-children
-maitre_lucas_compter_jusque_20_fr,maitre_*_compter_jusque_20_fr,Compter jusqu'à 20,fra,school-courses;for-children
-maitre_lucas_compter_jusque_5_fr,maitre_*_compter_jusque_5_fr,Compter jusqu'à 5,fra,school-courses;for-children
-maitre_lucas_compter_par_intervalles_fr,maitre_*_compter_par_intervalles_fr,Compter par intervalles,fra,school-courses;for-children
-maitre_lucas_confusion_des_lettres_fr,maitre_*_confusion_des_lettres_fr,"Confusion des lettres p-q, b-d",fra,school-courses;for-children
-maitre_lucas_conjugaison_fr,maitre_*_conjugaison_fr,Maître Lucas: Conjugaison,fra,school-courses;for-children
-maitre_lucas_corps_humain_fr,maitre_*_corps_humain_fr,Corps humain et Activité,fra,school-courses;for-children
-maitre_lucas_developpement_fr,maitre_*_developpement_fr,Développement du vivant,fra,school-courses;for-children
-maitre_lucas_dictees_de_nombres_fr,maitre_*_dictees_de_nombres_fr,Dictées de Nombres,fra,school-courses;for-children
-maitre_lucas_dictees_fr,maitre_*_dictees_fr,Maître Lucas: Dictées,fra,school-courses;for-children
-maitre_lucas_divisions_fr,maitre_*_divisions_fr,Maître Lucas: Divisions,fra,school-courses;for-children
-maitre_lucas_double_et_moitie_fr,maitre_*_double_et_moitie_fr,Maître Lucas: Double et Moitié,fra,school-courses;for-children
-maitre_lucas_ecriture_fr,maitre_*_ecriture_fr,Maître Lucas: Ecriture,fra,school-courses;for-children
-maitre_lucas_enigmes_fr,maitre_*_enigmes_fr,Maître Lucas: Énigmes,fra,school-courses;for-children
-maitre_lucas_enseignement_civique_fr,maitre_*_enseignement_civique_fr,Enseignement civique et moral,fra,school-courses;for-children
-maitre_lucas_espace_geometrie_fr,maitre_*_espace_geometrie_fr,Espace et Géométrie,fra,school-courses;for-children
-maitre_lucas_fractions_fr,maitre_*_fractions_fr,Maître Lucas: Fractions,fra,school-courses;for-children
-maitre_lucas_grammaire_fr,maitre_*_grammaire_fr,Maître Lucas: Grammaire,fra,school-courses;for-children
-maitre_lucas_grandeur_et_mesures_fr,maitre_*_grandeur_et_mesures_fr,Grandeur et Mesures,fra,school-courses;for-children
-maitre_lucas_labyrinthe_de_calculs_fr,maitre_*_labyrinthe_de_calculs_fr,Labyrinthe de Calculs,fra,school-courses;for-children
-maitre_lucas_lecture_fr,maitre_*_lecture_fr,Maître Lucas: Lecture,fra,school-courses;for-children
-maitre_lucas_planete_terre_fr,maitre_*_planete_terre_fr,Planète Terre et Environnement,fra,school-courses;for-children
+maitre_lucas_additions_20_fr,maitre_*_additions_20_fr,Additioner et Soustraire < 20,fra,courses-textbooks;for-children
+maitre_lucas_additions_fr,maitre_*_additions_fr,Maître Lucas: les Additions,fra,courses-textbooks;for-children
+maitre_lucas_alimentation_fr,maitre_*_alimentation_fr,Maître Lucas: l'Alimentation,fra,courses-textbooks;for-children
+maitre_lucas_apprendre_a_dessiner_fr,maitre_*_apprendre_a_dessiner_fr,Apprendre à Dessiner,fra,courses-textbooks;for-children
+maitre_lucas_calcul_decimaux_fr,maitre_*_calcul_decimaux_fr,Calcul décimal,fra,courses-textbooks;for-children
+maitre_lucas_calcul_mental_fr,maitre_*_calcul_mental_fr,Maître Lucas: le Calcul mental,fra,courses-textbooks;for-children
+maitre_lucas_calculs_et_coloriages_magiques_fr,maitre_*_calculs_et_coloriages_magiques_fr,Calculs et Coloriages magiques,fra,courses-textbooks;for-children
+maitre_lucas_comparer_et_ranger_fr,maitre_*_comparer_et_ranger_fr,Comparer et Ranger,fra,courses-textbooks;for-children
+maitre_lucas_comparer_nombres_100_fr,maitre_*_comparer_nombres_100_fr,Comparer jusqu'à 100,fra,courses-textbooks;for-children
+maitre_lucas_completer_algorithmes_fr,maitre_*_completer_algorithmes_fr,Compléter les Algorithmes,fra,courses-textbooks;for-children
+maitre_lucas_completer_les_mots_fr,maitre_*_completer_les_mots_fr,Compléter les Mots,fra,courses-textbooks;for-children
+maitre_lucas_compter_audela_de_20_fr,maitre_*_compter_audela_de_20_fr,Compter au delà de 20,fra,courses-textbooks;for-children
+maitre_lucas_compter_jusque_10_fr,maitre_*_compter_jusque_10_fr,Compter jusqu'à 10,fra,courses-textbooks;for-children
+maitre_lucas_compter_jusque_20_fr,maitre_*_compter_jusque_20_fr,Compter jusqu'à 20,fra,courses-textbooks;for-children
+maitre_lucas_compter_jusque_5_fr,maitre_*_compter_jusque_5_fr,Compter jusqu'à 5,fra,courses-textbooks;for-children
+maitre_lucas_compter_par_intervalles_fr,maitre_*_compter_par_intervalles_fr,Compter par intervalles,fra,courses-textbooks;for-children
+maitre_lucas_confusion_des_lettres_fr,maitre_*_confusion_des_lettres_fr,"Confusion des lettres p-q, b-d",fra,courses-textbooks;for-children
+maitre_lucas_conjugaison_fr,maitre_*_conjugaison_fr,Maître Lucas: Conjugaison,fra,courses-textbooks;for-children
+maitre_lucas_corps_humain_fr,maitre_*_corps_humain_fr,Corps humain et Activité,fra,courses-textbooks;for-children
+maitre_lucas_developpement_fr,maitre_*_developpement_fr,Développement du vivant,fra,courses-textbooks;for-children
+maitre_lucas_dictees_de_nombres_fr,maitre_*_dictees_de_nombres_fr,Dictées de Nombres,fra,courses-textbooks;for-children
+maitre_lucas_dictees_fr,maitre_*_dictees_fr,Maître Lucas: Dictées,fra,courses-textbooks;for-children
+maitre_lucas_divisions_fr,maitre_*_divisions_fr,Maître Lucas: Divisions,fra,courses-textbooks;for-children
+maitre_lucas_double_et_moitie_fr,maitre_*_double_et_moitie_fr,Maître Lucas: Double et Moitié,fra,courses-textbooks;for-children
+maitre_lucas_ecriture_fr,maitre_*_ecriture_fr,Maître Lucas: Ecriture,fra,courses-textbooks;for-children
+maitre_lucas_enigmes_fr,maitre_*_enigmes_fr,Maître Lucas: Énigmes,fra,courses-textbooks;for-children
+maitre_lucas_enseignement_civique_fr,maitre_*_enseignement_civique_fr,Enseignement civique et moral,fra,courses-textbooks;for-children
+maitre_lucas_espace_geometrie_fr,maitre_*_espace_geometrie_fr,Espace et Géométrie,fra,courses-textbooks;for-children
+maitre_lucas_fractions_fr,maitre_*_fractions_fr,Maître Lucas: Fractions,fra,courses-textbooks;for-children
+maitre_lucas_grammaire_fr,maitre_*_grammaire_fr,Maître Lucas: Grammaire,fra,courses-textbooks;for-children
+maitre_lucas_grandeur_et_mesures_fr,maitre_*_grandeur_et_mesures_fr,Grandeur et Mesures,fra,courses-textbooks;for-children
+maitre_lucas_labyrinthe_de_calculs_fr,maitre_*_labyrinthe_de_calculs_fr,Labyrinthe de Calculs,fra,courses-textbooks;for-children
+maitre_lucas_lecture_fr,maitre_*_lecture_fr,Maître Lucas: Lecture,fra,courses-textbooks;for-children
+maitre_lucas_planete_terre_fr,maitre_*_planete_terre_fr,Planète Terre et Environnement,fra,courses-textbooks;for-children
 mali-pour-les-nuls_fr_all,mali-pour-les-nuls_*_all,Le Mali Pour Les Nuls,fra,geography-maps-travel
 maps_en_afghanistan,maps_*_afghanistan,Afghanistan,eng,geography-maps-travel
 maps_en_africa,maps_*_africa,Africa,eng,geography-maps-travel
@@ -979,38 +979,38 @@ martialarts.stackexchange.com_en_all,martialarts.stackexchange.com_*_all,Martial
 marxists.org_de_all,marxists.org_*_all,Marxists.org,deu,society-politics-economy
 marxists.org_es_all,marxists.org_*_all,Marxists.org,spa,society-politics-economy
 math.stackexchange.com_en_all,math.stackexchange.com_*_all,Mathematics Q&A,eng,science-mathematics
-matheducators.stackexchange.com_en_all,matheducators.stackexchange.com_*_all,Mathematics Educators Q&A,eng,school-courses
+matheducators.stackexchange.com_en_all,matheducators.stackexchange.com_*_all,Mathematics Educators Q&A,eng,courses-textbooks
 mathematica.stackexchange.com_en_all,mathematica.stackexchange.com_*_all,Mathematica Q&A,eng,computers-technology
 mathoverflow.net_en_all,mathoverflow.net_*_all,MathOverflow,eng,science-mathematics
 matrix67.com_zh_blog,matrix67.com_*_blog,Matrix67 Blog,zho,science-mathematics
 mattermodeling.stackexchange.com_en_all,mattermodeling.stackexchange.com_*_all,Matter Modeling Q&A,eng,science-mathematics
 mdwiki_en_all,mdwiki_*_all,MDWiki Medical Encyclopedia,eng,health-medicine
 mechanics.stackexchange.com_en_all,mechanics.stackexchange.com_*_all,Motor Vehicle Mechanics,eng,home-food-diy
-media-eleda.ouvaton.org_fr_offline,media-eleda.ouvaton.org_*_offline,Eleda,fra,school-courses;for-children
+media-eleda.ouvaton.org_fr_offline,media-eleda.ouvaton.org_*_offline,Eleda,fra,courses-textbooks;for-children
 mediawiki_en_all,mediawiki_*_all,MediaWiki,eng,computers-technology
 medicalsciences.stackexchange.com_en_all,medicalsciences.stackexchange.com_*_all,Medical Sciences Q&A,eng,health-medicine
 medlineplus.gov_en_all,medlineplus.gov_*_all,MedlinePlus,eng,health-medicine
 medlineplus.gov_es_all,medlineplus.gov_*_all,MedlinePlus,spa,health-medicine
-metakgp_en_all,metakgp_*_all,Metakgp Wiki,eng,school-courses
+metakgp_en_all,metakgp_*_all,Metakgp Wiki,eng,courses-textbooks
 micmaths_fr_all,micmaths_*_all,Mic Maths,fra,science-mathematics
-milneopentextbooks.org_en_all,milneopentextbooks.org_*_all,Milne Open Textbooks,eng,school-courses
+milneopentextbooks.org_en_all,milneopentextbooks.org_*_all,Milne Open Textbooks,eng,courses-textbooks
 minecraft.wiki_en_all,minecraft.wiki_*_all,Minecraft Wiki,eng,games-fandom-humor
 minecraftwiki_en_all,minecraftwiki_*_all,Minecraft Wiki,eng,games-fandom-humor
-moldova-ministry-education_ron_clasa1,moldova-ministry-education_*_clasa1,Manual pentru Clasa I,ron,school-courses;for-children
-moldova-ministry-education_ron_clasa2,moldova-ministry-education_*_clasa2,Manual pentru Clasa II-a,ron,school-courses;for-children
-moldova-ministry-education_ron_clasa3,moldova-ministry-education_*_clasa3,Manual pentru Clasa III-a,ron,school-courses;for-children
-moldova-ministry-education_ron_clasa4,moldova-ministry-education_*_clasa4,Manual pentru Clasa IV-a,ron,school-courses;for-children
-moldova-ministry-education_ron_clasa5,moldova-ministry-education_*_clasa5,Manual pentru Clasa V-a,ron,school-courses
-moldova-ministry-education_ron_clasa6,moldova-ministry-education_*_clasa6,Manual pentru Clasa VI-a,ron,school-courses
-moldova-ministry-education_ron_clasa7,moldova-ministry-education_*_clasa7,Manual pentru Clasa VII-a,ron,school-courses
-moldova-ministry-education_ron_clasa8,moldova-ministry-education_*_clasa8,Manual pentru Clasa VIII-a,ron,school-courses
-moldova-ministry-education_ron_clasa9,moldova-ministry-education_*_clasa9,Manual pentru Clasa IX-a,ron,school-courses
+moldova-ministry-education_ron_clasa1,moldova-ministry-education_*_clasa1,Manual pentru Clasa I,ron,courses-textbooks;for-children
+moldova-ministry-education_ron_clasa2,moldova-ministry-education_*_clasa2,Manual pentru Clasa II-a,ron,courses-textbooks;for-children
+moldova-ministry-education_ron_clasa3,moldova-ministry-education_*_clasa3,Manual pentru Clasa III-a,ron,courses-textbooks;for-children
+moldova-ministry-education_ron_clasa4,moldova-ministry-education_*_clasa4,Manual pentru Clasa IV-a,ron,courses-textbooks;for-children
+moldova-ministry-education_ron_clasa5,moldova-ministry-education_*_clasa5,Manual pentru Clasa V-a,ron,courses-textbooks
+moldova-ministry-education_ron_clasa6,moldova-ministry-education_*_clasa6,Manual pentru Clasa VI-a,ron,courses-textbooks
+moldova-ministry-education_ron_clasa7,moldova-ministry-education_*_clasa7,Manual pentru Clasa VII-a,ron,courses-textbooks
+moldova-ministry-education_ron_clasa8,moldova-ministry-education_*_clasa8,Manual pentru Clasa VIII-a,ron,courses-textbooks
+moldova-ministry-education_ron_clasa9,moldova-ministry-education_*_clasa9,Manual pentru Clasa IX-a,ron,courses-textbooks
 mondial-tissus_fr_all,mondial-tissus_*_all,Mondial Tissus,fra,home-food-diy
 monero.stackexchange.com_en_all,monero.stackexchange.com_*_all,Monero Q&A,eng,computers-technology
 money.stackexchange.com_en_all,money.stackexchange.com_*_all,Personal Finance & Money Q&A,eng,society-politics-economy
-mooc-energie-climat_fr_all,mooc-energie-climat_*_all,Le MOOC Energie et Climat,fra,science-mathematics;school-courses
+mooc-energie-climat_fr_all,mooc-energie-climat_*_all,Le MOOC Energie et Climat,fra,science-mathematics;courses-textbooks
 movies.stackexchange.com_en_all,movies.stackexchange.com_*_all,Movies & TV Q&A,eng,arts-music-film
-mspeekenbrink_en_all,mspeekenbrink_*_all,Data Analysis and Modelling,eng,science-mathematics;school-courses
+mspeekenbrink_en_all,mspeekenbrink_*_all,Data Analysis and Modelling,eng,science-mathematics;courses-textbooks
 music.dalitio.de_en_all,music.dalitio.de_*_all,Music by Christoph Dalitz,eng,arts-music-film
 music.stackexchange.com_en_all,music.stackexchange.com_*_all,Music: Practice & Theory,eng,arts-music-film
 musicfans.stackexchange.com_en_all,musicfans.stackexchange.com_*_all,Music Fans Q&A,eng,arts-music-film
@@ -1023,10 +1023,10 @@ networkengineering.stackexchange.com_en_all,networkengineering.stackexchange.com
 nhs.uk_en_medicines,nhs.uk_*_medicines,NHS' Medicines A to Z,eng,health-medicine
 nota-bene_fr_all,nota-bene_*_all,Nota Bene,fra,history
 noted.lol_en_all,noted.lol_*_all,Noted.lol,eng,computers-technology
-oer4schools_en_all,oer4schools_*_all,OER4Schools,eng,school-courses
+oer4schools_en_all,oer4schools_*_all,OER4Schools,eng,courses-textbooks
 opendata.stackexchange.com_en_all,opendata.stackexchange.com_*_all,Open Data Q&A,eng,computers-technology
-opendatastructures.org_en_all,opendatastructures.org_*_all,Open Data Structures,eng,computers-technology;school-courses
-openmusictheory.com_en_all,openmusictheory.com_*_all,Open Music Theory,eng,arts-music-film;school-courses
+opendatastructures.org_en_all,opendatastructures.org_*_all,Open Data Structures,eng,computers-technology;courses-textbooks
+openmusictheory.com_en_all,openmusictheory.com_*_all,Open Music Theory,eng,arts-music-film;courses-textbooks
 opensource.stackexchange.com_en_all,opensource.stackexchange.com_*_all,Open Source Q&A,eng,computers-technology
 openstreetmap-wiki_en_all,openstreetmap-wiki_*_all,OpenStreetMap Wiki,eng,geography-maps-travel
 openwrt.org_en_all,openwrt.org_*_all,OpenWRT,eng,computers-technology
@@ -1158,11 +1158,11 @@ philosophy.stackexchange.com_en_all,philosophy.stackexchange.com_*_all,Philosoph
 photo.stackexchange.com_en_all,photo.stackexchange.com_*_all,Photography Q&A,eng,arts-music-film
 php.net_en_all,php.net_*_all,PHP Manual,eng,computers-technology
 physics.stackexchange.com_en_all,physics.stackexchange.com_*_all,Physics Q&A,eng,science-mathematics
-phzh_core-arabic-one-test-zim_ar,phzh_*_ar,Core Arabic 1,ara,school-courses
-phzh_core-dari-one,phzh_core-dari-one,CORE به زبان دری - 01,fas,school-courses
-phzh_core-english-one_en,phzh_*_en,Core English 1,eng,school-courses
-phzh_core-greek-one_el,phzh_*_el,Core Greek 1,ell,school-courses
-phzh_core-italian-one_it,phzh_*_it,Core Italian 1,eng,school-courses
+phzh_core-arabic-one-test-zim_ar,phzh_*_ar,Core Arabic 1,ara,courses-textbooks
+phzh_core-dari-one,phzh_core-dari-one,CORE به زبان دری - 01,fas,courses-textbooks
+phzh_core-english-one_en,phzh_*_en,Core English 1,eng,courses-textbooks
+phzh_core-greek-one_el,phzh_*_el,Core Greek 1,ell,courses-textbooks
+phzh_core-italian-one_it,phzh_*_it,Core Italian 1,eng,courses-textbooks
 planetmath.org_en_all,planetmath.org_*_all,Planet Math,eng,science-mathematics
 plume-app.co_fr_all,plume-app.co_*_all,Le Dojo de Plume,fra,languages-dictionaries;for-children
 pm.stackexchange.com_en_all,pm.stackexchange.com_*_all,Project Management Q&A,eng,society-politics-economy
@@ -1191,7 +1191,7 @@ psychology.stackexchange.com_en_all,psychology.stackexchange.com_*_all,Psycholog
 pt.stackoverflow.com_mul_all,pt.stackoverflow.com_*_all,Stack Overflow em Português,"eng,por",computers-technology
 publicdomainrecipes.com_en_all,publicdomainrecipes.com_*_all,Public Domain Recipes,eng,home-food-diy
 puzzling.stackexchange.com_en_all,puzzling.stackexchange.com_*_all,Puzzling Q&A,eng,science-mathematics
-python-class-vc_zh_all,python-class-vc_*_all,Python 程式設計的第一步,zho,computers-technology;school-courses
+python-class-vc_zh_all,python-class-vc_*_all,Python 程式設計的第一步,zho,computers-technology;courses-textbooks
 quant.stackexchange.com_en_all,quant.stackexchange.com_*_all,Quantitative Finance Q&A,eng,society-politics-economy
 quantumcomputing.stackexchange.com_en_all,quantumcomputing.stackexchange.com_*_all,Quantum Computing Q&A,eng,computers-technology
 quickguidesformedicine_en_all,quickguidesformedicine_*_all,Surviving Residency,eng,health-medicine
@@ -1379,7 +1379,7 @@ ted_mul_drugs,ted_*_drugs,TED drugs,"eng,ara,spa,fra,zho,kor,ita,por,jpn,vie,rus
 ted_mul_ebola,ted_*_ebola,TED ebola,"eng,ara,spa,fra,ita,jpn,kor,por,rus,tur,vie,zho,fas,nld,pol,ron,hun,deu,ell,heb,tha,ukr",health-medicine
 ted_mul_ecology,ted_*_ecology,TED ecology,"eng,fra,ara,spa,zho,vie,kor,ita,por,rus,heb,tur,jpn,deu,ron,nld,pol,hun,fas,ind,srp",science-mathematics
 ted_mul_economics,ted_*_economics,TED economics,"eng,spa,ara,zho,fra,vie,ita,kor,por,tur,rus,heb,jpn,hun,ron,fas,deu,nld,pol",society-politics-economy
-ted_mul_education,ted_*_education,TED education,"eng,spa,ara,zho,fra,kor,tur,vie,ita,por,rus,heb,ind,jpn,pol,ron,fas,mya,deu,tha,hun,ell",school-courses
+ted_mul_education,ted_*_education,TED education,"eng,spa,ara,zho,fra,kor,tur,vie,ita,por,rus,heb,ind,jpn,pol,ron,fas,mya,deu,tha,hun,ell",courses-textbooks
 ted_mul_egypt,ted_*_egypt,TED egypt,"eng,ara,spa,fra,heb,ita,kor,rus,tur,vie,zho,jpn,por,ell,pol,ron,deu,ind,srp,hun,bul,fas,nld,ukr,ces,tha",history
 ted_mul_electricity,ted_*_electricity,TED electricity,"eng,ara,spa,zho,fra,vie,ita,kor,por,rus,tur,jpn,heb,deu,ind,fas,pol",science-mathematics
 ted_mul_emotions,ted_*_emotions,TED emotions,"eng,spa,ara,vie,zho,fra,ita,tur,kor,heb,por",society-politics-economy
@@ -1420,7 +1420,7 @@ ted_mul_glaciers,ted_*_glaciers,TED glaciers,"eng,ara,spa,fra,ita,jpn,kor,por,ru
 ted_mul_global-issues,ted_*_global-issues,TED global issues,"eng,spa,ara,fra,zho,ita,por,vie,kor,rus,heb,jpn,tur,ron,nld,deu,pol,hun,fas,ell,bul",society-politics-economy
 ted_mul_goals,ted_*_goals,TED goals,"eng,ara,spa,zho,vie,fra,por,ita,tur,kor,rus,jpn,heb,fas,ron,hun,nld,ind",society-politics-economy
 ted_mul_government,ted_*_government,TED government,"eng,spa,ara,zho,fra,ita,vie,kor,por,tur,rus,heb,jpn,hun,fas",society-politics-economy
-ted_mul_grammar,ted_*_grammar,TED grammar,"eng,spa,ara,fra,heb,ita,kor,por,tur,vie,zho,deu,jpn,rus,ell,ind,fas,hun,pol,ron,srp,tha,mya,nld,ckb",school-courses
+ted_mul_grammar,ted_*_grammar,TED grammar,"eng,spa,ara,fra,heb,ita,kor,por,tur,vie,zho,deu,jpn,rus,ell,ind,fas,hun,pol,ron,srp,tha,mya,nld,ckb",courses-textbooks
 ted_mul_graphic-design,ted_*_graphic-design,TED graphic design,"eng,ara,spa,fra,heb,ita,jpn,kor,por,ron,rus,zho,hun,tur,vie,deu,fas,nld,pol,ell,hrv,srp",arts-music-film
 ted_mul_happiness,ted_*_happiness,TED happiness,"eng,spa,ara,zho,fra,vie,ita,por,heb,tur,kor,rus,ron,jpn,fas,deu,hun,ell,nld,pol",society-politics-economy
 ted_mul_health,ted_*_health,TED health,"eng,spa,ara,zho,fra,vie,ita,kor,tur,por,rus,heb,jpn,fas,ron,hun,pol,ind,deu,ell",health-medicine
@@ -1455,7 +1455,7 @@ ted_mul_islam,ted_*_islam,TED islam,"eng,ita,por,tur,ara,spa,fra,heb,kor,vie,zho
 ted_mul_journalism,ted_*_journalism,TED journalism,"eng,spa,ara,fra,zho,kor,ita,tur,vie,por,rus,heb,jpn,hun,fas,ron,deu,srp,pol,ell,nld",society-politics-economy
 ted_mul_justice-system,ted_*_justice-system,TED justice system,"eng,ara,spa,zho,fra,por,kor,ita,tur,rus,vie,jpn",society-politics-economy
 ted_mul_kids,ted_*_kids,TED kids,"eng,spa,ara,zho,fra,ita,vie,por,kor,tur,rus,jpn,heb,ron,fas,hun,nld,deu,ell,pol,srp",society-politics-economy
-ted_mul_language,ted_*_language,TED language,"eng,spa,ara,zho,fra,tur,por,vie,ita,kor,rus,heb,jpn,fas,ron,deu,hun,ind,pol,srp,mya,ell,nld,tha",school-courses
+ted_mul_language,ted_*_language,TED language,"eng,spa,ara,zho,fra,tur,por,vie,ita,kor,rus,heb,jpn,fas,ron,deu,hun,ind,pol,srp,mya,ell,nld,tha",courses-textbooks
 ted_mul_law,ted_*_law,TED law,"eng,ara,spa,fra,por,zho,kor,ita,vie,tur,rus,jpn,hun,heb,fas",society-politics-economy
 ted_mul_leadership,ted_*_leadership,TED leadership,"eng,spa,ara,zho,ita,vie,fra,por,tur,kor,rus",society-politics-economy
 ted_mul_lgbtqia,ted_*_lgbtqia,TED lgbtqia+,"eng,spa,ara,vie,zho,ita,fra,por,tur,kor,jpn",society-politics-economy
@@ -1579,13 +1579,13 @@ ted_mul_surgery,ted_*_surgery,TED surgery,"eng,ara,spa,kor,vie,zho,fra,ita,rus,p
 ted_mul_surveillance,ted_*_surveillance,TED surveillance,"eng,spa,ara,fra,por,vie,jpn,kor,zho,hun,ita,rus,tur,srp,fas,ron,heb,nld,ell,pol,ukr,deu,hrv,ind,bul",computers-technology
 ted_mul_sustainability,ted_*_sustainability,TED sustainability,"eng,spa,ara,zho,fra,ita,vie,kor,por,tur,rus,heb,jpn",science-mathematics
 ted_mul_synthetic-biology,ted_*_synthetic-biology,TED synthetic biology,"eng,ara,spa,fra,zho,kor,ita,por,rus,vie,heb,fas,jpn,tur,hun,ell,nld,srp,pol,ron,deu",science-mathematics
-ted_mul_teaching,ted_*_teaching,TED teaching,"eng,spa,ara,zho,fra,vie,por,kor,ita,tur,rus,jpn,fas,heb,hun,ron",school-courses
+ted_mul_teaching,ted_*_teaching,TED teaching,"eng,spa,ara,zho,fra,vie,por,kor,ita,tur,rus,jpn,fas,heb,hun,ron",courses-textbooks
 ted_mul_tech,ted_*_tech,TED tech,"eng,ara,spa,zho,fra,tur,vie,ita,zho,kor,rus",computers-technology
 ted_mul_technology,ted_*_technology,TED technology,"eng,spa,ara,zho,fra,vie,kor,ita,por,heb,tur,rus,jpn,ron,hun,fas,deu",computers-technology
 ted_mul_ted-books,ted_*_ted-books,TED ted books,"eng,ara,spa,fra,heb,ita,jpn,kor,por,rus,srp,tur,vie,zho,fas,nld,ell,hun,pol,ukr,deu,swe,ron,tha,hrv,bul,ces,lit",encyclopedias-general-reference
 ted_mul_ted-conference,ted_*_ted-conference,TED ted conference,"eng,spa,ara,zho,fra,ita,vie,kor,por,tur,rus,heb,jpn,ron,fas,hun,deu,nld,pol,ell,srp",encyclopedias-general-reference
 ted_mul_ted-connects,ted_*_ted-connects,TED ted connects,eng,encyclopedias-general-reference
-ted_mul_ted-ed,ted_*_ted-ed,TED ted-ed,"eng,ara,zho,tur,spa,vie,kor,fra,ita,heb,ind,rus,por,pol,jpn,ron,mya,fas,tha,deu,hun,ell,srp,ckb",school-courses
+ted_mul_ted-ed,ted_*_ted-ed,TED ted-ed,"eng,ara,zho,tur,spa,vie,kor,fra,ita,heb,ind,rus,por,pol,jpn,ron,mya,fas,tha,deu,hun,ell,srp,ckb",courses-textbooks
 ted_mul_ted-en-espanol,ted_*_ted-en-espanol,TED ted en español,"spa,eng",encyclopedias-general-reference
 ted_mul_ted-fellows,ted_*_ted-fellows,TED ted fellows,"eng,ara,spa,zho,vie,fra,por,ita,kor,tur,rus,fas,jpn,ind,heb,hun,deu,nld,ron,pol,ell,srp,ukr,mya",encyclopedias-general-reference
 ted_mul_ted-membership,ted_*_ted-membership,TED ted membership,"eng,ara,spa",encyclopedias-general-reference
@@ -1630,7 +1630,7 @@ ted_mul_writing,ted_*_writing,TED writing,"eng,spa,kor,ara,fra,zho,por,rus,vie,i
 ted_mul_youth,ted_*_youth,TED youth,"eng,spa,ara,zho,fra,vie,por,ita,kor,rus,tur,jpn,heb,fas,ind",society-politics-economy
 termux_en_all,termux_*_all,Termux Wiki,eng,computers-technology
 terraria.wiki.gg_en_all,terraria.wiki.gg_*_all,Terraria Wiki,eng,games-fandom-humor
-test-delf-dalf_fr_all,test-delf-dalf_*_all,Français langue étrangère,fra,languages-dictionaries;school-courses
+test-delf-dalf_fr_all,test-delf-dalf_*_all,Français langue étrangère,fra,languages-dictionaries;courses-textbooks
 tex.stackexchange.com_en_all,tex.stackexchange.com_*_all,TeX - LaTeX Q&A,eng,computers-technology
 tezos.stackexchange.com_en_all,tezos.stackexchange.com_*_all,Tezos Q&A,eng,computers-technology
 thaki-unlocks_ar_tech-tricks,thaki-unlocks_*_tech-tricks,Thaki Tech Tricks,ara,computers-technology
@@ -1644,12 +1644,12 @@ travel.stackexchange.com_en_all,travel.stackexchange.com_*_all,Travel Q&A,eng,ge
 tridion.stackexchange.com_en_all,tridion.stackexchange.com_*_all,Tridion Q&A,eng,computers-technology
 trueprepper.com_en_all,trueprepper.com_*_all,True prepper,eng,survival-preparedness
 u-bourgogne.fr_mul_football-s,u-bourgogne.fr_*_football-s,Football(s),fra,sports-outdoors
-ubongo_fr_all,ubongo_*_all,Ubongo Français,fra,school-courses;for-children
-ubongo_sw_all,ubongo_*_all,Ubongo,swa,school-courses;for-children
+ubongo_fr_all,ubongo_*_all,Ubongo Français,fra,courses-textbooks;for-children
+ubongo_sw_all,ubongo_*_all,Ubongo,swa,courses-textbooks;for-children
 ubuntuusers_de_all,ubuntuusers_*_all,Ubuntuusers Wiki,deu,computers-technology
 uesp.net_en_all,uesp.net_*_all,Elder Scrolls,eng,games-fandom-humor
 ukrainian.stackexchange.com_mul_all,ukrainian.stackexchange.com_*_all,Ukrainian Language Q&A,"eng,ukr",languages-dictionaries
-unine.ch_fr_premiers-pas-avec-python,unine.ch_*_premiers-pas-avec-python,Premiers pas avec Python,fra,computers-technology;school-courses
+unine.ch_fr_premiers-pas-avec-python,unine.ch_*_premiers-pas-avec-python,Premiers pas avec Python,fra,computers-technology;courses-textbooks
 universcience-tv_fr_all,universcience-tv_*_all,Le blob (universcience.tv),fra,science-mathematics
 unix.stackexchange.com_en_all,unix.stackexchange.com_*_all,Unix & Linux Q&A,eng,computers-technology
 unrealircd_en_all,unrealircd_*_all,UnrealIRCd Docs,eng,computers-technology
@@ -1672,7 +1672,7 @@ voa_am_all,voa_*_all,ከአና ጋር እንግሊዝኛ ይማሩ!,amh,language
 voa_bm_all,voa_*_all,Tubabukan kalan ni Anna ye!,bam,languages-dictionaries;for-children
 voa_fr_all,voa_*_all,Apprenons l'anglais avec Anna!,fra,languages-dictionaries;for-children
 voa_ko_all,voa_*_all,안나와 함께 영어를 배우자!,kor,languages-dictionaries;for-children
-voa_learning_en_all,voa_*_en_all,VOA Learning,eng,languages-dictionaries;school-courses
+voa_learning_en_all,voa_*_en_all,VOA Learning,eng,languages-dictionaries;courses-textbooks
 voa_ln_all,voa_*_all,Yekola lingala elongo na Anna!,lin,languages-dictionaries;for-children
 voa_uzb_all,voa_*_all,Anna bilan ingliz o'rganamiz!,uzb,languages-dictionaries;for-children
 voa_vi_all,voa_*_all,Học tiếng Anh cùng Anna!,vie,languages-dictionaries;for-children
@@ -1683,86 +1683,86 @@ wikem_en_all,wikem_*_all,WikEM,eng,health-medicine
 wiki-africa_fr_ressources-droit-auteur,wiki-africa_*_ressources-droit-auteur,Le droit d’auteur pour tous,fra,society-politics-economy
 wiki.leagueoflegends.com_en_all,wiki.leagueoflegends.com_*_all,League of Legends,eng,games-fandom-humor
 wiki_en_all,wiki_*_all,Magic the Gathering,eng,games-fandom-humor
-wikibooks_af_all,wikibooks_*_all,Wikibooks,afr,school-courses
-wikibooks_ar_all,wikibooks_*_all,ويكي كتب,ara,school-courses
-wikibooks_az_all,wikibooks_*_all,Vikikitab,aze,school-courses
-wikibooks_ba_all,wikibooks_*_all,Викидәреслек,bak,school-courses
-wikibooks_be_all,wikibooks_*_all,Вікікнігі,bel,school-courses
-wikibooks_bg_all,wikibooks_*_all,Уикикниги,bul,school-courses
-wikibooks_bn_all,wikibooks_*_all,উইকিবই,ben,school-courses
-wikibooks_bs_all,wikibooks_*_all,Wikiknjige,bos,school-courses
-wikibooks_ca_all,wikibooks_*_all,Viquillibres,cat,school-courses
-wikibooks_cs_all,wikibooks_*_all,Wikiknihy,ces,school-courses
-wikibooks_cv_all,wikibooks_*_all,Wikibooks,chv,school-courses
-wikibooks_cy_all,wikibooks_*_all,Wicilyfrau,cym,school-courses
-wikibooks_da_all,wikibooks_*_all,Wikibooks,dan,school-courses
-wikibooks_de_all,wikibooks_*_all,Wikibooks,deu,school-courses
-wikibooks_el_all,wikibooks_*_all,Βικιβιβλία,ell,school-courses
-wikibooks_en_all,wikibooks_*_all,Wikibooks,eng,school-courses
-wikibooks_eo_all,wikibooks_*_all,Vikilibroj,epo,school-courses
-wikibooks_es_all,wikibooks_*_all,Wikilibro,spa,school-courses
-wikibooks_et_all,wikibooks_*_all,Vikiõpikud,est,school-courses
-wikibooks_eu_all,wikibooks_*_all,Wikibooks,eus,school-courses
-wikibooks_fa_all,wikibooks_*_all,ویکی‌کتاب,fas,school-courses
-wikibooks_fi_all,wikibooks_*_all,Wikikirjasto,fin,school-courses
-wikibooks_fr_all,wikibooks_*_all,Wikilivres,fra,school-courses
-wikibooks_fy_all,wikibooks_*_all,Wikibooks,fry,school-courses
-wikibooks_gl_all,wikibooks_*_all,Wikibooks,glg,school-courses
-wikibooks_he_all,wikibooks_*_all,ויקיספר,heb,school-courses
-wikibooks_hi_all,wikibooks_*_all,विकिपुस्तक,hin,school-courses
-wikibooks_hr_all,wikibooks_*_all,Wikibooks,hrv,school-courses
-wikibooks_hu_all,wikibooks_*_all,Wikikönyvek,hun,school-courses
-wikibooks_hy_all,wikibooks_*_all,Վիքիգրքեր,hye,school-courses
-wikibooks_ia_all,wikibooks_*_all,Wikibooks,ina,school-courses
-wikibooks_id_all,wikibooks_*_all,Wikibuku,ind,school-courses
-wikibooks_is_all,wikibooks_*_all,Wikibækur,isl,school-courses
-wikibooks_it_all,wikibooks_*_all,Wikibooks,ita,school-courses
-wikibooks_ja_all,wikibooks_*_all,Wikibooks,jpn,school-courses
-wikibooks_ka_all,wikibooks_*_all,ვიკიწიგნები,kat,school-courses
-wikibooks_kk_all,wikibooks_*_all,Уикикітап,kaz,school-courses
-wikibooks_km_all,wikibooks_*_all,Wikibooks,khm,school-courses
-wikibooks_ko_all,wikibooks_*_all,위키책,kor,school-courses
-wikibooks_ku_all,wikibooks_*_all,Wikibooks,kur,school-courses
-wikibooks_ky_all,wikibooks_*_all,Wikibooks,kir,school-courses
-wikibooks_la_all,wikibooks_*_all,Vicilibri,lat,school-courses
-wikibooks_li_all,wikibooks_*_all,Wikibeuk,lim,school-courses
-wikibooks_lt_all,wikibooks_*_all,Wikibooks,lit,school-courses
-wikibooks_mg_all,wikibooks_*_all,Wikibooks,mlg,school-courses
-wikibooks_mk_all,wikibooks_*_all,Викикниги,mkd,school-courses
-wikibooks_ml_all,wikibooks_*_all,വിക്കിപാഠശാല,mal,school-courses
-wikibooks_mr_all,wikibooks_*_all,विकिबुक्स,mar,school-courses
-wikibooks_ms_all,wikibooks_*_all,Wikibuku,msa,school-courses
-wikibooks_nb_all,wikibooks_*_all,Wikibøker,nob,school-courses
-wikibooks_ne_all,wikibooks_*_all,विकिपुस्तक,nep,school-courses
-wikibooks_nl_all,wikibooks_*_all,Wikibooks,nld,school-courses
-wikibooks_oc_all,wikibooks_*_all,Wikilibres,oci,school-courses
-wikibooks_pa_all,wikibooks_*_all,Wikibooks,pan,school-courses
-wikibooks_pl_all,wikibooks_*_all,Wikibooks,pol,school-courses
-wikibooks_pt_all,wikibooks_*_all,Wikilivros,por,school-courses
-wikibooks_ro_all,wikibooks_*_all,Wikimanuale,ron,school-courses
-wikibooks_ru_all,wikibooks_*_all,Викиучебник,rus,school-courses
-wikibooks_sa_all,wikibooks_*_all,विकिपुस्तकानि,san,school-courses
-wikibooks_si_all,wikibooks_*_all,Wikibooks,sin,school-courses
-wikibooks_sk_all,wikibooks_*_all,Wikiknihy,slk,school-courses
-wikibooks_sl_all,wikibooks_*_all,Wikiknjige,slv,school-courses
-wikibooks_sq_all,wikibooks_*_all,Wikibooks,sqi,school-courses
-wikibooks_sr_all,wikibooks_*_all,Викикњиге,srp,school-courses
-wikibooks_sv_all,wikibooks_*_all,Wikibooks,swe,school-courses
-wikibooks_ta_all,wikibooks_*_all,விக்கிநூல்கள்,tam,school-courses
-wikibooks_te_all,wikibooks_*_all,Wikibooks,tel,school-courses
-wikibooks_tg_all,wikibooks_*_all,Wikibooks,tgk,school-courses
-wikibooks_th_all,wikibooks_*_all,วิกิตำราภาษาไทย,tha,school-courses
-wikibooks_tl_all,wikibooks_*_all,Wikibooks,tgl,school-courses
-wikibooks_tr_all,wikibooks_*_all,Vikikitap,tur,school-courses
-wikibooks_tt_all,wikibooks_*_all,Wikibooks,tat,school-courses
-wikibooks_uk_all,wikibooks_*_all,Вікіпідручник,ukr,school-courses
-wikibooks_ur_all,wikibooks_*_all,ویکی کتب,urd,school-courses
-wikibooks_vi_all,wikibooks_*_all,Wikibooks,vie,school-courses
-wikibooks_zh_all,wikibooks_*_all,Wikibooks,zho,school-courses
+wikibooks_af_all,wikibooks_*_all,Wikibooks,afr,courses-textbooks
+wikibooks_ar_all,wikibooks_*_all,ويكي كتب,ara,courses-textbooks
+wikibooks_az_all,wikibooks_*_all,Vikikitab,aze,courses-textbooks
+wikibooks_ba_all,wikibooks_*_all,Викидәреслек,bak,courses-textbooks
+wikibooks_be_all,wikibooks_*_all,Вікікнігі,bel,courses-textbooks
+wikibooks_bg_all,wikibooks_*_all,Уикикниги,bul,courses-textbooks
+wikibooks_bn_all,wikibooks_*_all,উইকিবই,ben,courses-textbooks
+wikibooks_bs_all,wikibooks_*_all,Wikiknjige,bos,courses-textbooks
+wikibooks_ca_all,wikibooks_*_all,Viquillibres,cat,courses-textbooks
+wikibooks_cs_all,wikibooks_*_all,Wikiknihy,ces,courses-textbooks
+wikibooks_cv_all,wikibooks_*_all,Wikibooks,chv,courses-textbooks
+wikibooks_cy_all,wikibooks_*_all,Wicilyfrau,cym,courses-textbooks
+wikibooks_da_all,wikibooks_*_all,Wikibooks,dan,courses-textbooks
+wikibooks_de_all,wikibooks_*_all,Wikibooks,deu,courses-textbooks
+wikibooks_el_all,wikibooks_*_all,Βικιβιβλία,ell,courses-textbooks
+wikibooks_en_all,wikibooks_*_all,Wikibooks,eng,courses-textbooks
+wikibooks_eo_all,wikibooks_*_all,Vikilibroj,epo,courses-textbooks
+wikibooks_es_all,wikibooks_*_all,Wikilibro,spa,courses-textbooks
+wikibooks_et_all,wikibooks_*_all,Vikiõpikud,est,courses-textbooks
+wikibooks_eu_all,wikibooks_*_all,Wikibooks,eus,courses-textbooks
+wikibooks_fa_all,wikibooks_*_all,ویکی‌کتاب,fas,courses-textbooks
+wikibooks_fi_all,wikibooks_*_all,Wikikirjasto,fin,courses-textbooks
+wikibooks_fr_all,wikibooks_*_all,Wikilivres,fra,courses-textbooks
+wikibooks_fy_all,wikibooks_*_all,Wikibooks,fry,courses-textbooks
+wikibooks_gl_all,wikibooks_*_all,Wikibooks,glg,courses-textbooks
+wikibooks_he_all,wikibooks_*_all,ויקיספר,heb,courses-textbooks
+wikibooks_hi_all,wikibooks_*_all,विकिपुस्तक,hin,courses-textbooks
+wikibooks_hr_all,wikibooks_*_all,Wikibooks,hrv,courses-textbooks
+wikibooks_hu_all,wikibooks_*_all,Wikikönyvek,hun,courses-textbooks
+wikibooks_hy_all,wikibooks_*_all,Վիքիգրքեր,hye,courses-textbooks
+wikibooks_ia_all,wikibooks_*_all,Wikibooks,ina,courses-textbooks
+wikibooks_id_all,wikibooks_*_all,Wikibuku,ind,courses-textbooks
+wikibooks_is_all,wikibooks_*_all,Wikibækur,isl,courses-textbooks
+wikibooks_it_all,wikibooks_*_all,Wikibooks,ita,courses-textbooks
+wikibooks_ja_all,wikibooks_*_all,Wikibooks,jpn,courses-textbooks
+wikibooks_ka_all,wikibooks_*_all,ვიკიწიგნები,kat,courses-textbooks
+wikibooks_kk_all,wikibooks_*_all,Уикикітап,kaz,courses-textbooks
+wikibooks_km_all,wikibooks_*_all,Wikibooks,khm,courses-textbooks
+wikibooks_ko_all,wikibooks_*_all,위키책,kor,courses-textbooks
+wikibooks_ku_all,wikibooks_*_all,Wikibooks,kur,courses-textbooks
+wikibooks_ky_all,wikibooks_*_all,Wikibooks,kir,courses-textbooks
+wikibooks_la_all,wikibooks_*_all,Vicilibri,lat,courses-textbooks
+wikibooks_li_all,wikibooks_*_all,Wikibeuk,lim,courses-textbooks
+wikibooks_lt_all,wikibooks_*_all,Wikibooks,lit,courses-textbooks
+wikibooks_mg_all,wikibooks_*_all,Wikibooks,mlg,courses-textbooks
+wikibooks_mk_all,wikibooks_*_all,Викикниги,mkd,courses-textbooks
+wikibooks_ml_all,wikibooks_*_all,വിക്കിപാഠശാല,mal,courses-textbooks
+wikibooks_mr_all,wikibooks_*_all,विकिबुक्स,mar,courses-textbooks
+wikibooks_ms_all,wikibooks_*_all,Wikibuku,msa,courses-textbooks
+wikibooks_nb_all,wikibooks_*_all,Wikibøker,nob,courses-textbooks
+wikibooks_ne_all,wikibooks_*_all,विकिपुस्तक,nep,courses-textbooks
+wikibooks_nl_all,wikibooks_*_all,Wikibooks,nld,courses-textbooks
+wikibooks_oc_all,wikibooks_*_all,Wikilibres,oci,courses-textbooks
+wikibooks_pa_all,wikibooks_*_all,Wikibooks,pan,courses-textbooks
+wikibooks_pl_all,wikibooks_*_all,Wikibooks,pol,courses-textbooks
+wikibooks_pt_all,wikibooks_*_all,Wikilivros,por,courses-textbooks
+wikibooks_ro_all,wikibooks_*_all,Wikimanuale,ron,courses-textbooks
+wikibooks_ru_all,wikibooks_*_all,Викиучебник,rus,courses-textbooks
+wikibooks_sa_all,wikibooks_*_all,विकिपुस्तकानि,san,courses-textbooks
+wikibooks_si_all,wikibooks_*_all,Wikibooks,sin,courses-textbooks
+wikibooks_sk_all,wikibooks_*_all,Wikiknihy,slk,courses-textbooks
+wikibooks_sl_all,wikibooks_*_all,Wikiknjige,slv,courses-textbooks
+wikibooks_sq_all,wikibooks_*_all,Wikibooks,sqi,courses-textbooks
+wikibooks_sr_all,wikibooks_*_all,Викикњиге,srp,courses-textbooks
+wikibooks_sv_all,wikibooks_*_all,Wikibooks,swe,courses-textbooks
+wikibooks_ta_all,wikibooks_*_all,விக்கிநூல்கள்,tam,courses-textbooks
+wikibooks_te_all,wikibooks_*_all,Wikibooks,tel,courses-textbooks
+wikibooks_tg_all,wikibooks_*_all,Wikibooks,tgk,courses-textbooks
+wikibooks_th_all,wikibooks_*_all,วิกิตำราภาษาไทย,tha,courses-textbooks
+wikibooks_tl_all,wikibooks_*_all,Wikibooks,tgl,courses-textbooks
+wikibooks_tr_all,wikibooks_*_all,Vikikitap,tur,courses-textbooks
+wikibooks_tt_all,wikibooks_*_all,Wikibooks,tat,courses-textbooks
+wikibooks_uk_all,wikibooks_*_all,Вікіпідручник,ukr,courses-textbooks
+wikibooks_ur_all,wikibooks_*_all,ویکی کتب,urd,courses-textbooks
+wikibooks_vi_all,wikibooks_*_all,Wikibooks,vie,courses-textbooks
+wikibooks_zh_all,wikibooks_*_all,Wikibooks,zho,courses-textbooks
 wikiciv_en_all,wikiciv_*_all,WikiCiv,eng,survival-preparedness
 wikidex_es_all,wikidex_*_all,Wikidex,spa,games-fandom-humor
 wikimedia_id_wikipedia-tutorial,wikimedia_*_wikipedia-tutorial,Tutorial Wikipedia,ind,computers-technology
-wikimooc_fr_all,wikimooc_*_all,WikiMOOC,fra,school-courses
+wikimooc_fr_all,wikimooc_*_all,WikiMOOC,fra,courses-textbooks
 wikipedia_ab_all,wikipedia_*_all,Авикипедиа,abk,encyclopedias-general-reference
 wikipedia_ace_all,wikipedia_*_all,Wikipedia,ace,encyclopedias-general-reference
 wikipedia_ady_all,wikipedia_*_all,Википедие,ady,encyclopedias-general-reference
@@ -2438,23 +2438,23 @@ wikisource_yi_all,wikisource_*_all,װיקיביבליאָטעק,yid,books-litera
 wikisource_zh_all,wikisource_*_all,Wikisource,zho,books-literature
 wikispecies_en_all,wikispecies_*_all,Wikispecies,eng,science-mathematics
 wikitech_en_all,wikitech_*_all,Wikitech,eng,computers-technology
-wikiversity_ar_all,wikiversity_*_all,ويكي الجامعة,ara,school-courses
-wikiversity_cs_all,wikiversity_*_all,Wikiverzita,ces,school-courses
-wikiversity_de_all,wikiversity_*_all,Wikiversity,deu,school-courses
-wikiversity_el_all,wikiversity_*_all,Βικιεπιστήμιο,ell,school-courses
-wikiversity_en_all,wikiversity_*_all,Wikiversity,eng,school-courses
-wikiversity_es_all,wikiversity_*_all,Wikiversidad,spa,school-courses
-wikiversity_fi_all,wikiversity_*_all,Wikiopisto,fin,school-courses
-wikiversity_fr_all,wikiversity_*_all,Wikiversité,fra,school-courses
-wikiversity_hi_all,wikiversity_*_all,विकिविश्वविद्यालय,hin,school-courses
-wikiversity_it_all,wikiversity_*_all,Wikiversità,ita,school-courses
-wikiversity_ja_all,wikiversity_*_all,ウィキバーシティ,jpn,school-courses
-wikiversity_ko_all,wikiversity_*_all,위키배움터,kor,school-courses
-wikiversity_pt_all,wikiversity_*_all,Wikiversidade,por,school-courses
-wikiversity_ru_all,wikiversity_*_all,Викиверситет,rus,school-courses
-wikiversity_sl_all,wikiversity_*_all,Wikiverza,slv,school-courses
-wikiversity_sv_all,wikiversity_*_all,Wikiversity,swe,school-courses
-wikiversity_zh_all,wikiversity_*_all,維基學院,zho,school-courses
+wikiversity_ar_all,wikiversity_*_all,ويكي الجامعة,ara,courses-textbooks
+wikiversity_cs_all,wikiversity_*_all,Wikiverzita,ces,courses-textbooks
+wikiversity_de_all,wikiversity_*_all,Wikiversity,deu,courses-textbooks
+wikiversity_el_all,wikiversity_*_all,Βικιεπιστήμιο,ell,courses-textbooks
+wikiversity_en_all,wikiversity_*_all,Wikiversity,eng,courses-textbooks
+wikiversity_es_all,wikiversity_*_all,Wikiversidad,spa,courses-textbooks
+wikiversity_fi_all,wikiversity_*_all,Wikiopisto,fin,courses-textbooks
+wikiversity_fr_all,wikiversity_*_all,Wikiversité,fra,courses-textbooks
+wikiversity_hi_all,wikiversity_*_all,विकिविश्वविद्यालय,hin,courses-textbooks
+wikiversity_it_all,wikiversity_*_all,Wikiversità,ita,courses-textbooks
+wikiversity_ja_all,wikiversity_*_all,ウィキバーシティ,jpn,courses-textbooks
+wikiversity_ko_all,wikiversity_*_all,위키배움터,kor,courses-textbooks
+wikiversity_pt_all,wikiversity_*_all,Wikiversidade,por,courses-textbooks
+wikiversity_ru_all,wikiversity_*_all,Викиверситет,rus,courses-textbooks
+wikiversity_sl_all,wikiversity_*_all,Wikiverza,slv,courses-textbooks
+wikiversity_sv_all,wikiversity_*_all,Wikiversity,swe,courses-textbooks
+wikiversity_zh_all,wikiversity_*_all,維基學院,zho,courses-textbooks
 wikivet.net_en_all,wikivet.net_*_all,WikiVet,eng,health-medicine
 wikivoyage_bn_all,wikivoyage_*_all,উইকিভ্রমণ,ben,geography-maps-travel
 wikivoyage_de_all,wikivoyage_*_all,Wikivoyage,deu,geography-maps-travel
@@ -2639,10 +2639,10 @@ www.solidarite-numerique.fr_fr_all,www.solidarite-numerique.fr_*_all,Solidarité
 wwwnc.cdc.gov_en_all,wwwnc.cdc.gov_*_all,Travelers' Health,eng,geography-maps-travel
 xkcd.com_en_all,xkcd.com_*_all,xkcd,eng,games-fandom-humor
 yeshiva_he_all,yeshiva_*_all,ויקישיבה,heb,religion-philosophy
-youscribe_fr_audiobooks,youscribe_*_audiobooks,Audiolivres de littérature classique,fra,school-courses
-youscribe_fr_college,youscribe_*_college,Ressources éducatives collège,fra,school-courses
-youscribe_fr_lycee,youscribe_*_lycee,Ressources éducatives lycée,fra,school-courses
-youscribe_fr_primaire,youscribe_*_primaire,Ressources éducatives primaire,fra,school-courses;for-children
+youscribe_fr_audiobooks,youscribe_*_audiobooks,Audiolivres de littérature classique,fra,courses-textbooks
+youscribe_fr_college,youscribe_*_college,Ressources éducatives collège,fra,courses-textbooks
+youscribe_fr_lycee,youscribe_*_lycee,Ressources éducatives lycée,fra,courses-textbooks
+youscribe_fr_primaire,youscribe_*_primaire,Ressources éducatives primaire,fra,courses-textbooks;for-children
 zaya-english-duniya-marathi_mr,zaya-english-duniya-marathi_mr,English Duniya - Marathi,mar,languages-dictionaries;for-children
 zdoom_en_all,zdoom_*_all,ZDoom Wiki,eng,games-fandom-humor
 zh.minecraft.wiki_zh-hk_all,zh.minecraft.wiki_*_all,Minecraft Wiki,zho,games-fandom-humor
