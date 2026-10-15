@@ -108,6 +108,11 @@ def path(uri):
     return urlparse(uri).path
 
 
+def identifier(uri):
+    # identifiers are displayed as stored in ZIMs, without the https:// scheme
+    return uri.removeprefix("https://")
+
+
 def folder(uri):
     return path(uri).rstrip("/") + "/"
 
@@ -115,10 +120,10 @@ def folder(uri):
 def html_scheme(scheme):
     e = html.escape
     rows = "".join(f'<tr><td><a href="{e(path(c["uri"]))}">{e(c["labels"]["en"])}</a></td>'
-                   f'<td><code>{e(c["uri"])}</code></td><td>{len(c["labels"])}</td></tr>\n'
+                   f'<td><code>{e(identifier(c["uri"]))}</code></td><td>{len(c["labels"])}</td></tr>\n'
                    for c in scheme["concepts"])
     title = scheme["labels"]["en"]
-    body = (f"<h1>{e(title)}</h1>\n<p><code>{e(scheme['uri'])}</code></p>\n"
+    body = (f"<h1>{e(title)}</h1>\n<p><code>{e(identifier(scheme['uri']))}</code></p>\n"
             f"<table>\n<tr><th>Category</th><th>Identifier</th><th>Languages</th></tr>\n{rows}</table>")
     return PAGE.format(title=e(title), body=body, path=e(folder(scheme["uri"])), uri=e(scheme["uri"]))
 
@@ -127,7 +132,9 @@ def html_concept(scheme, c):
     e = html.escape
     rows = "".join(f'<tr><td><code>{e(k)}</code></td><td lang="{e(k)}">{e(v)}</td></tr>\n'
                    for k, v in c["labels"].items())
-    body = (f"<h1>{e(c['labels']['en'])}</h1>\n<p><code>{e(c['uri'])}</code></p>\n"
+    body = (f"<h1>{e(c['labels']['en'])}</h1>\n"
+            f"<p>Identifier: <code>{e(identifier(c['uri']))}</code><br>\n"
+            f"ZIM tag: <code>_category:{e(identifier(c['uri']))}</code></p>\n"
             f'<p>Category of <a href="{e(path(scheme["uri"]))}">{e(scheme["labels"]["en"])}</a></p>\n'
             f"<table>\n<tr><th>Language</th><th>Label</th></tr>\n{rows}</table>")
     return PAGE.format(title=e(c["labels"]["en"]), body=body, path=e(folder(c["uri"])), uri=e(c["uri"]))
