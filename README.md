@@ -80,6 +80,18 @@ Readers have to keep supporting old ZIMs, which have no category but a legacy `_
 - A ZIM without any category (old ZIM, third-party ZIM, ZIM not classified yet) is displayed under *Other*, like ZIMs explicitly classified as *Other*. Readers therefore always have an *Other* category.
 - Category labels are taken from the SKOS taxonomy, in the user's language, so *Other* is translated like any other category.
 
+### Option to study: categories provided by the catalog
+
+With the rules above, once readers are updated, every old ZIM ends up in *Other*, since it has no category in its metadata. This would be the case for most of the library for a long time, since ZIMs are not all re-created frequently.
+
+Since classification is done per family, categories are known for old ZIMs as well (see [`classified.csv`](./zim-taxonomy/classified.csv)). The catalog (library.kiwix.org) could therefore provide categories for every ZIM it lists, whatever the content of the ZIM metadata, and readers would use them, at least when the ZIM has no category of its own.
+
+Points to study:
+
+- How categories are exposed in the catalog (OPDS `<category>` elements, `library.xml`) and maintained (where the family ↔ categories mapping lives and who updates it).
+- Precedence when both are available: categories from the ZIM, from the catalog, or the catalog only as a fallback.
+- Readers using ZIMs which are not (or no longer) in the catalog, e.g. ZIMs side-loaded or kept offline, which would still fall into *Other*.
+
 ## Taxonomy modeling
 
 - Categories are stored in **SKOS** ([W3C reference](https://www.w3.org/TR/skos-reference/), [Wikipedia](https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System)), a standard designed to represent classifications, thesauri, and controlled vocabularies (concepts, hierarchical relations, multilingual labels).
