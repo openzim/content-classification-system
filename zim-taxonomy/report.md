@@ -1,0 +1,1754 @@
+
+## For Children `for-children` (64 families)
+- africanstorybook.org_*_all (1) African Storybooks  +books-literature
+- booksdash_*_all (1) Bookdash  +books-literature
+- dicoado.org_*_all (1) Dico des Ados  +languages-dictionaries
+- diksha-std5ssc_en (1) Std 5 SSC English  +school-courses
+- editions-ganndal_*_fo-livres (1) Éditions Ganndal  +books-literature
+- eleda.education_*_fo-offline (1) Les mathématiques du primaire  +school-courses
+- klexikon_*_all (1) Klexikon – das Kinderlexikon  +encyclopedias-general-reference
+- les-fondamentaux_*_all (1) Les fondamentaux  +school-courses
+- lilote_*_fo (1) Lilote, Quiz de lecture  +books-literature
+- madrasa_*_songs (1) مدرسة - الأغاني التعليمية  +arts-music-film
+- madrasa_*_stories (1) مدرسة - مجموعة القصص  +books-literature
+- maitre_*_additions_20_fr (1) Additioner et Soustraire < 20  +school-courses
+- maitre_*_additions_fr (1) Maître Lucas: les Additions  +school-courses
+- maitre_*_alimentation_fr (1) Maître Lucas: l'Alimentation  +school-courses
+- maitre_*_apprendre_a_dessiner_fr (1) Apprendre à Dessiner  +school-courses
+- maitre_*_calcul_decimaux_fr (1) Calcul décimal  +school-courses
+- maitre_*_calcul_mental_fr (1) Maître Lucas: le Calcul mental  +school-courses
+- maitre_*_calculs_et_coloriages_magiques_fr (1) Calculs et Coloriages magiques  +school-courses
+- maitre_*_comparer_et_ranger_fr (1) Comparer et Ranger  +school-courses
+- maitre_*_comparer_nombres_100_fr (1) Comparer jusqu'à 100  +school-courses
+- maitre_*_completer_algorithmes_fr (1) Compléter les Algorithmes  +school-courses
+- maitre_*_completer_les_mots_fr (1) Compléter les Mots  +school-courses
+- maitre_*_compter_audela_de_20_fr (1) Compter au delà de 20  +school-courses
+- maitre_*_compter_jusque_10_fr (1) Compter jusqu'à 10  +school-courses
+- maitre_*_compter_jusque_20_fr (1) Compter jusqu'à 20  +school-courses
+- maitre_*_compter_jusque_5_fr (1) Compter jusqu'à 5  +school-courses
+- maitre_*_compter_par_intervalles_fr (1) Compter par intervalles  +school-courses
+- maitre_*_confusion_des_lettres_fr (1) Confusion des lettres p-q, b-d  +school-courses
+- maitre_*_conjugaison_fr (1) Maître Lucas: Conjugaison  +school-courses
+- maitre_*_corps_humain_fr (1) Corps humain et Activité  +school-courses
+- maitre_*_developpement_fr (1) Développement du vivant  +school-courses
+- maitre_*_dictees_de_nombres_fr (1) Dictées de Nombres  +school-courses
+- maitre_*_dictees_fr (1) Maître Lucas: Dictées  +school-courses
+- maitre_*_divisions_fr (1) Maître Lucas: Divisions  +school-courses
+- maitre_*_double_et_moitie_fr (1) Maître Lucas: Double et Moitié  +school-courses
+- maitre_*_ecriture_fr (1) Maître Lucas: Ecriture  +school-courses
+- maitre_*_enigmes_fr (1) Maître Lucas: Énigmes  +school-courses
+- maitre_*_enseignement_civique_fr (1) Enseignement civique et moral  +school-courses
+- maitre_*_espace_geometrie_fr (1) Espace et Géométrie  +school-courses
+- maitre_*_fractions_fr (1) Maître Lucas: Fractions  +school-courses
+- maitre_*_grammaire_fr (1) Maître Lucas: Grammaire  +school-courses
+- maitre_*_grandeur_et_mesures_fr (1) Grandeur et Mesures  +school-courses
+- maitre_*_labyrinthe_de_calculs_fr (1) Labyrinthe de Calculs  +school-courses
+- maitre_*_lecture_fr (1) Maître Lucas: Lecture  +school-courses
+- maitre_*_planete_terre_fr (1) Planète Terre et Environnement  +school-courses
+- media-eleda.ouvaton.org_*_offline (1) Eleda  +school-courses
+- moldova-ministry-education_*_clasa1 (1) Manual pentru Clasa I  +school-courses
+- moldova-ministry-education_*_clasa2 (1) Manual pentru Clasa II-a  +school-courses
+- moldova-ministry-education_*_clasa3 (1) Manual pentru Clasa III-a  +school-courses
+- moldova-ministry-education_*_clasa4 (1) Manual pentru Clasa IV-a  +school-courses
+- plume-app.co_*_all (1) Le Dojo de Plume  +languages-dictionaries
+- prunelle_*_auteurs-en-herbe (1) Auteurs en herbe (Prunelle)  +books-literature
+- prunelle_*_budding-authors (1) Budding authors  +books-literature
+- prunelle_*_contes-africains (1) Contes africains (Prunelle)  +books-literature
+- prunelle_*_draw-your-african-story (1) Draw your African story  +books-literature
+- prunelle_*_interactive-books (1) Prunelle books  +books-literature
+- prunelle_*_livres-interactifs (1) Livres interactifs (Prunelle)  +books-literature
+- slam-out-loud_*_all (1) Slam Out Loud  +arts-music-film
+- ubongo_*_all (2) Ubongo Français  +school-courses
+- vikidia_*_all (9) Vikidia  +encyclopedias-general-reference
+- voa_*_all (7) ከአና ጋር እንግሊዝኛ ይማሩ!  +languages-dictionaries
+- wikipedia_*_for_schools (1) ويكيبيديا للمدارس - العربية  +encyclopedias-general-reference
+- youscribe_*_primaire (1) Ressources éducatives primaire  +school-courses
+- zaya-english-duniya-marathi_mr (1) English Duniya - Marathi  +languages-dictionaries
+
+## Encyclopedias & General Reference `encyclopedias-general-reference` (28 families)
+- cheatography.com_*_all (1) Cheatography
+- citizendium.org_*_all (1) Citizendium
+- hamichlol_*_all (1) המכלול
+- kiwix.ecured_*_all (1) EcuRed
+- klexikon_*_all (1) Klexikon – das Kinderlexikon  +for-children
+- marefa_*_all (1) موسوعة المعرفة
+- ted_*_all (1) All TED videos
+- ted_*_audacious-project (1) TED the audacious project
+- ted_*_best-of-the-web (1) TED best of the web
+- ted_*_countdown (1) TED countdown
+- ted_*_ted-books (1) TED ted books
+- ted_*_ted-conference (1) TED ted conference
+- ted_*_ted-connects (1) TED ted connects
+- ted_*_ted-en-espanol (1) TED ted en español
+- ted_*_ted-fellows (1) TED ted fellows
+- ted_*_ted-membership (1) TED ted membership
+- ted_*_ted-prize (1) TED ted prize
+- ted_*_ted-residency (1) TED ted residency
+- ted_*_tedx (1) TED tedx
+- theworldfactbook_*_all (1) CIA World Factbook - 2020
+- vikidia_*_all (9) Vikidia  +for-children
+- wikipedia_*_100 (1) Wikipedia 100
+- wikipedia_*_50000 (3) Wikipediako onena
+- wikipedia_*_all (324) Авикипедиа
+- wikipedia_*_for_schools (1) ويكيبيديا للمدارس - العربية  +for-children
+- wikipedia_*_top (59) أفضل مافي ويكيبيديا
+- wikipedia_*_top1m (1) Wikipedia's 1m Top Articles
+- wikiquote_*_all (67) Wikiquote
+
+## Languages & Dictionaries `languages-dictionaries` (29 families)
+- chinese.stackexchange.com_*_all (1) Chinese Language Q&A
+- conlang.stackexchange.com_*_all (1) Constructed Languages Q&A
+- dicoado.org_*_all (1) Dico des Ados  +for-children
+- ell.stackexchange.com_*_all (1) English Language Learners Q&A
+- english.stackexchange.com_*_all (1) English Language & Usage Q&A
+- esperanto.stackexchange.com_*_all (1) Esperanto Language Q&A
+- francais-avec-pierre_*_all (1) La grammaire française  +school-courses
+- french.stackexchange.com_*_all (1) French Language Q&A
+- german.stackexchange.com_*_all (1) German Language Q&A
+- italian.stackexchange.com_*_all (1) Italian Language Q&A
+- japanese.stackexchange.com_*_all (1) Japanese Language Q&A
+- korean.stackexchange.com_*_all (1) Korean Language Q&A
+- languagelearning.stackexchange.com_*_all (1) Language Learning Q&A
+- latin.stackexchange.com_*_all (1) Latin Language Q&A
+- linguistics.stackexchange.com_*_all (1) Linguistics Q&A
+- madrasa_*_arabic (1) مدرسة - مجموعة اللغة العربية  +school-courses
+- plume-app.co_*_all (1) Le Dojo de Plume  +for-children
+- portuguese.stackexchange.com_*_all (1) Portuguese Language Q&A
+- rus.stackexchange.com_*_all (1) Русский язык
+- russian.stackexchange.com_*_all (1) Russian Language Q&A
+- shamela.ws_*_al-balagha (1) البلاغة؛ المجموعة رقم 35  +religion-philosophy
+- shamela.ws_*_al-lugha (1) اللغة؛ المجموعة رقم 29  +religion-philosophy
+- spanish.stackexchange.com_*_all (1) Spanish Language Q&A
+- test-delf-dalf_*_all (1) Français langue étrangère  +school-courses
+- ukrainian.stackexchange.com_*_all (1) Ukrainian Language Q&A
+- voa_*_all (7) ከአና ጋር እንግሊዝኛ ይማሩ!  +for-children
+- voa_*_en_all (1) VOA Learning  +school-courses
+- wiktionary_*_all (146) Wiktionary
+- zaya-english-duniya-marathi_mr (1) English Duniya - Marathi  +for-children
+
+## Books & Literature `books-literature` (63 families)
+- africanstorybook.org_*_all (1) African Storybooks  +for-children
+- athena_*_all (1) Athena
+- bnr_*_all (1) BNR ebooks
+- booksdash_*_all (1) Bookdash  +for-children
+- bouquineux.com_*_all (1) Bouquineux
+- ebooks.stackexchange.com_*_all (1) Ebooks Q&A
+- editions-ganndal_*_fo-livres (1) Éditions Ganndal  +for-children
+- folgerpedia.folger.edu_*_all (1) Folgerpedia
+- gutenberg_*_all (64) Projek Gutenberg-biblioteek
+- gutenberg_*_lcc-a (1) Project Gutenberg Library
+- gutenberg_*_lcc-b (1) Project Gutenberg Library  +religion-philosophy
+- gutenberg_*_lcc-c (1) Project Gutenberg Library  +history
+- gutenberg_*_lcc-d (1) Project Gutenberg Library  +history
+- gutenberg_*_lcc-e (1) Project Gutenberg Library  +history
+- gutenberg_*_lcc-f (1) Project Gutenberg Library  +history
+- gutenberg_*_lcc-g (1) Project Gutenberg Library  +geography-maps-travel
+- gutenberg_*_lcc-h (1) Project Gutenberg Library  +society-politics-economy
+- gutenberg_*_lcc-j (1) Project Gutenberg Library  +society-politics-economy
+- gutenberg_*_lcc-k (1) Project Gutenberg Library  +society-politics-economy
+- gutenberg_*_lcc-l (1) Project Gutenberg Library  +school-courses
+- gutenberg_*_lcc-m (1) Project Gutenberg Library  +arts-music-film
+- gutenberg_*_lcc-n (1) Project Gutenberg Library  +arts-music-film
+- gutenberg_*_lcc-p (1) Project Gutenberg Library
+- gutenberg_*_lcc-pa (1) Project Gutenberg Library
+- gutenberg_*_lcc-pb (1) Project Gutenberg Library
+- gutenberg_*_lcc-pc (1) Project Gutenberg Library
+- gutenberg_*_lcc-pd (1) Project Gutenberg Library
+- gutenberg_*_lcc-pe (1) Project Gutenberg Library
+- gutenberg_*_lcc-pf (1) Project Gutenberg Library
+- gutenberg_*_lcc-pg (1) Project Gutenberg Library
+- gutenberg_*_lcc-ph (1) Project Gutenberg Library
+- gutenberg_*_lcc-pj (1) Project Gutenberg Library
+- gutenberg_*_lcc-pk (1) Project Gutenberg Library
+- gutenberg_*_lcc-pl (1) Project Gutenberg Library
+- gutenberg_*_lcc-pm (1) Project Gutenberg Library
+- gutenberg_*_lcc-pn (1) Project Gutenberg Library
+- gutenberg_*_lcc-pq (1) Project Gutenberg Library
+- gutenberg_*_lcc-pr (1) Project Gutenberg Library
+- gutenberg_*_lcc-ps (1) Project Gutenberg Library
+- gutenberg_*_lcc-pt (1) Project Gutenberg Library
+- gutenberg_*_lcc-pz (1) Project Gutenberg Library
+- gutenberg_*_lcc-q (1) Project Gutenberg Library  +science-mathematics
+- gutenberg_*_lcc-r (1) Project Gutenberg Library  +health-medicine
+- gutenberg_*_lcc-s (1) Project Gutenberg Library  +home-food-diy
+- gutenberg_*_lcc-t (1) Project Gutenberg Library  +science-mathematics
+- gutenberg_*_lcc-u (1) Project Gutenberg Library  +history
+- gutenberg_*_lcc-v (1) Project Gutenberg Library  +history
+- gutenberg_*_lcc-z (1) Project Gutenberg Library
+- lilote_*_fo (1) Lilote, Quiz de lecture  +for-children
+- literature.stackexchange.com_*_all (1) Literature Q&A
+- litterature-audio-poetry_fr (1) Littérature - Livres Audio
+- madrasa_*_poetry (1) مدرسة - مجموعة الشعر العربي
+- madrasa_*_stories (1) مدرسة - مجموعة القصص  +for-children
+- ncert-audiobooks_*_all (1) CIET Audiobooks
+- prunelle_*_auteurs-en-herbe (1) Auteurs en herbe (Prunelle)  +for-children
+- prunelle_*_budding-authors (1) Budding authors  +for-children
+- prunelle_*_contes-africains (1) Contes africains (Prunelle)  +for-children
+- prunelle_*_draw-your-african-story (1) Draw your African story  +for-children
+- prunelle_*_interactive-books (1) Prunelle books  +for-children
+- prunelle_*_livres-interactifs (1) Livres interactifs (Prunelle)  +for-children
+- shamela.ws_*_al-shir-wa-dawawinu (1) دواوين الشعر؛ المجموعة رقم 34
+- wikisource_*_all (66) ويكي مصدر
+- writing.stackexchange.com_*_all (1) Writing Q&A
+
+## School & Courses `school-courses` (205 families)
+- academia.stackexchange.com_*_all (1) Academia Q&A
+- artofproblemsolving_*_all (1) Art of Problem Solving  +science-mathematics
+- avanti_*_3dimensional-geometry (1) M26 3 Dimensional Geometry  +science-mathematics
+- avanti_*_ac-circuits (1) P21 AC Circuits  +science-mathematics
+- avanti_*_alcohol-phenol-ether (1) C25 Alcohol, Phenol & Ether  +science-mathematics
+- avanti_*_alkyhalide (1) C24 Alkyhalide  +science-mathematics
+- avanti_*_amines (1) C28 Amines  +science-mathematics
+- avanti_*_atomic-structure (1) C2 Atomic Structure  +science-mathematics
+- avanti_*_binomial-theorem (1) M9 Binomial Theorem  +science-mathematics
+- avanti_*_biomolecules (1) C29 Chemistry in Everyday  +science-mathematics
+- avanti_*_capacitors (1) P16 Capacitors  +science-mathematics
+- avanti_*_carbonyl-compounds (1) C26 Carbonyl Compounds  +science-mathematics
+- avanti_*_carborylic-acid (1) C27 Carborylic Acid  +science-mathematics
+- avanti_*_chemical-bonding (1) C4 Chemical Bonding  +science-mathematics
+- avanti_*_chemical-equilibrium (1) C7 Chemical Equilibrium  +science-mathematics
+- avanti_*_chemical-kinetics (1) C18 Chemical Kinetics  +science-mathematics
+- avanti_*_complex-numbers (1) M7 Complex Numbers  +science-mathematics
+- avanti_*_concepts-of-chemistry (1) C1 Basic Chemistry Concepts  +science-mathematics
+- avanti_*_conics1 (1) M13 Conic Sections - I  +science-mathematics
+- avanti_*_conics2 (1) M14 Conic Sections - II  +science-mathematics
+- avanti_*_continuity (1) M20 Continuity Differentiat.  +science-mathematics
+- avanti_*_coordination-compounds (1) C23 Coordination Compounds  +science-mathematics
+- avanti_*_current-electricity (1) P17 Current Electricity  +science-mathematics
+- avanti_*_definite-integration (1) M23 Definite Integration  +science-mathematics
+- avanti_*_df-blocks-elements (1) C22 d and f- block Elements  +science-mathematics
+- avanti_*_differential-equations (1) M24 Differential Equations  +science-mathematics
+- avanti_*_dynamics-of-motion (1) P5 Law of Motion  +science-mathematics
+- avanti_*_electrochemistry (1) C17 Electrochemistry  +science-mathematics
+- avanti_*_electromagnetic-induction (1) P20 Electromagnetic Induction  +science-mathematics
+- avanti_*_electromagnetic-waves (1) P26 Electromagnetic Waves  +science-mathematics
+- avanti_*_electrostatic (1) P15 Electrostatics  +science-mathematics
+- avanti_*_environmental-chemistry (1) C30 Environmental Chemistry  +science-mathematics
+- avanti_*_functions2 (1) M17 Relations and Functions  +science-mathematics
+- avanti_*_fundamentals-of-mathematics (1) M1 Fundamentals of Mathematics  +science-mathematics
+- avanti_*_goc (1) C13 GOC  +science-mathematics
+- avanti_*_gravitation (1) P8 Gravitation  +science-mathematics
+- avanti_*_hydrocarbons (1) C14 Hydrocarbons  +science-mathematics
+- avanti_*_hydrogen (1) C10 Hydrogen  +science-mathematics
+- avanti_*_indefinite-integration (1) M22 Integrals  +science-mathematics
+- avanti_*_inequalities (1) M5 Linear Inequalities  +science-mathematics
+- avanti_*_inverse-trigonometry (1) M18 Inverse Trigonometry  +science-mathematics
+- avanti_*_ionic-equilibrium (1) C8 Ionic Equilibrium  +science-mathematics
+- avanti_*_limit (1) M11 Limits  +science-mathematics
+- avanti_*_magnetic-effect (1) P18 Magnetic Effects  +science-mathematics
+- avanti_*_magnetism-matter (1) P19 Magnetism and Matter  +science-mathematics
+- avanti_*_mathematical-induction (1) M4 Mathematical Induction  +science-mathematics
+- avanti_*_mathematical-reasoning (1) M15 Mathematical Reasoning  +science-mathematics
+- avanti_*_matrices-determinants (1) M19 Matrices and Determinants  +science-mathematics
+- avanti_*_metallurgy (1) C20 Metallurgy  +science-mathematics
+- avanti_*_modern-physics (1) P24 Modern Physics  +science-mathematics
+- avanti_*_motion-in-2d (1) P4 Motion in a Plane  +science-mathematics
+- avanti_*_motion-in-straight-line (1) P2 Motion in a Straight Line  +science-mathematics
+- avanti_*_oscillations (1) P13 Oscillations  +science-mathematics
+- avanti_*_p-block-elements (1) C12 P - Block Elements  +science-mathematics
+- avanti_*_p-blocks-elements2 (1) C21 P Block Elements II  +science-mathematics
+- avanti_*_periodic-properties (1) C3 Periodic Classification  +science-mathematics
+- avanti_*_permutations (1) M8 Permutations Combinations  +science-mathematics
+- avanti_*_probability (1) M27 Probability  +science-mathematics
+- avanti_*_properties-of-fluids (1) P10 Fluid Mechanical  +science-mathematics
+- avanti_*_properties-of-solids (1) P9 Solids Mechanical  +science-mathematics
+- avanti_*_quadratic-equations (1) M6 Quadratic Equations  +science-mathematics
+- avanti_*_ray-optics (1) P22 Ray Optics  +science-mathematics
+- avanti_*_redox-reactions (1) C9 Redox Reactions  +science-mathematics
+- avanti_*_rotation (1) P7 System of Particles  +science-mathematics
+- avanti_*_s-block-elements (1) C11 S - Block Elements  +science-mathematics
+- avanti_*_semiconductor-electronics (1) P25 Semiconductor Electronics  +science-mathematics
+- avanti_*_sequence-series (1) M10 Sequences and Series  +science-mathematics
+- avanti_*_sets-functions (1) M2 Sets, Relations, Functions  +science-mathematics
+- avanti_*_solid-state (1) C15 Solid State  +science-mathematics
+- avanti_*_solutions (1) C16 Solutions  +science-mathematics
+- avanti_*_states-of-matter (1) C5 States of Matter  +science-mathematics
+- avanti_*_statistics (1) M16 Statistics  +science-mathematics
+- avanti_*_straight-lines (1) M12 Straight Lines  +science-mathematics
+- avanti_*_surface-chemistry (1) C19 Surface Chemistry  +science-mathematics
+- avanti_*_thermal-properties (1) P11 Matter Thermal Properties  +science-mathematics
+- avanti_*_thermodynamics (1) C3 Periodic Classification  +science-mathematics
+- avanti_*_thermodynamics-and-kinetic-theory (1) P12 Theory of Gases  +science-mathematics
+- avanti_*_trigonometry (1) M3 Trigonometric Functions  +science-mathematics
+- avanti_*_units-and-measurements (1) P1 Units and Measurement  +science-mathematics
+- avanti_*_vector-algebra (1) M25 Vector Algebra  +science-mathematics
+- avanti_*_vector-and-calculus (1) P3 Vectors Calculus  +science-mathematics
+- avanti_*_wave-optics (1) P23 Wave Optics  +science-mathematics
+- avanti_*_waves (1) P14 Waves  +science-mathematics
+- avanti_*_work-power-energy (1) P6 Work Energy and Power  +science-mathematics
+- biologycourses_*_all (1) Biology Courses  +science-mathematics
+- crashcourse_*_all (1) CrashCourse
+- cseducators.stackexchange.com_*_all (1) Computer Science Educators Q&A
+- diksha-std10ssc_mr (1) Std 10 SSC Marathi
+- diksha-std5ssc_en (1) Std 5 SSC English  +for-children
+- dse_*_lbj (1) Ladakh Department of Education
+- education-et-numerique_*_all (1) Éducation et Numérique
+- edutechwiki_*_all (2) EduTech Wiki
+- eleda.education_*_fo-offline (1) Les mathématiques du primaire  +for-children
+- ethanweed_*_all (1) Learning statistics - Python  +science-mathematics
+- francais-avec-pierre_*_all (1) La grammaire française  +languages-dictionaries
+- freecodecamp_*_all (10) FreeCodeCamp  +computers-technology
+- freecodecamp_*_coding-interview-prep (8) FreeCodeCamp Interview Prep  +computers-technology
+- freecodecamp_*_javascript-algorithms-and-data-structures (9) FreeCodeCamp JavaScript  +computers-technology
+- freecodecamp_*_project-euler (8) Project Euler  +computers-technology
+- freecodecamp_*_rosetta-code (10) Rosetta-Code  +computers-technology
+- ghana-bece-past-questions_*_all (1) Ghana's BECE past questions
+- gutenberg_*_lcc-l (1) Project Gutenberg Library  +books-literature
+- htdp.org_*_all (1) How to Design Programs  +computers-technology
+- jeffe.cs.illinois.edu_*_all (1) Algorithms  +computers-technology
+- khanacademy_*_all (3) Khan Academy (English - US curriculum)
+- la-chaine-de-maths-et-tiques_*_all (1) Maths et tiques  +science-mathematics
+- learningstatistics_*_all (1) Learning Statistics - CogStat  +science-mathematics
+- learningstatisticswithr.com_*_all (1) Learning Statistics with R  +science-mathematics
+- les-fondamentaux_*_all (1) Les fondamentaux  +for-children
+- libretexts.org_*_bio (1) Biology LibreTexts  +science-mathematics
+- libretexts.org_*_biz (1) Business LibreTexts  +society-politics-economy
+- libretexts.org_*_chem (1) Chemistry LibreTexts  +science-mathematics
+- libretexts.org_*_eng (1) Engineering LibreTexts  +science-mathematics
+- libretexts.org_*_geo (1) Geosciences LibreTexts  +science-mathematics
+- libretexts.org_*_human (1) Humanities LibreTexts
+- libretexts.org_*_k12 (1) K-12 Education LibreTexts
+- libretexts.org_*_math (1) Mathematics LibreTexts  +science-mathematics
+- libretexts.org_*_med (1) Medicine LibreTexts  +health-medicine
+- libretexts.org_*_phys (1) Physics LibreTexts  +science-mathematics
+- libretexts.org_*_socialsci (1) Social Sciences LibreTexts  +society-politics-economy
+- libretexts.org_*_stats (1) Statistics LibreTexts  +science-mathematics
+- libretexts.org_*_workforce (1) Workforce LibreTexts
+- madrasa_*_arabic (1) مدرسة - مجموعة اللغة العربية  +languages-dictionaries
+- madrasa_*_astronomy (1) مدرسة - مجموعة علم الفلك  +science-mathematics
+- madrasa_*_biology (1) مدرسة - مجموعة علم الأحياء  +science-mathematics
+- madrasa_*_chemistry (1) مدرسة - مجموعة الكيمياء  +science-mathematics
+- madrasa_*_electeng (1) مدرسة - الهندسة الكهربائية  +science-mathematics
+- madrasa_*_gasinteraction (1) مدرسة - مجموعة تفاعل الغازات  +science-mathematics
+- madrasa_*_magnets (1) مدرسة - القوى المغناطيسية  +science-mathematics
+- madrasa_*_math (1) مدرسة - مجموعة الرياضيات  +science-mathematics
+- madrasa_*_physics (1) مدرسة - مجموعة الفيزياء  +science-mathematics
+- maitre_*_additions_20_fr (1) Additioner et Soustraire < 20  +for-children
+- maitre_*_additions_fr (1) Maître Lucas: les Additions  +for-children
+- maitre_*_alimentation_fr (1) Maître Lucas: l'Alimentation  +for-children
+- maitre_*_apprendre_a_dessiner_fr (1) Apprendre à Dessiner  +for-children
+- maitre_*_calcul_decimaux_fr (1) Calcul décimal  +for-children
+- maitre_*_calcul_mental_fr (1) Maître Lucas: le Calcul mental  +for-children
+- maitre_*_calculs_et_coloriages_magiques_fr (1) Calculs et Coloriages magiques  +for-children
+- maitre_*_comparer_et_ranger_fr (1) Comparer et Ranger  +for-children
+- maitre_*_comparer_nombres_100_fr (1) Comparer jusqu'à 100  +for-children
+- maitre_*_completer_algorithmes_fr (1) Compléter les Algorithmes  +for-children
+- maitre_*_completer_les_mots_fr (1) Compléter les Mots  +for-children
+- maitre_*_compter_audela_de_20_fr (1) Compter au delà de 20  +for-children
+- maitre_*_compter_jusque_10_fr (1) Compter jusqu'à 10  +for-children
+- maitre_*_compter_jusque_20_fr (1) Compter jusqu'à 20  +for-children
+- maitre_*_compter_jusque_5_fr (1) Compter jusqu'à 5  +for-children
+- maitre_*_compter_par_intervalles_fr (1) Compter par intervalles  +for-children
+- maitre_*_confusion_des_lettres_fr (1) Confusion des lettres p-q, b-d  +for-children
+- maitre_*_conjugaison_fr (1) Maître Lucas: Conjugaison  +for-children
+- maitre_*_corps_humain_fr (1) Corps humain et Activité  +for-children
+- maitre_*_developpement_fr (1) Développement du vivant  +for-children
+- maitre_*_dictees_de_nombres_fr (1) Dictées de Nombres  +for-children
+- maitre_*_dictees_fr (1) Maître Lucas: Dictées  +for-children
+- maitre_*_divisions_fr (1) Maître Lucas: Divisions  +for-children
+- maitre_*_double_et_moitie_fr (1) Maître Lucas: Double et Moitié  +for-children
+- maitre_*_ecriture_fr (1) Maître Lucas: Ecriture  +for-children
+- maitre_*_enigmes_fr (1) Maître Lucas: Énigmes  +for-children
+- maitre_*_enseignement_civique_fr (1) Enseignement civique et moral  +for-children
+- maitre_*_espace_geometrie_fr (1) Espace et Géométrie  +for-children
+- maitre_*_fractions_fr (1) Maître Lucas: Fractions  +for-children
+- maitre_*_grammaire_fr (1) Maître Lucas: Grammaire  +for-children
+- maitre_*_grandeur_et_mesures_fr (1) Grandeur et Mesures  +for-children
+- maitre_*_labyrinthe_de_calculs_fr (1) Labyrinthe de Calculs  +for-children
+- maitre_*_lecture_fr (1) Maître Lucas: Lecture  +for-children
+- maitre_*_planete_terre_fr (1) Planète Terre et Environnement  +for-children
+- matheducators.stackexchange.com_*_all (1) Mathematics Educators Q&A
+- media-eleda.ouvaton.org_*_offline (1) Eleda  +for-children
+- metakgp_*_all (1) Metakgp Wiki
+- milneopentextbooks.org_*_all (1) Milne Open Textbooks
+- moldova-ministry-education_*_clasa1 (1) Manual pentru Clasa I  +for-children
+- moldova-ministry-education_*_clasa2 (1) Manual pentru Clasa II-a  +for-children
+- moldova-ministry-education_*_clasa3 (1) Manual pentru Clasa III-a  +for-children
+- moldova-ministry-education_*_clasa4 (1) Manual pentru Clasa IV-a  +for-children
+- moldova-ministry-education_*_clasa5 (1) Manual pentru Clasa V-a
+- moldova-ministry-education_*_clasa6 (1) Manual pentru Clasa VI-a
+- moldova-ministry-education_*_clasa7 (1) Manual pentru Clasa VII-a
+- moldova-ministry-education_*_clasa8 (1) Manual pentru Clasa VIII-a
+- moldova-ministry-education_*_clasa9 (1) Manual pentru Clasa IX-a
+- mooc-energie-climat_*_all (1) Le MOOC Energie et Climat  +science-mathematics
+- mspeekenbrink_*_all (1) Data Analysis and Modelling  +science-mathematics
+- oer4schools_*_all (1) OER4Schools
+- opendatastructures.org_*_all (1) Open Data Structures  +computers-technology
+- openmusictheory.com_*_all (1) Open Music Theory  +arts-music-film
+- phzh_*_ar (1) Core Arabic 1
+- phzh_*_el (1) Core Greek 1
+- phzh_*_en (1) Core English 1
+- phzh_*_it (1) Core Italian 1
+- phzh_core-dari-one (1) CORE به زبان دری - 01
+- python-class-vc_*_all (1) Python 程式設計的第一步  +computers-technology
+- ted_*_education (1) TED education
+- ted_*_grammar (1) TED grammar
+- ted_*_language (1) TED language
+- ted_*_teaching (1) TED teaching
+- ted_*_ted-ed (1) TED ted-ed
+- test-delf-dalf_*_all (1) Français langue étrangère  +languages-dictionaries
+- ubongo_*_all (2) Ubongo Français  +for-children
+- unine.ch_*_premiers-pas-avec-python (1) Premiers pas avec Python  +computers-technology
+- voa_*_en_all (1) VOA Learning  +languages-dictionaries
+- wikibooks_*_all (76) Wikibooks
+- wikimooc_*_all (1) WikiMOOC
+- wikiversity_*_all (17) ويكي الجامعة
+- youscribe_*_audiobooks (1) Audiolivres de littérature classique
+- youscribe_*_college (1) Ressources éducatives collège
+- youscribe_*_lycee (1) Ressources éducatives lycée
+- youscribe_*_primaire (1) Ressources éducatives primaire  +for-children
+
+## Science & Mathematics `science-mathematics` (263 families)
+- apod.nasa.gov_*_all (1) Astronomy Picture of the Day
+- artofproblemsolving_*_all (1) Art of Problem Solving  +school-courses
+- astrolabe_*_all (1) Astrolabe
+- astronomy.stackexchange.com_*_all (1) Astronomy Q&A
+- avanti_*_3dimensional-geometry (1) M26 3 Dimensional Geometry  +school-courses
+- avanti_*_ac-circuits (1) P21 AC Circuits  +school-courses
+- avanti_*_alcohol-phenol-ether (1) C25 Alcohol, Phenol & Ether  +school-courses
+- avanti_*_alkyhalide (1) C24 Alkyhalide  +school-courses
+- avanti_*_amines (1) C28 Amines  +school-courses
+- avanti_*_atomic-structure (1) C2 Atomic Structure  +school-courses
+- avanti_*_binomial-theorem (1) M9 Binomial Theorem  +school-courses
+- avanti_*_biomolecules (1) C29 Chemistry in Everyday  +school-courses
+- avanti_*_capacitors (1) P16 Capacitors  +school-courses
+- avanti_*_carbonyl-compounds (1) C26 Carbonyl Compounds  +school-courses
+- avanti_*_carborylic-acid (1) C27 Carborylic Acid  +school-courses
+- avanti_*_chemical-bonding (1) C4 Chemical Bonding  +school-courses
+- avanti_*_chemical-equilibrium (1) C7 Chemical Equilibrium  +school-courses
+- avanti_*_chemical-kinetics (1) C18 Chemical Kinetics  +school-courses
+- avanti_*_complex-numbers (1) M7 Complex Numbers  +school-courses
+- avanti_*_concepts-of-chemistry (1) C1 Basic Chemistry Concepts  +school-courses
+- avanti_*_conics1 (1) M13 Conic Sections - I  +school-courses
+- avanti_*_conics2 (1) M14 Conic Sections - II  +school-courses
+- avanti_*_continuity (1) M20 Continuity Differentiat.  +school-courses
+- avanti_*_coordination-compounds (1) C23 Coordination Compounds  +school-courses
+- avanti_*_current-electricity (1) P17 Current Electricity  +school-courses
+- avanti_*_definite-integration (1) M23 Definite Integration  +school-courses
+- avanti_*_df-blocks-elements (1) C22 d and f- block Elements  +school-courses
+- avanti_*_differential-equations (1) M24 Differential Equations  +school-courses
+- avanti_*_dynamics-of-motion (1) P5 Law of Motion  +school-courses
+- avanti_*_electrochemistry (1) C17 Electrochemistry  +school-courses
+- avanti_*_electromagnetic-induction (1) P20 Electromagnetic Induction  +school-courses
+- avanti_*_electromagnetic-waves (1) P26 Electromagnetic Waves  +school-courses
+- avanti_*_electrostatic (1) P15 Electrostatics  +school-courses
+- avanti_*_environmental-chemistry (1) C30 Environmental Chemistry  +school-courses
+- avanti_*_functions2 (1) M17 Relations and Functions  +school-courses
+- avanti_*_fundamentals-of-mathematics (1) M1 Fundamentals of Mathematics  +school-courses
+- avanti_*_goc (1) C13 GOC  +school-courses
+- avanti_*_gravitation (1) P8 Gravitation  +school-courses
+- avanti_*_hydrocarbons (1) C14 Hydrocarbons  +school-courses
+- avanti_*_hydrogen (1) C10 Hydrogen  +school-courses
+- avanti_*_indefinite-integration (1) M22 Integrals  +school-courses
+- avanti_*_inequalities (1) M5 Linear Inequalities  +school-courses
+- avanti_*_inverse-trigonometry (1) M18 Inverse Trigonometry  +school-courses
+- avanti_*_ionic-equilibrium (1) C8 Ionic Equilibrium  +school-courses
+- avanti_*_limit (1) M11 Limits  +school-courses
+- avanti_*_magnetic-effect (1) P18 Magnetic Effects  +school-courses
+- avanti_*_magnetism-matter (1) P19 Magnetism and Matter  +school-courses
+- avanti_*_mathematical-induction (1) M4 Mathematical Induction  +school-courses
+- avanti_*_mathematical-reasoning (1) M15 Mathematical Reasoning  +school-courses
+- avanti_*_matrices-determinants (1) M19 Matrices and Determinants  +school-courses
+- avanti_*_metallurgy (1) C20 Metallurgy  +school-courses
+- avanti_*_modern-physics (1) P24 Modern Physics  +school-courses
+- avanti_*_motion-in-2d (1) P4 Motion in a Plane  +school-courses
+- avanti_*_motion-in-straight-line (1) P2 Motion in a Straight Line  +school-courses
+- avanti_*_oscillations (1) P13 Oscillations  +school-courses
+- avanti_*_p-block-elements (1) C12 P - Block Elements  +school-courses
+- avanti_*_p-blocks-elements2 (1) C21 P Block Elements II  +school-courses
+- avanti_*_periodic-properties (1) C3 Periodic Classification  +school-courses
+- avanti_*_permutations (1) M8 Permutations Combinations  +school-courses
+- avanti_*_probability (1) M27 Probability  +school-courses
+- avanti_*_properties-of-fluids (1) P10 Fluid Mechanical  +school-courses
+- avanti_*_properties-of-solids (1) P9 Solids Mechanical  +school-courses
+- avanti_*_quadratic-equations (1) M6 Quadratic Equations  +school-courses
+- avanti_*_ray-optics (1) P22 Ray Optics  +school-courses
+- avanti_*_redox-reactions (1) C9 Redox Reactions  +school-courses
+- avanti_*_rotation (1) P7 System of Particles  +school-courses
+- avanti_*_s-block-elements (1) C11 S - Block Elements  +school-courses
+- avanti_*_semiconductor-electronics (1) P25 Semiconductor Electronics  +school-courses
+- avanti_*_sequence-series (1) M10 Sequences and Series  +school-courses
+- avanti_*_sets-functions (1) M2 Sets, Relations, Functions  +school-courses
+- avanti_*_solid-state (1) C15 Solid State  +school-courses
+- avanti_*_solutions (1) C16 Solutions  +school-courses
+- avanti_*_states-of-matter (1) C5 States of Matter  +school-courses
+- avanti_*_statistics (1) M16 Statistics  +school-courses
+- avanti_*_straight-lines (1) M12 Straight Lines  +school-courses
+- avanti_*_surface-chemistry (1) C19 Surface Chemistry  +school-courses
+- avanti_*_thermal-properties (1) P11 Matter Thermal Properties  +school-courses
+- avanti_*_thermodynamics (1) C3 Periodic Classification  +school-courses
+- avanti_*_thermodynamics-and-kinetic-theory (1) P12 Theory of Gases  +school-courses
+- avanti_*_trigonometry (1) M3 Trigonometric Functions  +school-courses
+- avanti_*_units-and-measurements (1) P1 Units and Measurement  +school-courses
+- avanti_*_vector-algebra (1) M25 Vector Algebra  +school-courses
+- avanti_*_vector-and-calculus (1) P3 Vectors Calculus  +school-courses
+- avanti_*_wave-optics (1) P23 Wave Optics  +school-courses
+- avanti_*_waves (1) P14 Waves  +school-courses
+- avanti_*_work-power-energy (1) P6 Work Energy and Power  +school-courses
+- bibnum_*_all (1) BibNum
+- bioacoustics.stackexchange.com_*_all (1) Bioacoustics Q&A
+- bioinformatics.stackexchange.com_*_all (1) Bioinformatics Q&A
+- biologie-tout-compris_*_all (1) Tania Louis
+- biology.stackexchange.com_*_all (1) Biology Q&A
+- biologycourses_*_all (1) Biology Courses  +school-courses
+- cest-pas-sorcier_*_agronomie (1) Alimentation & Agronomie  +home-food-diy
+- cest-pas-sorcier_*_all (1) C'est pas sorcier
+- cest-pas-sorcier_*_astronomie (1) Espace & Astronomie
+- cest-pas-sorcier_*_botanique (1) Botanique
+- cest-pas-sorcier_*_ecologie (1) Écologie & Climat
+- cest-pas-sorcier_*_energie (1) Énergie
+- cest-pas-sorcier_*_faune (1) Faune
+- cest-pas-sorcier_*_geologie (1) Géologie
+- cest-pas-sorcier_*_physique-chimie (1) Physique & Chimie
+- cest-pas-sorcier_*_technologie (1) Technologie & Industrie
+- cest-pas-sorcier_*_transports (1) Transports
+- cest-pas-sorcier_*_zapping-sauvage (1) Zapping Sauvage
+- chemistry.stackexchange.com_*_all (1) Chemistry Q&A
+- dirtybiology_*_all (1) DirtyBiology
+- e-penser_*_all (1) e-penser 2.0
+- earthscience.stackexchange.com_*_all (1) Earth Science Q&A
+- encyclopedie-environnement.org_*_all (1) Environment Encyclopedia
+- ethanweed_*_all (1) Learning statistics - Python  +school-courses
+- genomicseducation_*_all (1) Genomics Education Programme
+- gutenberg_*_lcc-q (1) Project Gutenberg Library  +books-literature
+- gutenberg_*_lcc-t (1) Project Gutenberg Library  +books-literature
+- hsm.stackexchange.com_*_all (1) Science and Maths History Q&A
+- la-chaine-de-maths-et-tiques_*_all (1) Maths et tiques  +school-courses
+- learningstatistics_*_all (1) Learning Statistics - CogStat  +school-courses
+- learningstatisticswithr.com_*_all (1) Learning Statistics with R  +school-courses
+- libretexts.org_*_bio (1) Biology LibreTexts  +school-courses
+- libretexts.org_*_chem (1) Chemistry LibreTexts  +school-courses
+- libretexts.org_*_eng (1) Engineering LibreTexts  +school-courses
+- libretexts.org_*_geo (1) Geosciences LibreTexts  +school-courses
+- libretexts.org_*_math (1) Mathematics LibreTexts  +school-courses
+- libretexts.org_*_phys (1) Physics LibreTexts  +school-courses
+- libretexts.org_*_stats (1) Statistics LibreTexts  +school-courses
+- lost-stats.github.io_*_all (1) Statistical techniques Library
+- madrasa_*_astronomy (1) مدرسة - مجموعة علم الفلك  +school-courses
+- madrasa_*_biology (1) مدرسة - مجموعة علم الأحياء  +school-courses
+- madrasa_*_chemistry (1) مدرسة - مجموعة الكيمياء  +school-courses
+- madrasa_*_electeng (1) مدرسة - الهندسة الكهربائية  +school-courses
+- madrasa_*_gasinteraction (1) مدرسة - مجموعة تفاعل الغازات  +school-courses
+- madrasa_*_magnets (1) مدرسة - القوى المغناطيسية  +school-courses
+- madrasa_*_math (1) مدرسة - مجموعة الرياضيات  +school-courses
+- madrasa_*_physics (1) مدرسة - مجموعة الفيزياء  +school-courses
+- madrasa_*_scientists (1) مدرسة - مجموعة علماء العرب  +history
+- math.stackexchange.com_*_all (1) Mathematics Q&A
+- mathoverflow.net_*_all (1) MathOverflow
+- matrix67.com_*_blog (1) Matrix67 Blog
+- mattermodeling.stackexchange.com_*_all (1) Matter Modeling Q&A
+- micmaths_*_all (1) Mic Maths
+- mooc-energie-climat_*_all (1) Le MOOC Energie et Climat  +school-courses
+- mspeekenbrink_*_all (1) Data Analysis and Modelling  +school-courses
+- ncase.me_*_all (1) Nicky Case
+- or.stackexchange.com_*_all (1) Operations Research Q&A
+- phet_*_all (114) PhET Interactive Simulations
+- physics.stackexchange.com_*_all (1) Physics Q&A
+- planetmath.org_*_all (1) Planet Math
+- proofassistants.stackexchange.com_*_all (1) Proof Assistants Q&A
+- proofwiki.org_*_all (1) ProofWiki
+- proofwiki_*_all (1) ProofWiki
+- psychology.stackexchange.com_*_all (1) Psychology & Neuroscience Q&A
+- puzzling.stackexchange.com_*_all (1) Puzzling Q&A
+- scicomp.stackexchange.com_*_all (1) Computational Science Q&A
+- science-in-the-bath_*_all (1) Science in the Bath
+- space.stackexchange.com_*_all (1) Space Exploration Q&A
+- stacks.math.columbia.edu_*_all (1) The Stacks project
+- stats.stackexchange.com_*_all (1) Cross Validated
+- ted_*_aliens (1) TED aliens
+- ted_*_animals (1) TED animals
+- ted_*_antarctica (1) TED antarctica
+- ted_*_anthropocene (1) TED anthropocene
+- ted_*_asteroid (1) TED asteroid
+- ted_*_astrobiology (1) TED astrobiology
+- ted_*_astronomy (1) TED astronomy
+- ted_*_bacteria (1) TED bacteria
+- ted_*_bees (1) TED bees
+- ted_*_big-bang (1) TED big bang
+- ted_*_biodiversity (1) TED biodiversity
+- ted_*_biology (1) TED biology
+- ted_*_biomimicry (1) TED biomimicry
+- ted_*_biosphere (1) TED biosphere
+- ted_*_biotech (1) TED biotech
+- ted_*_birds (1) TED birds
+- ted_*_botany (1) TED botany
+- ted_*_brain (1) TED brain
+- ted_*_chemistry (1) TED chemistry
+- ted_*_climate-change (1) TED climate change
+- ted_*_cognitive-science (1) TED cognitive science
+- ted_*_consciousness (1) TED consciousness
+- ted_*_conservation (1) TED conservation
+- ted_*_coral-reefs (1) TED coral reefs
+- ted_*_crispr (1) TED crispr
+- ted_*_curiosity (1) TED curiosity
+- ted_*_dark-matter (1) TED dark matter
+- ted_*_deextinction (1) TED deextinction
+- ted_*_dinosaurs (1) TED dinosaurs
+- ted_*_discovery (1) TED discovery
+- ted_*_dna (1) TED dna
+- ted_*_ecology (1) TED ecology
+- ted_*_electricity (1) TED electricity
+- ted_*_energy (1) TED energy
+- ted_*_engineering (1) TED engineering
+- ted_*_environment (1) TED environment
+- ted_*_evolution (1) TED evolution
+- ted_*_exploration (1) TED exploration
+- ted_*_fish (1) TED fish
+- ted_*_flight (1) TED flight
+- ted_*_forensics (1) TED forensics
+- ted_*_fossil-fuels (1) TED fossil fuels
+- ted_*_fungi (1) TED fungi
+- ted_*_genetics (1) TED genetics
+- ted_*_geology (1) TED geology
+- ted_*_glaciers (1) TED glaciers
+- ted_*_illusion (1) TED illusion
+- ted_*_innovation (1) TED innovation
+- ted_*_insects (1) TED insects
+- ted_*_invention (1) TED invention
+- ted_*_life (1) TED life
+- ted_*_marine-biology (1) TED marine biology
+- ted_*_mars (1) TED mars
+- ted_*_math (1) TED math
+- ted_*_memory (1) TED memory
+- ted_*_microbes (1) TED microbes
+- ted_*_microbiology (1) TED microbiology
+- ted_*_mission-blue (1) TED mission blue
+- ted_*_moon (1) TED moon
+- ted_*_nanotechnology (1) TED nanotechnology
+- ted_*_nasa (1) TED NASA
+- ted_*_natural-disaster (1) TED natural disaster
+- ted_*_natural-resources (1) TED natural resources
+- ted_*_nature (1) TED nature
+- ted_*_neurology (1) TED neurology
+- ted_*_neuroscience (1) TED neuroscience
+- ted_*_nuclear-energy (1) TED nuclear energy
+- ted_*_ocean (1) TED ocean
+- ted_*_paleontology (1) TED paleontology
+- ted_*_physics (1) TED physics
+- ted_*_planets (1) TED planets
+- ted_*_plants (1) TED plants
+- ted_*_plastic (1) TED plastic
+- ted_*_pollution (1) TED pollution
+- ted_*_primates (1) TED primates
+- ted_*_psychology (1) TED psychology
+- ted_*_quantum (1) TED quantum
+- ted_*_renewable-energy (1) TED renewable energy
+- ted_*_resources (1) TED resources
+- ted_*_rivers (1) TED rivers
+- ted_*_rocket-science (1) TED rocket science
+- ted_*_science (1) TED science
+- ted_*_solar-energy (1) TED solar energy
+- ted_*_solar-system (1) TED solar system
+- ted_*_sound (1) TED sound
+- ted_*_space (1) TED space
+- ted_*_statistics (1) TED statistics
+- ted_*_string-theory (1) TED string theory
+- ted_*_sun (1) TED sun
+- ted_*_sustainability (1) TED sustainability
+- ted_*_synthetic-biology (1) TED synthetic biology
+- ted_*_telescopes (1) TED telescopes
+- ted_*_time (1) TED time
+- ted_*_trees (1) TED trees
+- ted_*_universe (1) TED universe
+- ted_*_water (1) TED water
+- ted_*_weather (1) TED weather
+- ted_*_wildlife (1) TED wildlife
+- ted_*_wind-energy (1) TED wind energy
+- universcience-tv_*_all (1) Le blob (universcience.tv)
+- wikipedia_*_astronomy (1) Astronomy by Wikipedia
+- wikipedia_*_chemistry (10) الكيمياء ويكيبيديا
+- wikipedia_*_climate-change (4) Klimawandel von Wikipedia
+- wikipedia_*_mathematics (10) الرياضيات ويكيبيديا
+- wikipedia_*_molcell (10) الجزيئية والخلوية الأحياء
+- wikipedia_*_physics (10) الفيزياء ويكيبيديا
+- wikispecies_*_all (1) Wikispecies
+
+## Computers & Technology `computers-technology` (400 families)
+- 3dprinting.stackexchange.com_*_all (1) 3D Printing Q&A
+- ai.stackexchange.com_*_all (1) Artificial Intelligence Q&A
+- alpinelinux_*_all (1) Alpine Linux Wiki
+- android.stackexchange.com_*_all (1) Android Enthusiasts Q&A
+- anonymousplanet.org_*_all (1) The Guide to Online Anonymity  +survival-preparedness
+- apple.stackexchange.com_*_all (1) Apple Q&A
+- archlinux_*_all (1) ArchWiki
+- arduino.stackexchange.com_*_all (1) Arduino Q&A
+- askubuntu.com_*_all (1) Ask Ubuntu Q&A
+- bitcoin.stackexchange.com_*_all (1) Bitcoin Q&A
+- bitcoin_*_all (1) Bitcoin Wiki
+- blender.stackexchange.com_*_all (1) Blender Q&A
+- cardano.stackexchange.com_*_all (1) Cardano Q&A
+- civicrm.stackexchange.com_*_all (1) CiviCRM Q&A
+- cloudflare.com_*_learning-center (1) CloudFlare Learning Center
+- codegolf.stackexchange.com_*_all (1) Code Golf Q&A
+- codereview.stackexchange.com_*_all (1) Code Review Q&A
+- computergraphics.stackexchange.com_*_all (1) Computer Graphics Q&A
+- coreyms_*_django-tutorials (1) Django Tutorials
+- coreyms_*_flask-tutorials (1) Flask Tutorials
+- coreyms_*_git-tutorials (1) Git Tutorials
+- coreyms_*_javascript-tutorials (1) Javascript Tutorials
+- coreyms_*_matplotlib-tutorials (1) Matplotlib Tutorials
+- coreyms_*_pandas-tutorials (1) Python Pandas Tutorials
+- coreyms_*_python-tutorials (1) Python Tutorials
+- coreyms_*_sql-tutorials (1) SQL Tutorials
+- craftcms.stackexchange.com_*_all (1) Craft CMS Q&A
+- crypto.stackexchange.com_*_all (1) Cryptography Q&A
+- cs.stackexchange.com_*_all (1) Computer Science Q&A
+- cstheory.stackexchange.com_*_all (1) Theoretical Computer Science
+- dart.dev_*_all (1) dart.dev
+- datascience.stackexchange.com_*_all (1) Data Science Q&A
+- dba.stackexchange.com_*_all (1) Database Administrators Q&A
+- deus-ex-silicium_*_all (1) Deus Ex Silicium
+- devdocs_*_angular (1) Angular Docs
+- devdocs_*_angularjs (1) Angular.js Docs
+- devdocs_*_ansible (1) Ansible Docs
+- devdocs_*_apache-http-server (1) Apache HTTP Server Docs
+- devdocs_*_apache-pig (1) Apache Pig Docs
+- devdocs_*_astro (1) Astro Docs
+- devdocs_*_async (1) Async Docs
+- devdocs_*_axios (1) Axios Docs
+- devdocs_*_babel (1) Babel Docs
+- devdocs_*_backbone (1) Backbone.js Docs
+- devdocs_*_bash (1) Bash Docs
+- devdocs_*_bazel (1) Bazel Docs
+- devdocs_*_bluebird (1) Bluebird Docs
+- devdocs_*_bootstrap (1) Bootstrap Docs
+- devdocs_*_bottle (1) Bottle Docs
+- devdocs_*_bower (1) Bower Docs
+- devdocs_*_browser-support-tables (1) Support Tables Docs
+- devdocs_*_bun (1) Bun Docs
+- devdocs_*_c (1) C Docs
+- devdocs_*_cakephp (1) CakePHP Docs
+- devdocs_*_chai (1) Chai Docs
+- devdocs_*_chef (1) Chef Docs
+- devdocs_*_click (1) click Docs
+- devdocs_*_clojure (1) Clojure Docs
+- devdocs_*_cmake (1) CMake Docs
+- devdocs_*_codeception (1) Codeception Docs
+- devdocs_*_codeceptjs (1) CodeceptJS Docs
+- devdocs_*_codeigniter (1) CodeIgniter Docs
+- devdocs_*_coffeescript (1) CoffeeScript Docs
+- devdocs_*_composer (1) Composer Docs
+- devdocs_*_cordova (1) Cordova Docs
+- devdocs_*_couchdb (1) CouchDB Docs
+- devdocs_*_cpp (1) C++ Docs
+- devdocs_*_crystal (1) Crystal Docs
+- devdocs_*_css (1) CSS Docs
+- devdocs_*_cypress (1) Cypress Docs
+- devdocs_*_d (1) D Docs
+- devdocs_*_d3 (1) D3.js Docs
+- devdocs_*_dart (1) Dart Docs
+- devdocs_*_date-fns (1) date-fns Docs
+- devdocs_*_deno (1) Deno Docs
+- devdocs_*_django (1) Django Docs
+- devdocs_*_django-rest-framework (1) Django REST Framework Docs
+- devdocs_*_docker (1) Docker Docs
+- devdocs_*_dojo (1) Dojo Docs
+- devdocs_*_dom (1) Web APIs Docs
+- devdocs_*_drupal (1) Drupal Docs
+- devdocs_*_duckdb (1) DuckDB Docs
+- devdocs_*_eigen3 (1) Eigen3 Docs
+- devdocs_*_electron (1) Electron Docs
+- devdocs_*_elisp (1) Elisp Docs
+- devdocs_*_elixir (1) Elixir Docs
+- devdocs_*_ember (1) Ember.js Docs
+- devdocs_*_enzyme (1) Enzyme Docs
+- devdocs_*_erlang (1) Erlang Docs
+- devdocs_*_es-toolkit (1) es-toolkit Docs
+- devdocs_*_esbuild (1) esbuild Docs
+- devdocs_*_eslint (1) ESLint Docs
+- devdocs_*_express (1) Express Docs
+- devdocs_*_falcon (1) Falcon Docs
+- devdocs_*_fastapi (1) FastAPI Docs
+- devdocs_*_fish (1) Fish Docs
+- devdocs_*_flask (1) Flask Docs
+- devdocs_*_flow (1) Flow Docs
+- devdocs_*_fluture (1) Fluture Docs
+- devdocs_*_gcc (1) GCC Docs
+- devdocs_*_git (1) Git Docs
+- devdocs_*_gnu-cobol (1) GnuCOBOL Docs
+- devdocs_*_gnu-fortran (1) GNU Fortran Docs
+- devdocs_*_gnu-make (1) GNU Make Docs
+- devdocs_*_gnuplot (1) Gnuplot Docs
+- devdocs_*_go (1) Go Docs
+- devdocs_*_godot (1) Godot Docs
+- devdocs_*_graphite (1) Graphite Docs
+- devdocs_*_graphviz (1) Graphviz Docs
+- devdocs_*_groovy (1) Groovy Docs
+- devdocs_*_grunt (1) Grunt Docs
+- devdocs_*_gtk (1) GTK Docs
+- devdocs_*_hammerspoon (1) Hammerspoon Docs
+- devdocs_*_handlebars (1) Handlebars.js Docs
+- devdocs_*_hapi (1) Hapi Docs
+- devdocs_*_haproxy (1) HAProxy Docs
+- devdocs_*_haskell (1) Haskell Docs
+- devdocs_*_haxe (1) Haxe Docs
+- devdocs_*_homebrew (1) Homebrew Docs
+- devdocs_*_html (1) HTML Docs
+- devdocs_*_htmx (1) htmx Docs
+- devdocs_*_http (1) HTTP Docs
+- devdocs_*_i3 (1) i3 Docs
+- devdocs_*_immutable (1) Immutable.js Docs
+- devdocs_*_influxdata (1) InfluxData Docs
+- devdocs_*_jasmine (1) Jasmine Docs
+- devdocs_*_javascript (1) JavaScript Docs
+- devdocs_*_jekyll (1) Jekyll Docs
+- devdocs_*_jest (1) Jest Docs
+- devdocs_*_jinja (1) Jinja Docs
+- devdocs_*_joi (1) Joi Docs
+- devdocs_*_jq (1) jq Docs
+- devdocs_*_jquery (1) jQuery Docs
+- devdocs_*_jquerymobile (1) jQuery Mobile Docs
+- devdocs_*_jqueryui (1) jQuery UI Docs
+- devdocs_*_jsdoc (1) JSDoc Docs
+- devdocs_*_julia (1) Julia Docs
+- devdocs_*_knockout (1) Knockout.js Docs
+- devdocs_*_koa (1) Koa Docs
+- devdocs_*_kotlin (1) Kotlin Docs
+- devdocs_*_kubectl (1) Kubectl Docs
+- devdocs_*_kubernetes (1) Kubernetes Docs
+- devdocs_*_laravel (1) Laravel Docs
+- devdocs_*_latex (1) LaTeX Docs
+- devdocs_*_leaflet (1) Leaflet Docs
+- devdocs_*_less (1) Less Docs
+- devdocs_*_liquid (1) Liquid Docs
+- devdocs_*_lit (1) Lit Docs
+- devdocs_*_lodash (1) lodash Docs
+- devdocs_*_love (1) LÖVE Docs
+- devdocs_*_lua (1) Lua Docs
+- devdocs_*_man (1) Linux man pages Docs
+- devdocs_*_mariadb (1) MariaDB Docs
+- devdocs_*_marionette (1) Marionette.js Docs
+- devdocs_*_markdown (1) Markdown Docs
+- devdocs_*_matplotlib (1) Matplotlib Docs
+- devdocs_*_meteor (1) Meteor Docs
+- devdocs_*_minitest (1) Ruby / Minitest Docs
+- devdocs_*_mocha (1) Mocha Docs
+- devdocs_*_modernizr (1) Modernizr Docs
+- devdocs_*_moment (1) Moment.js Docs
+- devdocs_*_moment-timezone (1) Moment.js Timezone Docs
+- devdocs_*_mongoose (1) Mongoose Docs
+- devdocs_*_nextjs (1) Next.js Docs
+- devdocs_*_nginx (1) nginx Docs
+- devdocs_*_nginx-lua-module (1) nginx / Lua Module Docs
+- devdocs_*_nim (1) Nim Docs
+- devdocs_*_nix (1) Nix Docs
+- devdocs_*_node (1) Node.js Docs
+- devdocs_*_nokogiri (1) Nokogiri Docs
+- devdocs_*_npm (1) npm Docs
+- devdocs_*_numpy (1) NumPy Docs
+- devdocs_*_nushell (1) Nushell Docs
+- devdocs_*_ocaml (1) OCaml Docs
+- devdocs_*_octave (1) Octave Docs
+- devdocs_*_opengl (1) OpenGL Docs
+- devdocs_*_openjdk (1) OpenJDK Docs
+- devdocs_*_openlayers (1) OpenLayers Docs
+- devdocs_*_opentsdb (1) OpenTSDB Docs
+- devdocs_*_padrino (1) Padrino Docs
+- devdocs_*_pandas (1) pandas Docs
+- devdocs_*_perl (1) Perl Docs
+- devdocs_*_phalcon (1) Phalcon Docs
+- devdocs_*_phaser (1) Phaser Docs
+- devdocs_*_phoenix (1) Phoenix Docs
+- devdocs_*_php (1) PHP Docs
+- devdocs_*_phpunit (1) PHPUnit Docs
+- devdocs_*_playwright (1) Playwright Docs
+- devdocs_*_point-cloud-library (1) PointCloudLibrary Docs
+- devdocs_*_pony (1) Pony Docs
+- devdocs_*_postgresql (1) PostgreSQL Docs
+- devdocs_*_prettier (1) Prettier Docs
+- devdocs_*_pug (1) Pug Docs
+- devdocs_*_puppeteer (1) Puppeteer Docs
+- devdocs_*_pygame (1) Pygame Docs
+- devdocs_*_python (1) Python Docs
+- devdocs_*_pytorch (1) PyTorch Docs
+- devdocs_*_q (1) Q Docs
+- devdocs_*_qt (1) Qt Docs
+- devdocs_*_qunit (1) QUnit Docs
+- devdocs_*_r (1) R Docs
+- devdocs_*_rails (1) Ruby on Rails Docs
+- devdocs_*_ramda (1) Ramda Docs
+- devdocs_*_react (1) React Docs
+- devdocs_*_react-bootstrap (1) React Bootstrap Docs
+- devdocs_*_react-native (1) React Native Docs
+- devdocs_*_react-router (1) React Router Docs
+- devdocs_*_reactivex (1) ReactiveX Docs
+- devdocs_*_redis (1) Redis Docs
+- devdocs_*_redux (1) Redux Docs
+- devdocs_*_relay (1) Relay Docs
+- devdocs_*_requests (1) Requests Docs
+- devdocs_*_requirejs (1) RequireJS Docs
+- devdocs_*_rethinkdb (1) RethinkDB Docs
+- devdocs_*_ruby (1) Ruby Docs
+- devdocs_*_rust (1) Rust Docs
+- devdocs_*_rxjs (1) RxJS Docs
+- devdocs_*_saltstack (1) SaltStack Docs
+- devdocs_*_sanctuary (1) Sanctuary Docs
+- devdocs_*_sanctuary-def (1) Sanctuary Def Docs
+- devdocs_*_sanctuary-type-classes (1) Sanctuary Type Classes Docs
+- devdocs_*_sass (1) Sass Docs
+- devdocs_*_scala (1) Scala Docs
+- devdocs_*_scikit-image (1) scikit-image Docs
+- devdocs_*_scikit-learn (1) scikit-learn Docs
+- devdocs_*_sequelize (1) Sequelize Docs
+- devdocs_*_sinon (1) Sinon.JS Docs
+- devdocs_*_socketio (1) Socket.IO Docs
+- devdocs_*_spring-boot (1) Spring Boot Docs
+- devdocs_*_sqlite (1) SQLite Docs
+- devdocs_*_statsmodels (1) Statsmodels Docs
+- devdocs_*_svelte (1) Svelte Docs
+- devdocs_*_svg (1) SVG Docs
+- devdocs_*_symfony (1) Symfony Docs
+- devdocs_*_tailwindcss (1) Tailwind CSS Docs
+- devdocs_*_tcl-tk (1) Tcl/Tk Docs
+- devdocs_*_tcllib (1) Tcllib Docs
+- devdocs_*_tensorflow (1) TensorFlow Docs
+- devdocs_*_tensorflow-cpp (1) TensorFlow C++ Docs
+- devdocs_*_terraform (1) Terraform Docs
+- devdocs_*_threejs (1) Three.js Docs
+- devdocs_*_trio (1) Trio Docs
+- devdocs_*_twig (1) Twig Docs
+- devdocs_*_typescript (1) TypeScript Docs
+- devdocs_*_underscore (1) Underscore.js Docs
+- devdocs_*_vagrant (1) Vagrant Docs
+- devdocs_*_varnish (1) Varnish Docs
+- devdocs_*_vertx (1) Vert.x Docs
+- devdocs_*_vite (1) Vite Docs
+- devdocs_*_vitest (1) Vitest Docs
+- devdocs_*_vue (1) Vue Docs
+- devdocs_*_vue-router (1) Vue Router Docs
+- devdocs_*_vueuse (1) VueUse Docs
+- devdocs_*_vuex (1) Vuex Docs
+- devdocs_*_vulkan (1) Vulkan Docs
+- devdocs_*_wagtail (1) Wagtail Docs
+- devdocs_*_web-extensions (1) Web Extensions Docs
+- devdocs_*_webpack (1) webpack Docs
+- devdocs_*_werkzeug (1) Werkzeug Docs
+- devdocs_*_wordpress (1) WordPress Docs
+- devdocs_*_xslt-xpath (1) XSLT & XPath Docs
+- devdocs_*_yarn (1) Yarn Docs
+- devdocs_*_yii (1) Yii Docs
+- devdocs_*_zig (1) Zig Docs
+- devdocs_*_zsh (1) Zsh Docs
+- devhints.io_*_all (1) DevHints - Rico's cheatsheets
+- devops.stackexchange.com_*_all (1) DevOps Q&A
+- doc.ubuntu-fr.org_*_all (1) Documentation ubuntu-fr
+- docs.python.org_*_all (1) Python Documentation
+- drones.stackexchange.com_*_all (1) Drones and Model Aircraft Q&A
+- drupal.stackexchange.com_*_all (1) Drupal Q&A
+- dsp.stackexchange.com_*_all (1) Signal Processing Q&A
+- electronics.stackexchange.com_*_all (1) Electronics Q&A
+- elementaryos.stackexchange.com_*_all (1) elementary OS Q&A
+- emacs.stackexchange.com_*_all (1) Emacs Q&A
+- engineering.stackexchange.com_*_all (1) Engineering Q&A
+- eosio.stackexchange.com_*_all (1) EOS.IO Q&A
+- es.stackoverflow.com_*_all (1) Stack Overflow en español
+- ethereum.stackexchange.com_*_all (1) Ethereum Q&A
+- expressionengine.stackexchange.com_*_all (1) ExpressionEngine® Q&A
+- freecodecamp_*_all (10) FreeCodeCamp  +school-courses
+- freecodecamp_*_coding-interview-prep (8) FreeCodeCamp Interview Prep  +school-courses
+- freecodecamp_*_javascript-algorithms-and-data-structures (9) FreeCodeCamp JavaScript  +school-courses
+- freecodecamp_*_project-euler (8) Project Euler  +school-courses
+- freecodecamp_*_rosetta-code (10) Rosetta-Code  +school-courses
+- gamedev.stackexchange.com_*_all (1) Game Development Q&A
+- genai.stackexchange.com_*_all (1) GenAI Q&A
+- gentoo_*_all (1) Gentoo Wiki
+- getbootstrap.com_*_all (1) Bootstrap
+- gis.stackexchange.com_*_all (1) Geographic Information Systems
+- gobyexample.com_*_all (1) Go by example
+- ham.stackexchange.com_*_all (1) Amateur Radio Q&A
+- hardwarerecs.stackexchange.com_*_all (1) Hardware Recommendations Q&A
+- htdp.org_*_all (1) How to Design Programs  +school-courses
+- incognitocat.me_*_all (1) Incognito cat  +survival-preparedness
+- installgentoo_*_all (1) InstallGentoo Wiki
+- iot.stackexchange.com_*_all (1) Internet of Things Q&A
+- iota.stackexchange.com_*_all (1) Iota Q&A
+- ja.stackoverflow.com_*_all (1) スタック・オーバーフロー
+- jeffe.cs.illinois.edu_*_all (1) Algorithms  +school-courses
+- joomla.stackexchange.com_*_all (1) Joomla Q&A
+- kris-occhipinti_*_all (1) Kris Occhipinti
+- langdev.stackexchange.com_*_all (1) Programming Language Design
+- lesscss.org_*_all (1) Less CSS
+- lua.org_*_all (1) Lua.org
+- madrasa_*_futureencyclopedia (1) مدرسة - مجموعة موسوعة المستقبل
+- magento.stackexchange.com_*_all (1) Magento Q&A
+- mathematica.stackexchange.com_*_all (1) Mathematica Q&A
+- mediawiki_*_all (1) MediaWiki
+- monero.stackexchange.com_*_all (1) Monero Q&A
+- neos-wiki_*_all (1) Neos Wiki
+- networkengineering.stackexchange.com_*_all (1) Network Engineering Q&A
+- noted.lol_*_all (1) Noted.lol
+- opendata.stackexchange.com_*_all (1) Open Data Q&A
+- opendatastructures.org_*_all (1) Open Data Structures  +school-courses
+- opensource.stackexchange.com_*_all (1) Open Source Q&A
+- openwrt.org_*_all (1) OpenWRT
+- openzim_*_all (1) OpenZim Wiki
+- peps.python_*_all (1) Python PEPs
+- permacomputing.net_*_all (1) Permacomputing
+- php.net_*_all (1) PHP Manual
+- postmarketos_*_all (1) postmarketOS
+- privacydefence.org_*_opsecbible (1) The OpSec Bible  +survival-preparedness
+- pt.stackoverflow.com_*_all (1) Stack Overflow em Português
+- python-class-vc_*_all (1) Python 程式設計的第一步  +school-courses
+- quantumcomputing.stackexchange.com_*_all (1) Quantum Computing Q&A
+- raspberrypi.stackexchange.com_*_all (1) Raspberry Pi Q&A
+- retrocomputing.stackexchange.com_*_all (1) Retrocomputing Q&A
+- reverseengineering.stackexchange.com_*_all (1) Reverse Engineering Q&A
+- robotics.stackexchange.com_*_all (1) Robotics Q&A
+- ru.stackoverflow.com_*_all (1) Stack Overflow на русском
+- salesforce.stackexchange.com_*_all (1) Salesforce Q&A
+- scalewaywebinars_*_all (1) Webinaires cloud
+- scratch-wiki_*_all (1) Scratch Wiki
+- security.stackexchange.com_*_all (1) Information Security Q&A
+- serverfault.com_*_all (1) Server Fault
+- sharepoint.stackexchange.com_*_all (1) SharePoint Q&A
+- sitecore.stackexchange.com_*_all (1) Sitecore Q&A
+- softwareengineering.stackexchange.com_*_all (1) Software Engineering Q&A
+- softwarerecs.stackexchange.com_*_all (1) Software Recommendations Q&A
+- solana.stackexchange.com_*_all (1) Solana Q&A
+- sqa.stackexchange.com_*_all (1) Software QA & Testing
+- stackapps.com_*_all (1) Stack Apps
+- stackoverflow.com_*_all (1) Stack Overflow
+- stellar.stackexchange.com_*_all (1) Stellar Q&A
+- substrate.stackexchange.com_*_all (1) Substrate and Polkadot Q&A
+- superuser.com_*_all (1) Super User
+- techbase.kde.org_*_all (1) KDE TechBase
+- ted_*_3d-printing (1) TED 3d printing
+- ted_*_ai (1) TED ai
+- ted_*_algorithm (1) TED algorithm
+- ted_*_augmented-reality (1) TED augmented reality
+- ted_*_bionics (1) TED bionics
+- ted_*_blockchain (1) TED blockchain
+- ted_*_code (1) TED code
+- ted_*_computers (1) TED computers
+- ted_*_cryptocurrency (1) TED cryptocurrency
+- ted_*_cyber-security (1) TED cyber security
+- ted_*_data (1) TED data
+- ted_*_demo (1) TED demo
+- ted_*_driverless-cars (1) TED driverless cars
+- ted_*_drones (1) TED drones
+- ted_*_encryption (1) TED encryption
+- ted_*_internet (1) TED internet
+- ted_*_machine-learning (1) TED machine learning
+- ted_*_manufacturing (1) TED manufacturing
+- ted_*_metaverse (1) TED metaverse
+- ted_*_nfts (1) TED nfts
+- ted_*_online-privacy (1) TED online privacy
+- ted_*_prosthetics (1) TED prosthetics
+- ted_*_robots (1) TED robots
+- ted_*_social-media (1) TED social media
+- ted_*_software (1) TED software
+- ted_*_surveillance (1) TED surveillance
+- ted_*_tech (1) TED tech
+- ted_*_technology (1) TED technology
+- ted_*_ux-design (1) TED ux design
+- ted_*_virtual-reality (1) TED virtual reality
+- ted_*_visualizations (1) TED visualizations
+- termux_*_all (1) Termux Wiki
+- tex.stackexchange.com_*_all (1) TeX - LaTeX Q&A
+- tezos.stackexchange.com_*_all (1) Tezos Q&A
+- thaki-unlocks_*_tech-tricks (1) Thaki Tech Tricks
+- thalesdoc_*_all (1) Thales CPL Documentation Hub
+- tor.stackexchange.com_*_all (1) Tor Q&A
+- tridion.stackexchange.com_*_all (1) Tridion Q&A
+- ubuntuusers_*_all (1) Ubuntuusers Wiki
+- unine.ch_*_premiers-pas-avec-python (1) Premiers pas avec Python  +school-courses
+- unix.stackexchange.com_*_all (1) Unix & Linux Q&A
+- unrealircd_*_all (1) UnrealIRCd Docs
+- ux.stackexchange.com_*_all (1) User Experience Q&A
+- vi.stackexchange.com_*_all (1) Vi and Vim Q&A
+- webapps.stackexchange.com_*_all (1) Web Applications Q&A
+- webmasters.stackexchange.com_*_all (1) Webmasters Q&A
+- wikimedia_*_wikipedia-tutorial (1) Tutorial Wikipedia
+- wikipedia_*_computer (10) الكمبيوتر ويكيبيديا
+- wikitech_*_all (1) Wikitech
+- wordpress.stackexchange.com_*_all (1) WordPress Development Q&A
+- www.mankier.com_*_all (1) ManKier - Linux man pages
+- www.solidarite-numerique.fr_*_all (1) Solidarité numérique
+
+## Health & Medicine `health-medicine` (61 families)
+- cest-pas-sorcier_*_corps-humain (1) Corps humain
+- cest-pas-sorcier_*_medecine (1) Médecine
+- fitness.stackexchange.com_*_all (1) Physical Fitness Q&A
+- gutenberg_*_lcc-r (1) Project Gutenberg Library  +books-literature
+- hygiene-mentale_*_all (1) Hygiène Mentale
+- irp.fas.org_*_military-medicine (1) Military Medicine  +survival-preparedness
+- librepathology_*_all (1) Libre Pathology
+- libretexts.org_*_med (1) Medicine LibreTexts  +school-courses
+- mdwiki_*_all (1) MDWiki Medical Encyclopedia
+- medicalsciences.stackexchange.com_*_all (1) Medical Sciences Q&A
+- medlineplus.gov_*_all (2) MedlinePlus
+- nhs.uk_*_medicines (1) NHS' Medicines A to Z
+- quickguidesformedicine_*_all (1) Surviving Residency
+- skin-of-color-society_*_all (1) Skin of Color Society
+- ted_*_addiction (1) TED addiction
+- ted_*_aging (1) TED aging
+- ted_*_aids (1) TED aids
+- ted_*_alzheimers (1) TED alzheimer's
+- ted_*_autism-spectrum-disorder (1) TED autism spectrum disorder
+- ted_*_bioethics (1) TED bioethics
+- ted_*_blindness (1) TED blindness
+- ted_*_body-language (1) TED body language
+- ted_*_cancer (1) TED cancer
+- ted_*_coronavirus (1) TED coronavirus
+- ted_*_depression (1) TED depression
+- ted_*_disability (1) TED disability
+- ted_*_disease (1) TED disease
+- ted_*_drugs (1) TED drugs
+- ted_*_ebola (1) TED ebola
+- ted_*_exercise (1) TED exercise
+- ted_*_health (1) TED health
+- ted_*_health-care (1) TED health care
+- ted_*_hearing (1) TED hearing
+- ted_*_heart (1) TED heart
+- ted_*_human-body (1) TED human body
+- ted_*_illness (1) TED illness
+- ted_*_medical-imaging (1) TED medical imaging
+- ted_*_medical-research (1) TED medical research
+- ted_*_medicine (1) TED medicine
+- ted_*_meditation (1) TED meditation
+- ted_*_mental-health (1) TED mental health
+- ted_*_mindfulness (1) TED mindfulness
+- ted_*_pain (1) TED pain
+- ted_*_pandemic (1) TED pandemic
+- ted_*_pregnancy (1) TED pregnancy
+- ted_*_ptsd (1) TED ptsd
+- ted_*_public-health (1) TED public health
+- ted_*_reproductive-health (1) TED reproductive health
+- ted_*_sight (1) TED sight
+- ted_*_sleep (1) TED sleep
+- ted_*_smell (1) TED smell
+- ted_*_suicide (1) TED suicide
+- ted_*_surgery (1) TED surgery
+- ted_*_tedmed (1) TED tedmed
+- ted_*_vaccines (1) TED vaccines
+- ted_*_virus (1) TED virus
+- wikem_*_all (1) WikEM
+- wikipedia_*_medicine (26) وِيكيبيديا الطبية
+- wikiskripta_*_all (1) WikiSkripta
+- wikivet.net_*_all (1) WikiVet
+- zimgit-medicine_en (1) Medical Library  +survival-preparedness
+
+## History `history` (23 families)
+- cest-pas-sorcier_*_histoire (1) Histoire
+- genealogy.stackexchange.com_*_all (1) Genealogy & Family History Q&A
+- gramps-project.org_*_wiki (1) Gramps genealogy Wiki
+- gutenberg_*_lcc-c (1) Project Gutenberg Library  +books-literature
+- gutenberg_*_lcc-d (1) Project Gutenberg Library  +books-literature
+- gutenberg_*_lcc-e (1) Project Gutenberg Library  +books-literature
+- gutenberg_*_lcc-f (1) Project Gutenberg Library  +books-literature
+- gutenberg_*_lcc-u (1) Project Gutenberg Library  +books-literature
+- gutenberg_*_lcc-v (1) Project Gutenberg Library  +books-literature
+- history.stackexchange.com_*_all (1) History Q&A
+- madrasa_*_scientists (1) مدرسة - مجموعة علماء العرب  +science-mathematics
+- nota-bene_*_all (1) Nota Bene
+- shamela.ws_*_al-ansab (1) الأنساب؛ المجموعة رقم 27
+- shamela.ws_*_al-buldan-wa-al-rihlat (1) 28 البلدان؛ المجموعة رقم  +geography-maps-travel
+- ted_*_ancient-world (1) TED ancient world
+- ted_*_archaeology (1) TED archaeology
+- ted_*_egypt (1) TED egypt
+- ted_*_history (1) TED history
+- ted_*_slavery (1) TED slavery
+- wikipedia_*_history (10) التاريخ من قبل ويكيبيديا
+- wikipedia_*_tunisie (1) Encyclopédie de la Tunisie  +geography-maps-travel
+- wikipedia_*_venezuela (1) Enciclopedia de Venezuela  +geography-maps-travel
+- womenshistory.si.edu_*_all (1) American Women’s History
+
+## Geography, Maps & Travel `geography-maps-travel` (223 families)
+- aviation.stackexchange.com_*_all (1) Aviation Q&A
+- cest-pas-sorcier_*_geographie (1) Géographie & Découverte
+- expatriates.stackexchange.com_*_all (1) Expatriates Q&A
+- gutenberg_*_lcc-g (1) Project Gutenberg Library  +books-literature
+- mali-pour-les-nuls_*_all (1) Le Mali Pour Les Nuls
+- maps_*_afghanistan (1) Afghanistan
+- maps_*_africa (1) Africa
+- maps_*_albania (1) Albania
+- maps_*_algeria (1) Algeria
+- maps_*_all (1) World
+- maps_*_andes (1) Andean countries
+- maps_*_andorra (1) Andorra
+- maps_*_angola (1) Angola
+- maps_*_argentina (1) Argentina
+- maps_*_armenia (1) Armenia
+- maps_*_asia (1) Asia
+- maps_*_australia (1) Australia
+- maps_*_australia-oceania (1) Australia and Oceania
+- maps_*_austria (1) Austria
+- maps_*_azerbaijan (1) Azerbaijan
+- maps_*_azores (1) Azores
+- maps_*_bahamas (1) Bahamas
+- maps_*_balkans (1) Balkans
+- maps_*_bangladesh (1) Bangladesh
+- maps_*_belarus (1) Belarus
+- maps_*_belgium (1) Belgium
+- maps_*_belize (1) Belize
+- maps_*_benin (1) Benin
+- maps_*_bhutan (1) Bhutan
+- maps_*_bolivia (1) Bolivia
+- maps_*_bosnia-herzegovina (1) Bosnia-Herzegovina
+- maps_*_botswana (1) Botswana
+- maps_*_brazil (1) Brazil
+- maps_*_bulgaria (1) Bulgaria
+- maps_*_burkina-faso (1) Burkina Faso
+- maps_*_burundi (1) Burundi
+- maps_*_cambodia (1) Cambodia
+- maps_*_cameroon (1) Cameroon
+- maps_*_canada (1) Canada
+- maps_*_canary-islands (1) Canary Islands
+- maps_*_cape-verde (1) Cape Verde
+- maps_*_central-african-republic (1) Central African Republic
+- maps_*_central-america (1) Central America
+- maps_*_chad (1) Chad
+- maps_*_chile (1) Chile
+- maps_*_china (1) China
+- maps_*_colombia (1) Colombia
+- maps_*_comores (1) Comores
+- maps_*_congo-democratic-republic-kinshasa (1) Dem. Rep. of Congo (Kinshasa)
+- maps_*_congo-republic-brazzaville (1) Rep. of Congo (Brazzaville)
+- maps_*_cook-islands (1) Cook Islands
+- maps_*_costa-rica (1) Costa Rica
+- maps_*_croatia (1) Croatia
+- maps_*_cuba (1) Cuba
+- maps_*_cyprus (1) Cyprus
+- maps_*_czech-republic (1) Czech Republic
+- maps_*_denmark (1) Denmark
+- maps_*_djibouti (1) Djibouti
+- maps_*_east-timor (1) East Timor
+- maps_*_ecuador (1) Ecuador
+- maps_*_egypt (1) Egypt
+- maps_*_el-salvador (1) El Salvador
+- maps_*_equatorial-guinea (1) Equatorial Guinea
+- maps_*_eritrea (1) Eritrea
+- maps_*_estonia (1) Estonia
+- maps_*_ethiopia (1) Ethiopia
+- maps_*_europe (1) Europe
+- maps_*_faroe-islands (1) Faroe Islands
+- maps_*_fiji (1) Fiji
+- maps_*_france (1) France
+- maps_*_french-polynesia (1) French Polynesia
+- maps_*_gabon (1) Gabon
+- maps_*_gcc-states (1) Gulf States
+- maps_*_georgia (1) Georgia
+- maps_*_germany (1) Germany
+- maps_*_ghana (1) Ghana
+- maps_*_greece (1) Greece
+- maps_*_greenland (1) Greenland
+- maps_*_guatemala (1) Guatemala
+- maps_*_guernsey-and-jersey (1) Guernsey and Jersey
+- maps_*_guinea (1) Guinea
+- maps_*_guinea-bissau (1) Guinea-Bissau
+- maps_*_guyana (1) Guyana
+- maps_*_haiti-and-dominican-republic (1) Haiti and Dominican Republic
+- maps_*_honduras (1) Honduras
+- maps_*_hungary (1) Hungary
+- maps_*_ile-de-clipperton (1) Clipperton Island
+- maps_*_indonesia-with-east-timor (1) Indonesia and Timor Leste
+- maps_*_iran (1) Iran
+- maps_*_iraq (1) Iraq
+- maps_*_isle-of-man (1) Isle of Man
+- maps_*_israel-and-palestine (1) Israel and Palestine
+- maps_*_italy (1) Italy
+- maps_*_ivory-coast (1) Ivory Coast
+- maps_*_jamaica (1) Jamaica
+- maps_*_jordan (1) Jordan
+- maps_*_kazakhstan (1) Kazakhstan
+- maps_*_kenya (1) Kenya
+- maps_*_kiribati (1) Kiribati
+- maps_*_kosovo (1) Kosovo
+- maps_*_kyrgyzstan (1) Kyrgyzstan
+- maps_*_laos (1) Laos
+- maps_*_latvia (1) Latvia
+- maps_*_lebanon (1) Lebanon
+- maps_*_lesotho (1) Lesotho
+- maps_*_liberia (1) Liberia
+- maps_*_libya (1) Libya
+- maps_*_liechtenstein (1) Liechtenstein
+- maps_*_luxembourg (1) Luxembourg
+- maps_*_macedonia (1) Macedonia
+- maps_*_madagascar (1) Madagascar
+- maps_*_malawi (1) Malawi
+- maps_*_malaysia-singapore-and-brunei (1) Malaysia, Singapore and Brunei
+- maps_*_maldives (1) Maldives
+- maps_*_mali (1) Mali
+- maps_*_malta (1) Malta
+- maps_*_marshall-islands (1) Marshall Islands
+- maps_*_mauritania (1) Mauritania
+- maps_*_mauritius (1) Mauritius
+- maps_*_micronesia (1) Micronesia
+- maps_*_mongolia (1) Mongolia
+- maps_*_montenegro (1) Montenegro
+- maps_*_morocco (1) Morocco
+- maps_*_mozambique (1) Mozambique
+- maps_*_myanmar-burma (1) Myanmar (a.k.a. Burma)
+- maps_*_namibia (1) Namibia
+- maps_*_nauru (1) Nauru
+- maps_*_nepal (1) Nepal
+- maps_*_netherlands (1) Netherlands
+- maps_*_new-caledonia (1) New Caledonia
+- maps_*_new-zealand (1) New Zealand
+- maps_*_nicaragua (1) Nicaragua
+- maps_*_niger (1) Niger
+- maps_*_nigeria (1) Nigeria
+- maps_*_niue (1) Niue
+- maps_*_nordics (1) Nordics
+- maps_*_north-america (1) North America
+- maps_*_north-korea (1) North Korea
+- maps_*_norway (1) Norway
+- maps_*_pakistan (1) Pakistan
+- maps_*_palau (1) Palau
+- maps_*_panama (1) Panama
+- maps_*_papua-new-guinea (1) Papua New Guinea
+- maps_*_paraguay (1) Paraguay
+- maps_*_peru (1) Peru
+- maps_*_philippines (1) Philippines
+- maps_*_pitcairn-islands (1) Pitcairn Islands
+- maps_*_poland (1) Poland
+- maps_*_romania (1) Romania
+- maps_*_russia (1) Russian Federation
+- maps_*_rwanda (1) Rwanda
+- maps_*_samoa (1) Samoa
+- maps_*_sao-tome-and-principe (1) Sao Tome and Principe
+- maps_*_senegal-and-gambia (1) Senegal and Gambia
+- maps_*_serbia (1) Serbia
+- maps_*_seychelles (1) Seychelles
+- maps_*_sierra-leone (1) Sierra Leone
+- maps_*_slovakia (1) Slovakia
+- maps_*_slovenia (1) Slovenia
+- maps_*_solomon-islands (1) Solomon Islands
+- maps_*_somalia (1) Somalia
+- maps_*_south-africa (1) South Africa
+- maps_*_south-america (1) South America
+- maps_*_south-atlantic (1) South Atlantic
+- maps_*_south-korea (1) South Korea
+- maps_*_south-sudan (1) South Sudan
+- maps_*_southeast-asia (1) Southeast Asia
+- maps_*_southern-africa (1) East Africa
+- maps_*_sri-lanka (1) Sri Lanka
+- maps_*_sudan (1) Sudan
+- maps_*_suriname (1) Suriname
+- maps_*_swaziland (1) Swaziland
+- maps_*_sweden (1) Sweden
+- maps_*_switzerland (1) Switzerland
+- maps_*_syria (1) Syria
+- maps_*_taiwan (1) Taiwan
+- maps_*_tajikistan (1) Tajikistan
+- maps_*_tanzania (1) Tanzania
+- maps_*_thailand (1) Thailand
+- maps_*_togo (1) Togo
+- maps_*_tokelau (1) Tokelau
+- maps_*_tonga (1) Tonga
+- maps_*_tunisia (1) Tunisia
+- maps_*_turkey (1) Turkey
+- maps_*_turkmenistan (1) Turkmenistan
+- maps_*_tuvalu (1) Tuvalu
+- maps_*_uganda (1) Uganda
+- maps_*_united-kingdom (1) United Kingdom
+- maps_*_united-states-of-america (1) United States of America
+- maps_*_uruguay (1) Uruguay
+- maps_*_uzbekistan (1) Uzbekistan
+- maps_*_vanuatu (1) Vanuatu
+- maps_*_venezuela (1) Venezuela
+- maps_*_vietnam (1) Vietnam
+- maps_*_wallis-et-futuna (1) Wallis et Futuna
+- maps_*_yemen (1) Yemen
+- maps_*_zambia (1) Zambia
+- maps_*_zimbabwe (1) Zimbabwe
+- openstreetmap-wiki_*_all (1) OpenStreetMap Wiki
+- sh1.org_*_all (1) sh1.org
+- shamela.ws_*_al-buldan-wa-al-rihlat (1) 28 البلدان؛ المجموعة رقم  +history
+- ted_*_africa (1) TED africa
+- ted_*_asia (1) TED asia
+- ted_*_brazil (1) TED brazil
+- ted_*_china (1) TED china
+- ted_*_cities (1) TED cities
+- ted_*_europe (1) TED europe
+- ted_*_india (1) TED india
+- ted_*_infrastructure (1) TED infrastructure
+- ted_*_maps (1) TED maps
+- ted_*_middle-east (1) TED middle east
+- ted_*_south-america (1) TED south america
+- ted_*_transportation (1) TED transportation
+- ted_*_travel (1) TED travel
+- ted_*_united-states (1) TED united states
+- ted_*_urban-planning (1) TED urban planning
+- travel.stackexchange.com_*_all (1) Travel Q&A
+- wikipedia_*_geography (10) الجغرافيا ويكيبيديا
+- wikipedia_*_tunisie (1) Encyclopédie de la Tunisie  +history
+- wikipedia_*_venezuela (1) Enciclopedia de Venezuela  +history
+- wikivoyage_*_all (23) উইকিভ্রমণ
+- wikivoyage_*_europe (1) Wikivoyage - Europe
+- wwwnc.cdc.gov_*_all (1) Travelers' Health
+
+## Society, Politics & Economy `society-politics-economy` (128 families)
+- armypubs_*_all (1) Army Publishing Directorate
+- bogleheads_*_all (1) Bogleheads
+- cest-pas-sorcier_*_defense (1) Défense
+- cest-pas-sorcier_*_economie (1) Économie & Société
+- citizensinformation.ie_*_all (2) Citizens Information
+- communitybuilding.stackexchange.com_*_all (1) Community Building Q&A
+- consumerrights.wiki_*_all (1) Consumer Rights Wiki
+- cyborganthropology.com_*_all (1) Cyborg Anthropology
+- economics.stackexchange.com_*_all (1) Economics Q&A
+- finiki_*_all (1) Finiki
+- freelancing.stackexchange.com_*_all (1) Freelancing Q&A
+- gutenberg_*_lcc-h (1) Project Gutenberg Library  +books-literature
+- gutenberg_*_lcc-j (1) Project Gutenberg Library  +books-literature
+- gutenberg_*_lcc-k (1) Project Gutenberg Library  +books-literature
+- hra-news.org_*_all (1) خبرگزاری هرانا
+- interpersonal.stackexchange.com_*_all (1) Interpersonal Skills Q&A
+- iranwire-com_*_all (1) ایران وایر
+- law.stackexchange.com_*_all (1) Law Q&A
+- lgbtqia.wiki_*_all (1) LGBTQIA Wiki
+- libretexts.org_*_biz (1) Business LibreTexts  +school-courses
+- libretexts.org_*_socialsci (1) Social Sciences LibreTexts  +school-courses
+- marxists.org_*_all (2) Marxists.org
+- money.stackexchange.com_*_all (1) Personal Finance & Money Q&A
+- patents.stackexchange.com_*_all (1) Ask Patents
+- pm.stackexchange.com_*_all (1) Project Management Q&A
+- politics.stackexchange.com_*_all (1) Politics Q&A
+- project-fuel_*_all (1) Project Fuel
+- quant.stackexchange.com_*_all (1) Quantitative Finance Q&A
+- radiozamaneh-com_*_all (1) رادیو زمانه
+- ted_*_activism (1) TED activism
+- ted_*_anthropology (1) TED anthropology
+- ted_*_behavioral-economics (1) TED behavioral economics
+- ted_*_bullying (1) TED bullying
+- ted_*_business (1) TED business
+- ted_*_capitalism (1) TED capitalism
+- ted_*_career (1) TED career
+- ted_*_collaboration (1) TED collaboration
+- ted_*_communication (1) TED communication
+- ted_*_community (1) TED community
+- ted_*_compassion (1) TED compassion
+- ted_*_competition (1) TED competition
+- ted_*_consumerism (1) TED consumerism
+- ted_*_corruption (1) TED corruption
+- ted_*_crime (1) TED crime
+- ted_*_culture (1) TED culture
+- ted_*_current-events (1) TED current events
+- ted_*_decision-making (1) TED decision-making
+- ted_*_democracy (1) TED democracy
+- ted_*_diversity (1) TED diversity
+- ted_*_economics (1) TED economics
+- ted_*_emotions (1) TED emotions
+- ted_*_empathy (1) TED empathy
+- ted_*_entrepreneur (1) TED entrepreneur
+- ted_*_equality (1) TED equality
+- ted_*_family (1) TED family
+- ted_*_fear (1) TED fear
+- ted_*_feminism (1) TED feminism
+- ted_*_finance (1) TED finance
+- ted_*_friendship (1) TED friendship
+- ted_*_future (1) TED future
+- ted_*_gender (1) TED gender
+- ted_*_global-issues (1) TED global issues
+- ted_*_goals (1) TED goals
+- ted_*_government (1) TED government
+- ted_*_happiness (1) TED happiness
+- ted_*_homelessness (1) TED homelessness
+- ted_*_human-rights (1) TED human rights
+- ted_*_humanity (1) TED humanity
+- ted_*_ideas (1) TED ideas
+- ted_*_identity (1) TED identity
+- ted_*_immigration (1) TED immigration
+- ted_*_inclusion (1) TED inclusion
+- ted_*_indigenous-peoples (1) TED indigenous peoples
+- ted_*_international-development (1) TED international development
+- ted_*_international-relations (1) TED international relations
+- ted_*_interview (1) TED interview
+- ted_*_investing (1) TED investing
+- ted_*_journalism (1) TED journalism
+- ted_*_justice-system (1) TED justice system
+- ted_*_kids (1) TED kids
+- ted_*_law (1) TED law
+- ted_*_leadership (1) TED leadership
+- ted_*_lgbtqia (1) TED lgbtqia+
+- ted_*_love (1) TED love
+- ted_*_marketing (1) TED marketing
+- ted_*_media (1) TED media
+- ted_*_military (1) TED military
+- ted_*_money (1) TED money
+- ted_*_motivation (1) TED motivation
+- ted_*_parenting (1) TED parenting
+- ted_*_personal-growth (1) TED personal growth
+- ted_*_personality (1) TED personality
+- ted_*_philanthropy (1) TED philanthropy
+- ted_*_policy (1) TED policy
+- ted_*_politics (1) TED politics
+- ted_*_potential (1) TED potential
+- ted_*_poverty (1) TED poverty
+- ted_*_prison (1) TED prison
+- ted_*_productivity (1) TED productivity
+- ted_*_protest (1) TED protest
+- ted_*_public-space (1) TED public space
+- ted_*_public-speaking (1) TED public speaking
+- ted_*_race (1) TED race
+- ted_*_refugees (1) TED refugees
+- ted_*_relationships (1) TED relationships
+- ted_*_self (1) TED self
+- ted_*_sex (1) TED sex
+- ted_*_sexual-violence (1) TED sexual violence
+- ted_*_shopping (1) TED shopping
+- ted_*_social-change (1) TED social change
+- ted_*_society (1) TED society
+- ted_*_sociology (1) TED sociology
+- ted_*_success (1) TED success
+- ted_*_terrorism (1) TED terrorism
+- ted_*_transgender (1) TED transgender
+- ted_*_trust (1) TED trust
+- ted_*_violence (1) TED violence
+- ted_*_vulnerability (1) TED vulnerability
+- ted_*_war (1) TED war
+- ted_*_women (1) TED women
+- ted_*_women-in-business (1) TED women in business
+- ted_*_work (1) TED work
+- ted_*_work-life-balance (1) TED work-life balance
+- ted_*_worklife (1) TED worklife
+- ted_*_youth (1) TED youth
+- wiki-africa_*_ressources-droit-auteur (1) Le droit d’auteur pour tous
+- wikipedia_*_sociology (1) Sociology by Wikipedia
+- workplace.stackexchange.com_*_all (1) The Workplace Q&A
+
+## Religion & Philosophy `religion-philosophy` (38 families)
+- buddhism.stackexchange.com_*_all (1) Buddhism Q&A
+- chabadpedia_*_all (1) חבדפדיה
+- chabadtext_*_all (1) חבדטקסט
+- christianity.stackexchange.com_*_all (1) Christianity Q&A
+- gotquestions.org_*_all (1) Got Questions?
+- gutenberg_*_lcc-b (1) Project Gutenberg Library  +books-literature
+- hermeneutics.stackexchange.com_*_all (1) Biblical Hermeneutics Q&A
+- hinduism.stackexchange.com_*_all (1) Hinduism Q&A
+- internet-encyclopedia-philosophy_*_all (1) Encyclopedia of Philosophy
+- islam.stackexchange.com_*_all (1) Islam Q&A
+- judaism.stackexchange.com_*_all (1) Mi Yodeya Q&A
+- liberius.net_*_all (1) Bibliothèque Saint Libère
+- mythology.stackexchange.com_*_all (1) Mythology & Folklore Q&A
+- philosophy.stackexchange.com_*_all (1) Philosophy Q&A
+- psiram_*_all (3) Psiram
+- rationalwiki_*_all (1) RationalWiki
+- shamela.ws_*_al-balagha (1) البلاغة؛ المجموعة رقم 35  +languages-dictionaries
+- shamela.ws_*_al-faraid-wa-al-wasaya (1) الفرائض؛ المجموعة رقم 21
+- shamela.ws_*_al-fiqh-al-hanafi (1) الفقه الحنفي؛ المجموعة رقم 14
+- shamela.ws_*_al-fiqh-al-maliki (1) الفقه المالكي؛ المجموعة رقم 15
+- shamela.ws_*_al-fiqh-al-shafii (1) الفقه الشافعي؛ المجموعة رقم 16
+- shamela.ws_*_al-firaq-wa-al-rudud (1) الفرق والردود؛ المجموعة رقم 2
+- shamela.ws_*_al-ilal-wa-al-sualat (1) علل الحديث؛ المجموعة رقم 9
+- shamela.ws_*_al-lugha (1) اللغة؛ المجموعة رقم 29  +languages-dictionaries
+- shamela.ws_*_al-mantiq (1) المنطق؛ المجموعة رقم 13
+- shamela.ws_*_al-siyasa-al-shariyya (1) سياسة شرعية؛ المجموعة رقم 20
+- shamela.ws_*_ulum-al-fiqh (1) علوم الفقه؛ المجموعة رقم 12
+- skeptics.stackexchange.com_*_all (1) Skeptics Q&A
+- ted_*_atheism (1) TED atheism
+- ted_*_buddhism (1) TED buddhism
+- ted_*_christianity (1) TED christianity
+- ted_*_death (1) TED death
+- ted_*_ethics (1) TED ethics
+- ted_*_islam (1) TED islam
+- ted_*_philosophy (1) TED philosophy
+- ted_*_religion (1) TED religion
+- wikishia_*_all (1) WikiShia
+- yeshiva_*_all (1) ויקישיבה
+
+## Arts, Music & Film `arts-music-film` (66 families)
+- anime.stackexchange.com_*_all (1) Anime & Manga Q&A
+- breizhpartitions_*_all (1) Breizh partitions
+- celticscores.com_*_all (1) Breizh partitions
+- cest-pas-sorcier_*_arts (1) Arts & Spectacles
+- chopin.lib.uchicago.edu_*_all (1) Chopin Sheet Music
+- fretmap.app_*_all (1) FretMap.app
+- graphicdesign.stackexchange.com_*_all (1) Graphic Design Q&A
+- gutenberg_*_lcc-m (1) Project Gutenberg Library  +books-literature
+- gutenberg_*_lcc-n (1) Project Gutenberg Library  +books-literature
+- ibanezwiki_*_all (1) Ibanez Wiki
+- madrasa_*_songs (1) مدرسة - الأغاني التعليمية  +for-children
+- movies.stackexchange.com_*_all (1) Movies & TV Q&A
+- music.dalitio.de_*_all (1) Music by Christoph Dalitz
+- music.stackexchange.com_*_all (1) Music: Practice & Theory
+- musicfans.stackexchange.com_*_all (1) Music Fans Q&A
+- mutopiaproject.org_*_all (1) Mutopia Project
+- openmusictheory.com_*_all (1) Open Music Theory  +school-courses
+- partituras-gratis.es_*_all (1) Breizh partitions
+- photo.stackexchange.com_*_all (1) Photography Q&A
+- ragajunglism.org_*_all (1) RagaGunglism
+- scifi.stackexchange.com_*_all (1) Science Fiction & Fantasy Q&A
+- slam-out-loud_*_all (1) Slam Out Loud  +for-children
+- sound.stackexchange.com_*_all (1) Sound Design Q&A
+- studio.blender.org_*_open-movies (1) Blender Studio films
+- ted_*_animation (1) TED animation
+- ted_*_architecture (1) TED architecture
+- ted_*_art (1) TED art
+- ted_*_beauty (1) TED beauty
+- ted_*_books (1) TED books
+- ted_*_comedy (1) TED comedy
+- ted_*_conducting (1) TED conducting
+- ted_*_creativity (1) TED creativity
+- ted_*_dance (1) TED dance
+- ted_*_design (1) TED design
+- ted_*_entertainment (1) TED entertainment
+- ted_*_fashion (1) TED fashion
+- ted_*_film (1) TED film
+- ted_*_graphic-design (1) TED graphic design
+- ted_*_industrial-design (1) TED industrial design
+- ted_*_library (1) TED library
+- ted_*_literature (1) TED literature
+- ted_*_magic (1) TED magic
+- ted_*_museums (1) TED museums
+- ted_*_music (1) TED music
+- ted_*_painting (1) TED painting
+- ted_*_performance (1) TED performance
+- ted_*_photography (1) TED photography
+- ted_*_poetry (1) TED poetry
+- ted_*_product-design (1) TED product design
+- ted_*_science-fiction (1) TED science fiction
+- ted_*_spoken-word (1) TED spoken word
+- ted_*_storytelling (1) TED storytelling
+- ted_*_street-art (1) TED street art
+- ted_*_television (1) TED television
+- ted_*_theater (1) TED theater
+- ted_*_tv (1) TED tv
+- ted_*_typography (1) TED typography
+- ted_*_writing (1) TED writing
+- tomlehrersongs.com_*_all (1) Tom Lehrer’s Songs
+- tonedear.com_*_all (1) Toned Ear.com
+- video.stackexchange.com_*_all (1) Video Production Q&A
+- wikipedia_*_comics (4) Comics von Wikipedia
+- wikipedia_*_indian-cinema (2) Bollywood by Wikipedia
+- wikipedia_*_movies (10) أفلام عن طريق ويكيبيديا
+- wikipedia_*_nollywood (1) Nollywood
+- wikipedia_*_ray-charles (1) Ray Charles
+
+## Games, Fandom & Humor `games-fandom-humor` (46 families)
+- alexandria.dk_*_all (1) Alexandria boardgames
+- allthetropes_*_all (1) All The Tropes
+- backrooms.fandom.com_*_all (1) 後室中文維基
+- balatrowiki_*_all (1) Balatro wiki
+- bindingofisaacrebirth_*_all (1) The Binding of Isaac : Rebirth
+- boardgames.stackexchange.com_*_all (1) Board & Card Games Q&A
+- bricks.stackexchange.com_*_all (1) Bricks Q&A
+- bulbagarden_*_all (1) Bulbapedia
+- chess.stackexchange.com_*_all (1) Chess Q&A
+- dandwiki_*_all (1) D&D Wiki
+- dwarffortresswiki.org_*_all (1) Dwarf Fortress Wiki
+- evageeks_*_all (1) EvaWiki
+- explainxkcd_*_all (1) Explain XKCD
+- frackinuniverse_*_all (1) Frackin Universe
+- gaming.stackexchange.com_*_all (1) Arqade Q&A
+- granbluefantasy_*_all (1) Granblue Fantasy Wiki
+- inciclopedia_*_all (1) Inciclopedia
+- kiwix.westeros_*_all (1) A Wiki of Ice and Fire
+- minecraft.wiki_*_all (1) Minecraft Wiki
+- minecraftwiki_*_all (1) Minecraft Wiki
+- pg3d_*_all (1) Pixel Gun 3D wiki
+- pokemonwiki_*_all (1) Pokemon Wiki
+- pokepedia_*_all (1) Poképédia
+- poker.stackexchange.com_*_all (1) Poker Q&A
+- pokewiki_*_all (1) PokéWiki
+- rimworldwiki_*_all (1) RimWorld
+- riskofrain2_*_all (1) Risk of Rain 2
+- rpg.stackexchange.com_*_all (1) Role-playing Games Q&A
+- scientific-alliance.obscurative.ru_*_all (1) Андивионский Научный Альянс
+- smbc-comics.com_*_all (1) SMBC COVID-19 Book Pack
+- stardewvalleywiki_*_all (1) Stardew Valley Wiki
+- stupidedia_*_all (1) Stupidedia
+- survivors_*_all (1) Vampire Survivors wiki
+- ted_*_gaming (1) TED gaming
+- ted_*_humor (1) TED humor
+- terraria.wiki.gg_*_all (1) Terraria Wiki
+- the_*_en_all (1) The Infosphere
+- uesp.net_*_all (1) Elder Scrolls
+- whitewolfwiki_*_all (1) White Wolf Wiki
+- wiki.leagueoflegends.com_*_all (1) League of Legends
+- wiki_*_all (1) Magic the Gathering
+- wikidex_*_all (1) Wikidex
+- worldbuilding.stackexchange.com_*_all (1) Worldbuilding Q&A
+- xkcd.com_*_all (1) xkcd
+- zdoom_*_all (1) ZDoom Wiki
+- zh.minecraft.wiki_*_all (3) Minecraft Wiki
+
+## Sports & Outdoors `sports-outdoors` (19 families)
+- bicycles.stackexchange.com_*_all (1) Bicycles Q&A
+- capoeirawiki.org_*_all (1) Capoeira Wiki
+- cest-pas-sorcier_*_sport (1) Sport
+- footballdatabase.com_*_all (1) Football Database
+- martialarts.stackexchange.com_*_all (1) Martial Arts Q&A
+- outdoors.stackexchange.com_*_all (1) The Great Outdoors Q&A
+- scoutwiki.org_*_all (5) SpejderWiki
+- scoutwiki_*_all (1) ScoutWiki
+- sports.stackexchange.com_*_all (1) Sports Q&A
+- ted_*_play (1) TED play
+- ted_*_sports (1) TED sports
+- u-bourgogne.fr_*_football-s (1) Football(s)
+- wikipedia_*_baseball (1) Baseball by Wikipedia
+- wikipedia_*_basketball (10) كرة السلة ويكيبيديا
+- wikipedia_*_cricket (2) Cricket by Wikipedia
+- wikipedia_*_football (10) كرة القدم ويكيبيديا
+- wikipedia_*_golf (1) Golf by Wikipedia
+- wikipedia_*_ice-hockey (1) Ice hockey by Wikipedia
+- wikipedia_*_tennis (1) Tennis by Wikipedia
+
+## Home, Food & DIY `home-food-diy` (39 families)
+- alcohol.stackexchange.com_*_all (1) Beer, Wine & Spirits Q&A
+- appropedia_*_all (1) Appropedia
+- based.cooking_*_all (1) based.cooking LukeSmith
+- cest-pas-sorcier_*_agronomie (1) Alimentation & Agronomie  +science-mathematics
+- coffee.stackexchange.com_*_all (1) Coffee Q&A
+- cooking.stackexchange.com_*_all (1) Cooking Q&A (Seasoned Advice)
+- crafts.stackexchange.com_*_all (1) Arts & Crafts Q&A
+- cuisinelibre.org_*_all (1) Cuisine libre
+- diy.stackexchange.com_*_all (1) Home Improvement Q&A
+- ekopedia_*_all (1) Ekopedia
+- energypedia_*_all (1) energypedia
+- foss.cooking_*_all (1) FOSS cooking
+- fountainpen_*_all (1) Fountain Pen
+- gardening.stackexchange.com_*_all (1) Gardening & Landscaping Q&A
+- gardenology_*_all (1) Gardenology
+- grimgrains_*_all (1) GrimGrains Recipes
+- gutenberg_*_lcc-s (1) Project Gutenberg Library  +books-literature
+- homebrew.stackexchange.com_*_all (1) Homebrewing Q&A
+- ifixit_*_all (12) iFixit in German
+- kiwix.ekopedia_*_all (1) Ekopedia
+- kochwiki.org_*_all (1) Koch-Wiki
+- lifehacks.stackexchange.com_*_all (1) Lifehacks Q&A
+- mechanics.stackexchange.com_*_all (1) Motor Vehicle Mechanics
+- mondial-tissus_*_all (1) Mondial Tissus
+- parenting.stackexchange.com_*_all (1) Parenting Q&A
+- pets.stackexchange.com_*_all (1) Pets Q&A
+- publicdomainrecipes.com_*_all (1) Public Domain Recipes
+- restarters_*_all (1) Restarters
+- solar.lowtechmagazine.com_*_all (1) Solar Powered LowTech Magazine
+- sustainability.stackexchange.com_*_all (1) Sustainable Living Q&A
+- t4-wiki_*_all (1) T4-Wiki
+- ted_*_agriculture (1) TED agriculture
+- ted_*_farming (1) TED farming
+- ted_*_food (1) TED food
+- ted_*_gardening (1) TED gardening
+- ted_*_toys (1) TED toys
+- vegetarianism.stackexchange.com_*_all (1) Veganism & Vegetarianism Q&A
+- wikipedia_*_knots (1) Knots by Wikipedia
+- woodworking.stackexchange.com_*_all (1) Woodworking Q&A
+
+## Survival & Preparedness `survival-preparedness` (25 families)
+- 100r.co_*_all (1) Hundred Rabbits
+- anonymousplanet.org_*_all (1) The Guide to Online Anonymity  +computers-technology
+- canadian-prepper_*_bugoutconcepts (1) Canadian prepper
+- canadian-prepper_*_bugoutroll (1) Canadian Prepper
+- canadian-prepper_*_preppingfood (1) Canadian prepper
+- canadian-prepper_*_winterprepping (1) Canadian prepper
+- cd3wdproject.org_*_all (1) CD3WD Project
+- incognitocat.me_*_all (1) Incognito cat  +computers-technology
+- irp.fas.org_*_military-medicine (1) Military Medicine  +health-medicine
+- lrnselfreliance_*_all (1) Learning Self-Reliance
+- privacydefence.org_*_opsecbible (1) The OpSec Bible  +computers-technology
+- rabbitwaves.ca_*_all (1) Rabbit waves
+- s2underground_*_all (1) S2 Underground
+- survivorlibrary.com_*_all (1) Survivor Library
+- trueprepper.com_*_all (1) True prepper
+- urban-prepper_*_all (1) Urban Prepper
+- usda-2015_en (1) USDA Guide to Home Canning
+- wikiciv_*_all (1) WikiCiv
+- www.ready.gov_en (1) Ready.gov
+- www.ready.gov_es (1) Ready.gov
+- zimgit-food-preparation_en (1) Food for Preppers
+- zimgit-knots_en (1) A Library of Knots
+- zimgit-medicine_en (1) Medical Library  +health-medicine
+- zimgit-post-disaster_en (1) Post Disaster Resource Library
+- zimgit-water_en (1) Water Treatment Library

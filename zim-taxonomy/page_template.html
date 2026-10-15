@@ -1,0 +1,173 @@
+<title>ZIM Category Draft</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: catalog-card index — category rail on the left filters the family register on the right; rules and open questions above. */
+:root {
+  --bg: #f6f7f9; --panel: #ffffff; --fg: #17202b; --muted: #5b6878; --line: #dde2e8;
+  --accent: #1d6f8c; --accent-soft: #e2f0f5; --chip: #eef1f4; --warn: #9a5b12; --warn-soft: #fbf0e1;
+  --display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --body: "Atkinson Hyperlegible", "Segoe UI", system-ui, sans-serif;
+  --mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #11161c; --panel: #182029; --fg: #e3e9ef; --muted: #93a1b0; --line: #2a3542;
+  --accent: #6cc0dc; --accent-soft: #1b3440; --chip: #222c37; --warn: #e2a95d; --warn-soft: #33281a; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #11161c; --panel: #182029; --fg: #e3e9ef; --muted: #93a1b0; --line: #2a3542;
+  --accent: #6cc0dc; --accent-soft: #1b3440; --chip: #222c37; --warn: #e2a95d; --warn-soft: #33281a; color-scheme: dark }
+
+body { background: var(--bg); color: var(--fg); font-family: var(--body); font-size: 15px; line-height: 1.5; }
+.wrap { max-width: 1180px; margin: 0 auto; padding-inline: 20px; padding-block: 32px 64px; display: grid; gap: 28px; }
+h1, h2 { font-family: var(--display); text-wrap: balance; margin: 0; letter-spacing: -0.01em; }
+h1 { font-size: clamp(28px, 4vw, 40px); line-height: 1.1; }
+h2 { font-size: 19px; }
+.eyebrow { font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); font-weight: 700; }
+header { display: grid; gap: 10px; }
+.stats { display: flex; flex-wrap: wrap; gap: 8px 22px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.stats b { color: var(--fg); font-size: 17px; }
+
+.guides { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+.guides section { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 18px 20px; display: grid; gap: 10px; align-content: start; min-width: 0; }
+.guides ol, .guides ul { margin: 0; padding-left: 20px; display: grid; gap: 8px; }
+.open li span { display: block; color: var(--muted); }
+.open { border-color: var(--warn) !important; background: var(--warn-soft) !important; }
+
+.main { display: grid; grid-template-columns: 300px minmax(0, 1fr); gap: 24px; align-items: start; }
+@media (max-width: 800px) { .main { grid-template-columns: minmax(0, 1fr); } }
+nav { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 12px); display: grid; gap: 2px; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 8px; max-height: calc(100vh - 24px); overflow-y: auto; }
+@media (max-width: 800px) { nav { position: static; max-height: none; } }
+nav button { all: unset; box-sizing: border-box; cursor: pointer; display: grid; grid-template-columns: 1fr auto; gap: 2px 10px; padding: 7px 10px; border-radius: 6px; font-size: 14px; }
+nav button:hover { background: var(--chip); }
+nav button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+nav button[aria-pressed="true"] { background: var(--accent-soft); color: var(--accent); font-weight: 700; }
+nav .key, .group h2 code { font-family: var(--mono); font-size: 11px; color: var(--muted); font-weight: 400; overflow-wrap: anywhere; }
+nav .key { grid-column: 1 / -1; }
+nav .num { font-variant-numeric: tabular-nums; color: var(--muted); font-size: 13px; text-align: right; }
+nav .bar { grid-column: 1 / -1; height: 3px; background: var(--chip); border-radius: 2px; overflow: hidden; }
+nav .bar i { display: block; height: 100%; background: var(--accent); opacity: 0.7; }
+nav .legend { font-size: 12px; color: var(--muted); padding: 4px 10px 8px; }
+
+.list { display: grid; gap: 18px; min-width: 0; }
+.search { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.search input { flex: 1 1 240px; min-width: 0; font: inherit; padding: 9px 12px; border-radius: 8px; border: 1px solid var(--line); background: var(--panel); color: var(--fg); }
+.search input:focus-visible { outline: 2px solid var(--accent); }
+.search label { display: flex; gap: 6px; align-items: center; color: var(--muted); font-size: 14px; cursor: pointer; }
+.count { color: var(--muted); font-size: 14px; font-variant-numeric: tabular-nums; }
+.group { display: grid; gap: 0; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+.group h2 { padding: 12px 16px; border-bottom: 1px solid var(--line); display: flex; justify-content: space-between; gap: 12px; align-items: baseline; }
+.group h2 small { font-family: var(--body); font-weight: 400; font-size: 13px; color: var(--muted); }
+.row { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 4px 14px; padding: 9px 16px; border-bottom: 1px solid var(--line); }
+.row:last-child { border-bottom: 0; }
+.row .t { font-weight: 700; overflow-wrap: anywhere; }
+.row code { font-family: var(--mono); font-size: 12px; color: var(--muted); overflow-wrap: anywhere; }
+.row .meta { font-size: 12px; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.chips { display: flex; flex-wrap: wrap; gap: 4px; grid-column: 1 / -1; }
+.chip { font-size: 12px; padding: 1px 8px; border-radius: 999px; background: var(--chip); color: var(--muted); }
+.chip.also { background: var(--accent-soft); color: var(--accent); }
+.empty { color: var(--muted); padding: 24px 0; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Kiwix library · taxonomy __VERSION__ · draft for review</div>
+    <h1>ZIM Category Draft</h1>
+    <div class="stats">
+      <span><b>__CATS__</b> categories</span>
+      <span><b>__NAMES__</b> ZIM names</span>
+      <span><b>__FAMS__</b> content families (languages merged)</span>
+      <span><b>__TWO__</b> families with two categories</span>
+    </div>
+  </header>
+
+  <div class="guides">
+    <section>
+      <h2>How editors pick categories</h2>
+      <ol>__RULES__</ol>
+    </section>
+    <section class="open">
+      <h2>Open questions</h2>
+      <ul>__OPEN__</ul>
+    </section>
+  </div>
+
+  <div class="main">
+    <nav id="nav" aria-label="Categories"></nav>
+    <div class="list">
+      <div class="search">
+        <input id="q" type="search" placeholder="Search title or ZIM name (e.g. wikipedia, pokemon, gutenberg)" aria-label="Search">
+        <label><input id="multi" type="checkbox"> Only with two categories</label>
+        <span class="count" id="count"></span>
+      </div>
+      <div id="groups" class="list"></div>
+    </div>
+  </div>
+</div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+const {tax, fam} = JSON.parse(document.getElementById('data').textContent);
+const cats = Object.keys(tax);
+let sel = null;
+try { const h = location.hash.slice(1); if (cats.includes(h)) sel = h; } catch (e) {}
+
+const stat = {};
+cats.forEach(c => stat[c] = {f: 0, n: 0});
+fam.forEach(d => d.c.forEach(c => { stat[c].f++; stat[c].n += d.n; }));
+const maxF = Math.max(...cats.map(c => stat[c].f));
+
+const nav = document.getElementById('nav');
+function btn(key, label, right, pct) {
+  const b = document.createElement('button');
+  b.type = 'button'; b.dataset.key = key ?? '';
+  b.innerHTML = `<span></span><span class="num"></span>` + (pct != null ? `<span class="bar"><i style="width:${pct}%"></i></span>` : '');
+  b.children[0].textContent = label; b.children[1].textContent = right;
+  if (key) { const k = document.createElement('span'); k.className = 'key'; k.textContent = key; b.children[1].after(k); }
+  b.onclick = () => { sel = key; try { history.replaceState(null, '', key ? '#' + key : location.pathname); } catch (e) {} render(); };
+  return b;
+}
+const legend = document.createElement('div'); legend.className = 'legend'; legend.textContent = 'families · ZIM names';
+nav.append(legend, btn(null, 'All categories', `${fam.length}`, null));
+cats.forEach(c => nav.append(btn(c, tax[c], `${stat[c].f} · ${stat[c].n}`, stat[c].f / maxF * 100)));
+
+const q = document.getElementById('q'), multi = document.getElementById('multi');
+q.oninput = render; multi.onchange = render;
+
+function langs(l) { return l.length > 3 ? `${l.length} languages` : l.join(', '); }
+function render() {
+  nav.querySelectorAll('button').forEach(b => b.setAttribute('aria-pressed', String((b.dataset.key || null) === sel)));
+  const term = q.value.trim().toLowerCase();
+  const out = document.getElementById('groups'); out.textContent = '';
+  let shown = 0;
+  (sel ? [sel] : cats).forEach(c => {
+    const items = fam.filter(d => d.c.includes(c)
+      && (!multi.checked || d.c.length > 1)
+      && (!term || d.k.toLowerCase().includes(term) || d.t.toLowerCase().includes(term)));
+    if (!items.length) return;
+    shown += items.length;
+    const g = document.createElement('section'); g.className = 'group';
+    const h = document.createElement('h2');
+    h.innerHTML = `<span><span></span> <code></code></span><small>${items.length} families · ${items.reduce((s, d) => s + d.n, 0)} ZIM names</small>`;
+    h.firstChild.firstChild.textContent = tax[c];
+    h.querySelector('code').textContent = c;
+    g.append(h);
+    items.forEach(d => {
+      const r = document.createElement('div'); r.className = 'row';
+      r.innerHTML = `<div><div class="t"></div><code></code></div><div class="meta"></div><div class="chips"></div>`;
+      r.querySelector('.t').textContent = d.t;
+      r.querySelector('code').textContent = d.k;
+      r.querySelector('.meta').textContent = `${d.n} ZIM${d.n > 1 ? 's' : ''} · ${langs(d.l)}`;
+      const ch = r.querySelector('.chips');
+      d.c.filter(x => x !== c).forEach(x => { const s = document.createElement('span'); s.className = 'chip also'; s.textContent = '+ ' + tax[x]; ch.append(s); });
+      if (!ch.children.length) ch.remove();
+      g.append(r);
+    });
+    out.append(g);
+  });
+  if (!shown) { const e = document.createElement('div'); e.className = 'empty'; e.textContent = 'No family matches this search. Try a shorter term or pick "All categories".'; out.append(e); }
+  document.getElementById('count').textContent = sel ? '' : `${new Set(fam.filter(d => (!multi.checked || d.c.length > 1) && (!term || d.k.toLowerCase().includes(term) || d.t.toLowerCase().includes(term))).map(d => d.k)).size} families`;
+}
+render();
+</script>
