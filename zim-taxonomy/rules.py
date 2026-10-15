@@ -22,6 +22,7 @@ TAXONOMY = {
     "sports-outdoors":                  "Sports & Outdoors",
     "home-food-diy":                    "Home, Food & DIY",
     "survival-preparedness":            "Survival & Preparedness",
+    "other":                            "Other",
 }
 
 # first token of the ZIM name -> categories

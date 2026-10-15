@@ -7,7 +7,7 @@ Late 2024 @doubletkovacs delivered a [foundational document](./KCCS-Jan2025.md) 
 
 # ZIM Classification v1
 
-As a first step, we have agreed on a simplified taxonomy (v1) of 17 flat categories, built from the actual content of the Kiwix catalog. It is deliberately smaller than the foundational document so that it can be applied to the whole catalog right away and refined later.
+As a first step, we have agreed on a simplified taxonomy (v1) of 18 flat categories, built from the actual content of the Kiwix catalog. It is deliberately smaller than the foundational document so that it can be applied to the whole catalog right away and refined later.
 
 ## Terminology
 
@@ -40,6 +40,7 @@ Categories, as defined below, describe the subject, audience or format of the co
 | `sports-outdoors` | Sports & Outdoors |
 | `home-food-diy` | Home, Food & DIY |
 | `survival-preparedness` | Survival & Preparedness |
+| `other` | Other |
 
 The source of this list is [`zim-taxonomy/rules.py`](./zim-taxonomy/rules.py) (`TAXONOMY`).
 
@@ -51,6 +52,7 @@ We aim for **one category per ZIM**. A second category is tolerated when require
 2. If the content is a **learning path** (textbook, course, lessons, exercises, exam prep), add *School & Courses*. Multi-subject curricula get *School & Courses* alone.
 3. If the content is **made for kids**, add *For Children* as second category, never a third: children's school material is *For Children* + *School & Courses*, without its subject.
 4. Otherwise add a second category only when the content **truly** belongs to both (e.g. Gutenberg history books: *Books & Literature* + *History*).
+5. *Other* is only for ZIMs which really fit no other category, and is never combined with another category. It should stay exceptional: many ZIMs in *Other* is a sign that the taxonomy needs a new category.
 
 ZIMs are grouped into **families**: a family is a ZIM name with its language code replaced by `*` (e.g. `wikipedia_en_chemistry`, `wikipedia_fr_chemistry`, ... all belong to the `wikipedia_*_chemistry` family). Every ZIM of a given family is expected to have the same category(ies), whatever its language (and flavour).
 
@@ -69,6 +71,26 @@ ZIMs are grouped into **families**: a family is a ZIM name with its language cod
 - Existing ZIMs use `_category` for their content source (e.g. `_category:wikipedia`, see [Categories vs content source](#categories-vs-content-source)). Any `_category` value that does not start with `id.openzim.org/categories/` is such a legacy value and must not be interpreted as a category.
 - Transition: current readers only consider the first `_category` tag, and rely on its legacy value. Until readers are updated, ZIMs should keep their legacy `_category` value first, followed by their categories, e.g. `_category:wikipedia;_category:id.openzim.org/categories/encyclopedias-general-reference`.
 - Informal / community tags (as described in the foundational document) are not part of this classification system: regular (non-special) ZIM tags already allow this.
+
+## Transition in readers
+
+Readers have to keep supporting old ZIMs, which have no category but a legacy `_category` value (see [Storing categories in ZIMs](#storing-categories-in-zims)):
+
+- The categories of a ZIM are all its `_category` values starting with `id.openzim.org/categories/`. Other `_category` values are ignored for classification.
+- A ZIM without any category (old ZIM, third-party ZIM, ZIM not classified yet) is displayed under *Other*, like ZIMs explicitly classified as *Other*. Readers therefore always have an *Other* category.
+- Category labels are taken from the SKOS taxonomy, in the user's language, so *Other* is translated like any other category.
+
+### Option to study: categories provided by the catalog
+
+With the rules above, once readers are updated, every old ZIM ends up in *Other*, since it has no category in its metadata. This would be the case for most of the library for a long time, since ZIMs are not all re-created frequently.
+
+Since classification is done per family, categories are known for old ZIMs as well (see [`classified.csv`](./zim-taxonomy/classified.csv)). The catalog (library.kiwix.org) could therefore provide categories for every ZIM it lists, whatever the content of the ZIM metadata, and readers would use them, at least when the ZIM has no category of its own.
+
+Points to study:
+
+- How categories are exposed in the catalog (OPDS `<category>` elements, `library.xml`) and maintained (where the family ↔ categories mapping lives and who updates it).
+- Precedence when both are available: categories from the ZIM, from the catalog, or the catalog only as a fallback.
+- Readers using ZIMs which are not (or no longer) in the catalog, e.g. ZIMs side-loaded or kept offline, which would still fall into *Other*.
 
 ## Taxonomy modeling
 
