@@ -42,7 +42,7 @@ Categories, as defined below, describe the subject, audience or format of the co
 | `survival-preparedness` | Survival & Preparedness |
 | `other` | Other |
 
-The source of this list is [`zim-taxonomy/rules.py`](./zim-taxonomy/rules.py) (`TAXONOMY`).
+The source of this list is the [reference data](#reference-data-and-translations).
 
 ## Classification rules
 
@@ -96,7 +96,7 @@ Points to study:
 
 - Categories are stored in **SKOS** ([W3C reference](https://www.w3.org/TR/skos-reference/), [Wikipedia](https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System)), a standard designed to represent classifications, thesauri, and controlled vocabularies (concepts, hierarchical relations, multilingual labels).
 - Each category is a `skos:Concept` of a single `skos:ConceptScheme`, with its translations as `skos:prefLabel` (one per language) and optionally `skos:definition` / `skos:scopeNote` to help editors.
-- The SKOS file is the taxonomy's source of truth (including multilingual labels). It is published at `https://id.openzim.org/categories/` in Turtle, JSON-LD and HTML (human-readable).
+- The SKOS files are generated from the [reference data](#reference-data-and-translations), which is the taxonomy's source of truth (including multilingual labels), and [published](#publication) at `https://id.openzim.org/categories/` in Turtle, JSON-LD and HTML (human-readable).
 - v1 is flat: all categories are top concepts. Future versions may introduce relations between categories (`skos:broader` / `skos:narrower` / `skos:related`), and polyhierarchy is embraced: a concept may have several parents (e.g. "Medical & Health Technologies" attached to both "Applied Sciences" and "Medical Knowledge") instead of being forced into a single branch.
 - Positional numbering (1.1, 1.2, 1.2.1...) is not used: once a concept can have several parents, a single positional number no longer makes sense, and would give a false impression of strict hierarchy. Neighborhood and hierarchy are carried solely by SKOS relations.
 
@@ -112,7 +112,37 @@ cat:health-medicine a skos:Concept ;
     skos:prefLabel "Health & Medicine"@en, "Santé & Médecine"@fr .
 ```
 
+## Reference data and translations
+
+The [`categories`](./categories) folder holds the reference data:
+
+- [`categories.json`](./categories/categories.json): the concept scheme URI and the ordered list of category identifiers. Future non-translatable data (e.g. relations between categories) belongs here.
+- [`i18n/en.json`](./categories/i18n/en.json): English labels, in the [banana](https://github.com/wikimedia/banana-i18n) JSON format used by other Kiwix projects, with keys `scheme-label` and `category-<id>`.
+- [`i18n/qqq.json`](./categories/i18n/qqq.json): documentation of each message for translators, with examples of content in each category.
+- `i18n/<lang>.json`: translations, contributed through [TranslateWiki](https://translatewiki.net/) like for other Kiwix projects. They must not be edited by hand in this repository.
+
+Adding a category means adding its identifier to `categories.json`, and its English label and translator documentation to `en.json` and `qqq.json`. Identifiers are never changed nor removed once published.
+
+TranslateWiki setup: the project has to be registered on translatewiki.net (as other Kiwix projects are), pointing to `categories/i18n/` with `en.json` as source language and `qqq.json` as message documentation. TranslateWiki then regularly commits translations to this repository.
+
+## Publication
+
+[`categories/build.py`](./categories/build.py) generates the files to publish at `https://id.openzim.org/` from the reference data, in a `dist` folder:
+
+```
+dist/categories/index.{ttl,jsonld,html}        concept scheme, with all categories
+dist/categories/<id>/index.{ttl,jsonld,html}   one category
+```
+
+```sh
+python3 categories/build.py --output dist
+```
+
+The web server should serve these files so that each URI (e.g. `https://id.openzim.org/categories/health-medicine`) returns HTML by default, and Turtle or JSON-LD when requested through the `Accept` header (`text/turtle`, `application/ld+json`). Each format is also directly reachable (e.g. `https://id.openzim.org/categories/health-medicine/index.ttl`).
+
 # Tooling
+
+See [Reference data and translations](#reference-data-and-translations) and [Publication](#publication) for the `categories` folder.
 
 The [`zim-taxonomy`](./zim-taxonomy) folder contains the scripts used to build v1 and the initial classification of the catalog. Scripts are run from within that folder:
 
@@ -120,7 +150,7 @@ The [`zim-taxonomy`](./zim-taxonomy) folder contains the scripts used to build v
 |---|---|
 | `catalog.xml` | Snapshot of the Kiwix OPDS catalog used as input |
 | `parse.py` | Extracts catalog entries into `entries.csv` |
-| `rules.py` | Taxonomy definition and classification rules (by family, series or site) |
+| `rules.py` | Classification rules (by family, series or site), categories are loaded from the reference data |
 | `classify.py` | Applies the rules, writes `classified.csv` and prints per-category stats and unclassified ZIMs |
 | `report.py` | Prints, per category, the families assigned (used to produce `report.md`) |
 | `build_page.py` | Builds `taxonomy.html`, a review page for editors, from `classified.csv` and `page_template.html` |

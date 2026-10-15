@@ -1,0 +1,24 @@
+{
+  "@metadata": {
+    "authors": []
+  },
+  "scheme-label": "ZIM categories",
+  "category-for-children": "For Children",
+  "category-encyclopedias-general-reference": "Encyclopedias & General Reference",
+  "category-languages-dictionaries": "Languages & Dictionaries",
+  "category-books-literature": "Books & Literature",
+  "category-school-courses": "School & Courses",
+  "category-science-mathematics": "Science & Mathematics",
+  "category-computers-technology": "Computers & Technology",
+  "category-health-medicine": "Health & Medicine",
+  "category-history": "History",
+  "category-geography-maps-travel": "Geography, Maps & Travel",
+  "category-society-politics-economy": "Society, Politics & Economy",
+  "category-religion-philosophy": "Religion & Philosophy",
+  "category-arts-music-film": "Arts, Music & Film",
+  "category-games-fandom-humor": "Games, Fandom & Humor",
+  "category-sports-outdoors": "Sports & Outdoors",
+  "category-home-food-diy": "Home, Food & DIY",
+  "category-survival-preparedness": "Survival & Preparedness",
+  "category-other": "Other"
+}

@@ -4,26 +4,15 @@ A "family" is a ZIM name with its language code replaced by '*'
 (e.g. wikipedia_*_chemistry). Rules are looked up in order:
 FAMILY (exact family key) > SERIES (prefix + suffix function) > SITE (first token).
 """
+import json
+from pathlib import Path
 
-TAXONOMY = {
-    "encyclopedias-general-reference":  "Encyclopedias & General Reference",
-    "languages-dictionaries":           "Languages & Dictionaries",
-    "books-literature":                 "Books & Literature",
-    "school-courses":                   "School & Courses",
-    "science-mathematics":              "Science & Mathematics",
-    "computers-technology":             "Computers & Technology",
-    "health-medicine":                  "Health & Medicine",
-    "history":                          "History",
-    "geography-maps-travel":            "Geography, Maps & Travel",
-    "society-politics-economy":         "Society, Politics & Economy",
-    "religion-philosophy":              "Religion & Philosophy",
-    "arts-music-film":                  "Arts, Music & Film",
-    "games-fandom-humor":               "Games, Fandom & Humor",
-    "sports-outdoors":                  "Sports & Outdoors",
-    "home-food-diy":                    "Home, Food & DIY",
-    "survival-preparedness":            "Survival & Preparedness",
-    "other":                            "Other",
-}
+
+# categories and their English labels come from the reference data
+_REF = Path(__file__).resolve().parent.parent / "categories"
+_EN = json.loads((_REF / "i18n" / "en.json").read_text())
+TAXONOMY = {c["id"]: _EN[f"category-{c['id']}"]
+            for c in json.loads((_REF / "categories.json").read_text())["categories"]}
 
 # first token of the ZIM name -> categories
 SITE = {}
@@ -264,8 +253,7 @@ _site(["science-mathematics"], "madrasa")
 _site(["computers-technology"], "tridion.stackexchange.com wikimedia")
 TED_MAP["resources"] = "science-mathematics"
 
-# ---- v2: "For Children" category + subject-specific courses get School & Courses too
-TAXONOMY = {"for-children": "For Children", **TAXONOMY}
+# ---- v2: subject-specific courses get School & Courses too
 
 def _maitre(s):
     s = s.removesuffix("_fr")

@@ -1,0 +1,59 @@
+{
+  "scheme": "https://id.openzim.org/categories/",
+  "categories": [
+    {
+      "id": "for-children"
+    },
+    {
+      "id": "encyclopedias-general-reference"
+    },
+    {
+      "id": "languages-dictionaries"
+    },
+    {
+      "id": "books-literature"
+    },
+    {
+      "id": "school-courses"
+    },
+    {
+      "id": "science-mathematics"
+    },
+    {
+      "id": "computers-technology"
+    },
+    {
+      "id": "health-medicine"
+    },
+    {
+      "id": "history"
+    },
+    {
+      "id": "geography-maps-travel"
+    },
+    {
+      "id": "society-politics-economy"
+    },
+    {
+      "id": "religion-philosophy"
+    },
+    {
+      "id": "arts-music-film"
+    },
+    {
+      "id": "games-fandom-humor"
+    },
+    {
+      "id": "sports-outdoors"
+    },
+    {
+      "id": "home-food-diy"
+    },
+    {
+      "id": "survival-preparedness"
+    },
+    {
+      "id": "other"
+    }
+  ]
+}
