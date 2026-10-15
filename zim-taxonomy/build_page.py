@@ -8,10 +8,11 @@ RULES = [
     "Aim for <b>one category per ZIM</b>. A second category is tolerated when required (see below). "
     "Three or more categories are discouraged and must be clearly justified.",
     "Pick the <b>subject</b> of the ZIM. <i>Encyclopedias &amp; General Reference</i> is only for content spanning all topics.",
-    "If the content is a <b>learning path</b> (textbook, course, lessons, exercises, exam prep), add <i>School &amp; Courses</i>. "
-    "Multi-subject curricula get <i>School &amp; Courses</i> alone.",
+    "If the content is a <b>learning path</b> (textbook, course, lessons, exercises, exam prep), "
+    "at any level from primary school to university, add <i>Courses &amp; Textbooks</i>. "
+    "Multi-subject curricula get <i>Courses &amp; Textbooks</i> alone.",
     "If the content is <b>made for kids</b>, add <i>For Children</i> as second category, never a third: "
-    "children's school material is <i>For Children</i> + <i>School &amp; Courses</i>, without its subject.",
+    "children's school material is <i>For Children</i> + <i>Courses &amp; Textbooks</i>, without its subject.",
     "Otherwise add a second category only when the content truly belongs to both (e.g. Gutenberg history books: "
     "<i>Books</i> + <i>History</i>).",
     "<i>Other</i> is only for ZIMs which really fit no other category, and is never combined with another category. "
@@ -20,7 +21,7 @@ RULES = [
 OPEN = [
     ("History is the thinnest category (23 families)",
      "Keep it (clear to readers and editors), or merge into <i>History, Religion &amp; Philosophy</i>?"),
-    ("PhET simulations", "Science only for now; should it also be School &amp; Courses?"),
+    ("PhET simulations", "Science only for now; should it also be Courses &amp; Textbooks?"),
     ("TED all / TEDx / TED conference", "General Reference for now, since they span every topic."),
     ("Privacy guides (OpSec Bible, Anonymous Planet)", "Computers + Survival."),
     ("Psiram, RationalWiki, Skeptics", "Religion &amp; Philosophy (belief and skepticism)."),

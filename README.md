@@ -27,7 +27,7 @@ Categories, as defined below, describe the subject, audience or format of the co
 | `encyclopedias-general-reference` | Encyclopedias & General Reference |
 | `languages-dictionaries` | Languages & Dictionaries |
 | `books-literature` | Books & Literature |
-| `school-courses` | School & Courses |
+| `courses-textbooks` | Courses & Textbooks |
 | `science-mathematics` | Science & Mathematics |
 | `computers-technology` | Computers & Technology |
 | `health-medicine` | Health & Medicine |
@@ -49,8 +49,8 @@ The source of this list is the [reference data](#reference-data-and-translations
 We aim for **one category per ZIM**. A second category is tolerated when required (see rules below). Three or more categories are discouraged and must be clearly justified.
 
 1. Pick the **subject** of the ZIM. *Encyclopedias & General Reference* is only for content spanning all topics.
-2. If the content is a **learning path** (textbook, course, lessons, exercises, exam prep), add *School & Courses*. Multi-subject curricula get *School & Courses* alone.
-3. If the content is **made for kids**, add *For Children* as second category, never a third: children's school material is *For Children* + *School & Courses*, without its subject.
+2. If the content is a **learning path** (textbook, course, lessons, exercises, exam prep), at any level from primary school to university, add *Courses & Textbooks*. Multi-subject curricula get *Courses & Textbooks* alone.
+3. If the content is **made for kids**, add *For Children* as second category, never a third: children's school material is *For Children* + *Courses & Textbooks*, without its subject.
 4. Otherwise add a second category only when the content **truly** belongs to both (e.g. Gutenberg history books: *Books & Literature* + *History*).
 5. *Other* is only for ZIMs which really fit no other category, and is never combined with another category. It should stay exceptional: many ZIMs in *Other* is a sign that the taxonomy needs a new category.
 
@@ -66,7 +66,7 @@ ZIMs are grouped into **families**: a family is a ZIM name with its language cod
 
 - Categories are stored in the `Tags` ZIM metadata, using the special `_category` tag (see [openZIM Tags](https://wiki.openzim.org/wiki/Tags)) with the category URI **without its `https://` scheme** as value, e.g. `_category:id.openzim.org/categories/health-medicine`. The canonical identifier is obtained by prepending `https://`.
 - The scheme is dropped so that the value contains no `:`, which some readers and tools use to split special tags.
-- When a ZIM has several categories, the `_category` tag is repeated, e.g. `_category:id.openzim.org/categories/science-mathematics;_category:id.openzim.org/categories/school-courses`.
+- When a ZIM has several categories, the `_category` tag is repeated, e.g. `_category:id.openzim.org/categories/science-mathematics;_category:id.openzim.org/categories/courses-textbooks`.
 - Using the host and path (rather than the bare slug or a label) keeps the value stable across time and unambiguous: an old ZIM can always be resolved to its category, and translated labels are obtained from the SKOS taxonomy.
 - Existing ZIMs use `_category` for their content source (e.g. `_category:wikipedia`, see [Categories vs content source](#categories-vs-content-source)). Any `_category` value that does not start with `id.openzim.org/categories/` is such a legacy value and must not be interpreted as a category.
 - Transition: current readers only consider the first `_category` tag, and rely on its legacy value. Until readers are updated, ZIMs should keep their legacy `_category` value first, followed by their categories, e.g. `_category:wikipedia;_category:id.openzim.org/categories/encyclopedias-general-reference`.
