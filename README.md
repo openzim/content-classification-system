@@ -60,6 +60,16 @@ ZIMs are grouped into **families**: a family is a ZIM name with its language cod
 - The slug is semantic (the identifiers in the table above), with no number or language embedded, and is never changed once published. Labels may evolve and be translated, identifiers do not.
 - OIDs have been considered and abandoned: too much friction for a use case that's mainly meant to be consulted outside the organization, without a real need for strict protocol-level interoperability.
 
+## Storing categories in ZIMs
+
+- Categories are stored in the `Tags` ZIM metadata, using the special `_category` tag (see [openZIM Tags](https://wiki.openzim.org/wiki/Tags)) with the category URI **without its `https://` scheme** as value, e.g. `_category:id.openzim.org/categories/health-medicine`. The canonical identifier is obtained by prepending `https://`.
+- The scheme is dropped so that the value contains no `:`, which some readers and tools use to split special tags.
+- When a ZIM has several categories, the `_category` tag is repeated, e.g. `_category:id.openzim.org/categories/science-mathematics;_category:id.openzim.org/categories/school-courses`.
+- Using the host and path (rather than the bare slug or a label) keeps the value stable across time and unambiguous: an old ZIM can always be resolved to its category, and translated labels are obtained from the SKOS taxonomy.
+- Existing ZIMs use `_category` for their content source (e.g. `_category:wikipedia`, see [Categories vs content source](#categories-vs-content-source)). Any `_category` value that does not start with `id.openzim.org/categories/` is such a legacy value and must not be interpreted as a category.
+- Transition: current readers only consider the first `_category` tag, and rely on its legacy value. Until readers are updated, ZIMs should keep their legacy `_category` value first, followed by their categories, e.g. `_category:wikipedia;_category:id.openzim.org/categories/encyclopedias-general-reference`.
+- Informal / community tags (as described in the foundational document) are not part of this classification system: regular (non-special) ZIM tags already allow this.
+
 ## Taxonomy modeling
 
 - Categories are stored in **SKOS** ([W3C reference](https://www.w3.org/TR/skos-reference/), [Wikipedia](https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System)), a standard designed to represent classifications, thesauri, and controlled vocabularies (concepts, hierarchical relations, multilingual labels).
