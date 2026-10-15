@@ -5,13 +5,15 @@ import rules
 
 VERSION = "v2"
 RULES = [
+    "Aim for <b>one category per ZIM</b>. A second category is tolerated when required (see below). "
+    "Three or more categories are discouraged and must be clearly justified.",
     "Pick the <b>subject</b> of the ZIM. <i>Encyclopedias &amp; General Reference</i> is only for content spanning all topics.",
     "If the content is a <b>learning path</b> (textbook, course, lessons, exercises, exam prep), add <i>School &amp; Courses</i>. "
     "Multi-subject curricula get <i>School &amp; Courses</i> alone.",
     "If the content is <b>made for kids</b>, add <i>For Children</i> as second category, never a third: "
     "children's school material is <i>For Children</i> + <i>School &amp; Courses</i>, without its subject.",
     "Otherwise add a second category only when the content truly belongs to both (e.g. Gutenberg history books: "
-    "<i>Books</i> + <i>History</i>). Three categories should be exceptional.",
+    "<i>Books</i> + <i>History</i>).",
 ]
 OPEN = [
     ("History is the thinnest category (23 families)",
