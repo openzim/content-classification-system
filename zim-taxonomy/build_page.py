@@ -14,6 +14,8 @@ RULES = [
     "children's school material is <i>For Children</i> + <i>School &amp; Courses</i>, without its subject.",
     "Otherwise add a second category only when the content truly belongs to both (e.g. Gutenberg history books: "
     "<i>Books</i> + <i>History</i>).",
+    "<i>Other</i> is only for ZIMs which really fit no other category, and is never combined with another category. "
+    "It should stay exceptional: many ZIMs in <i>Other</i> is a sign that the taxonomy needs a new category.",
 ]
 OPEN = [
     ("History is the thinnest category (23 families)",
