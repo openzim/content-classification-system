@@ -9,6 +9,16 @@ Late 2024 @doubletkovacs delivered a [foundational document](./KCCS-Jan2025.md) 
 
 As a first step, we have agreed on a simplified taxonomy (v1) of 17 flat categories, built from the actual content of the Kiwix catalog. It is deliberately smaller than the foundational document so that it can be applied to the whole catalog right away and refined later.
 
+## Terminology
+
+What the foundational document calls a *classification tag* is what we name a **category**, and we keep using this word.
+
+## Categories vs content source
+
+So far, the single `category` of a ZIM in the catalog (e.g. `wikipedia`, `wiktionary`, `stack_exchange`, `gutenberg`, `phet`, ...) described where the content comes from, not what it is about. This information is not a category anymore: it belongs to the `Source` ZIM metadata (exact format still to be specified), and readers should make it available to users searching for a ZIM (e.g. as a filter alongside categories).
+
+Categories, as defined below, describe the subject, audience or format of the content, and a ZIM can now have more than one.
+
 ## Categories
 
 | Identifier | Label |
