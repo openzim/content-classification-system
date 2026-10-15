@@ -62,10 +62,12 @@ ZIMs are grouped into **families**: a family is a ZIM name with its language cod
 
 ## Storing categories in ZIMs
 
-- Categories are stored in the `Tags` ZIM metadata, using the special `_category` tag (see [openZIM Tags](https://wiki.openzim.org/wiki/Tags)) with the full category URI as value.
-- When a ZIM has several categories, the `_category` tag is repeated, e.g. `_category:https://id.openzim.org/categories/science-mathematics;_category:https://id.openzim.org/categories/school-courses`.
-- Using the full URI (rather than the bare slug or a label) keeps the value stable across time and unambiguous: an old ZIM can always be resolved to its category, and translated labels are obtained from the SKOS taxonomy.
-- Existing ZIMs use `_category` for their content source (e.g. `_category:wikipedia`, see [Categories vs content source](#categories-vs-content-source)). Any `_category` value that does not start with `https://id.openzim.org/categories/` is such a legacy value and must not be interpreted as a category.
+- Categories are stored in the `Tags` ZIM metadata, using the special `_category` tag (see [openZIM Tags](https://wiki.openzim.org/wiki/Tags)) with the category URI **without its `https://` scheme** as value, e.g. `_category:id.openzim.org/categories/health-medicine`. The canonical identifier is obtained by prepending `https://`.
+- The scheme is dropped so that the value contains no `:`, which some readers and tools use to split special tags.
+- When a ZIM has several categories, the `_category` tag is repeated, e.g. `_category:id.openzim.org/categories/science-mathematics;_category:id.openzim.org/categories/school-courses`.
+- Using the host and path (rather than the bare slug or a label) keeps the value stable across time and unambiguous: an old ZIM can always be resolved to its category, and translated labels are obtained from the SKOS taxonomy.
+- Existing ZIMs use `_category` for their content source (e.g. `_category:wikipedia`, see [Categories vs content source](#categories-vs-content-source)). Any `_category` value that does not start with `id.openzim.org/categories/` is such a legacy value and must not be interpreted as a category.
+- Transition: current readers only consider the first `_category` tag, and rely on its legacy value. Until readers are updated, ZIMs should keep their legacy `_category` value first, followed by their categories, e.g. `_category:wikipedia;_category:id.openzim.org/categories/encyclopedias-general-reference`.
 - Informal / community tags (as described in the foundational document) are not part of this classification system: regular (non-special) ZIM tags already allow this.
 
 ## Taxonomy modeling
