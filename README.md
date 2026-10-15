@@ -138,7 +138,19 @@ dist/categories/<id>/index.{ttl,jsonld,html}   one category
 python3 categories/build.py --output dist
 ```
 
-The web server should serve these files so that each URI (e.g. `https://id.openzim.org/categories/health-medicine`) returns HTML by default, and Turtle or JSON-LD when requested through the `Accept` header (`text/turtle`, `application/ld+json`). Each format is also directly reachable (e.g. `https://id.openzim.org/categories/health-medicine/index.ttl`).
+These files are served by the `ghcr.io/openzim/id` Docker image (see [`Dockerfile`](./Dockerfile)), an nginx serving the generated files, deployed in Kubernetes behind `https://id.openzim.org/`:
+
+- Each URI (e.g. `https://id.openzim.org/categories/health-medicine`, with or without trailing `/`) returns HTML by default, and Turtle or JSON-LD when requested through the `Accept` header (`text/turtle`, `application/ld+json`).
+- Each format is also directly reachable (e.g. `https://id.openzim.org/categories/health-medicine/index.ttl`).
+- Responses allow cross-origin requests, so that web-based readers can fetch the taxonomy.
+
+The image is built and published on every change to `main` (see [`Publish.yml`](./.github/workflows/Publish.yml)). To run it locally:
+
+```sh
+docker build -t id-openzim .
+docker run --rm -p 8080:80 id-openzim
+curl -H "Accept: text/turtle" http://localhost:8080/categories/health-medicine
+```
 
 # Tooling
 

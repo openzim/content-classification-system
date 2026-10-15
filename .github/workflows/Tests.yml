@@ -1,0 +1,37 @@
+name: Tests
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  run-tests:
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: Retrieve source code
+        uses: actions/checkout@v5
+
+      - name: Build Docker image
+        run: docker build -t id-openzim:test .
+
+      - name: Run container
+        run: |
+          docker run -d --name id-openzim-test -p 8080:80 id-openzim:test
+          for i in $(seq 1 10); do curl -sf http://localhost:8080/categories/ > /dev/null && break; sleep 1; done
+
+      - name: Check content negotiation
+        run: |
+          check() {
+            type=$(curl -sf -o /dev/null -w "%{content_type}" -H "Accept: $1" "http://localhost:8080$2")
+            echo "$1 $2 -> $type"
+            [[ "$type" == "$3;"* ]]
+          }
+          for url in /categories/ /categories/health-medicine /categories/health-medicine/; do
+            check "text/html" "$url" "text/html"
+            check "*/*" "$url" "text/html"
+            check "text/turtle" "$url" "text/turtle"
+            check "application/ld+json" "$url" "application/ld+json"
+          done
