@@ -1,0 +1,24 @@
+{
+  "@metadata": {
+    "authors": []
+  },
+  "scheme-label": "Catégories de ZIM",
+  "category-for-children": "Pour les enfants",
+  "category-encyclopedias-general-reference": "Encyclopédies et ouvrages de référence",
+  "category-languages-dictionaries": "Langues et dictionnaires",
+  "category-books-literature": "Livres et littérature",
+  "category-school-courses": "École et cours",
+  "category-science-mathematics": "Sciences et mathématiques",
+  "category-computers-technology": "Informatique et technologie",
+  "category-health-medicine": "Santé et médecine",
+  "category-history": "Histoire",
+  "category-geography-maps-travel": "Géographie, cartes et voyages",
+  "category-society-politics-economy": "Société, politique et économie",
+  "category-religion-philosophy": "Religion et philosophie",
+  "category-arts-music-film": "Arts, musique et cinéma",
+  "category-games-fandom-humor": "Jeux, fandoms et humour",
+  "category-sports-outdoors": "Sports et plein air",
+  "category-home-food-diy": "Maison, cuisine et bricolage",
+  "category-survival-preparedness": "Survie et préparation aux crises",
+  "category-other": "Autres"
+}
