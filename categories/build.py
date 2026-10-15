@@ -96,7 +96,8 @@ code {{ font-size: .9em; }}
 </head>
 <body>
 {body}
-<p>Also available as <a href="{path}index.ttl">Turtle</a> and <a href="{path}index.jsonld">JSON-LD</a>.</p>
+<p>Also available as Turtle and JSON-LD: request <code>{uri}</code> with an <code>Accept</code> header of <code>text/turtle</code> or <code>application/ld+json</code>.
+Direct links (<a href="{path}index.ttl">Turtle</a>, <a href="{path}index.jsonld">JSON-LD</a>) are provided for convenience only and may change: always use the URI above with content negotiation.</p>
 </body>
 </html>
 """
@@ -119,7 +120,7 @@ def html_scheme(scheme):
     title = scheme["labels"]["en"]
     body = (f"<h1>{e(title)}</h1>\n<p><code>{e(scheme['uri'])}</code></p>\n"
             f"<table>\n<tr><th>Category</th><th>Identifier</th><th>Languages</th></tr>\n{rows}</table>")
-    return PAGE.format(title=e(title), body=body, path=e(folder(scheme["uri"])))
+    return PAGE.format(title=e(title), body=body, path=e(folder(scheme["uri"])), uri=e(scheme["uri"]))
 
 
 def html_concept(scheme, c):
@@ -129,7 +130,7 @@ def html_concept(scheme, c):
     body = (f"<h1>{e(c['labels']['en'])}</h1>\n<p><code>{e(c['uri'])}</code></p>\n"
             f'<p>Category of <a href="{e(path(scheme["uri"]))}">{e(scheme["labels"]["en"])}</a></p>\n'
             f"<table>\n<tr><th>Language</th><th>Label</th></tr>\n{rows}</table>")
-    return PAGE.format(title=e(c["labels"]["en"]), body=body, path=e(folder(c["uri"])))
+    return PAGE.format(title=e(c["labels"]["en"]), body=body, path=e(folder(c["uri"])), uri=e(c["uri"]))
 
 
 def write(folder, ttl_text, jsonld_text, html_text):
