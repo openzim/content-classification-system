@@ -9,6 +9,8 @@ Late 2024 @doubletkovacs delivered a [foundational document](./KCCS-Jan2025.md) 
 
 As a first step, we have agreed on a simplified taxonomy (v1) of 18 flat categories, built from the actual content of the Kiwix catalog. It is deliberately smaller than the foundational document so that it can be applied to the whole catalog right away and refined later.
 
+This is now live at https://id.openzim.org.
+
 ## Terminology
 
 What the foundational document calls a *classification tag* is what we name a **category**, and we keep using this word.
