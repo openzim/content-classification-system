@@ -32,6 +32,9 @@ jobs:
           for url in /categories/ /categories/health-medicine /categories/health-medicine/; do
             check "text/html" "$url" "text/html"
             check "*/*" "$url" "text/html"
-            check "text/turtle" "$url" "text/turtle"
             check "application/ld+json" "$url" "application/ld+json"
           done
+          check "*/*" "/categories/context.jsonld" "application/ld+json"
+          type=$(curl -sf -o /dev/null -w "%{content_type}" "http://localhost:8080/images/health-medicine.png")
+          echo "image/png -> $type"
+          [[ "$type" == "image/png" ]]

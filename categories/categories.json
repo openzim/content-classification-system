@@ -2,58 +2,76 @@
   "scheme": "https://id.openzim.org/categories/",
   "categories": [
     {
-      "id": "for-children"
+      "id": "for-children",
+      "images": [{"file": "for-children.png", "width": 48, "height": 48}]
     },
     {
-      "id": "encyclopedias-general-reference"
+      "id": "encyclopedias-general-reference",
+      "images": [{"file": "encyclopedias-general-reference.png", "width": 48, "height": 48}]
     },
     {
-      "id": "languages-dictionaries"
+      "id": "languages-dictionaries",
+      "images": [{"file": "languages-dictionaries.png", "width": 48, "height": 48}]
     },
     {
-      "id": "books-literature"
+      "id": "books-literature",
+      "images": [{"file": "books-literature.png", "width": 48, "height": 48}]
     },
     {
-      "id": "courses-textbooks"
+      "id": "courses-textbooks",
+      "images": [{"file": "courses-textbooks.png", "width": 48, "height": 48}]
     },
     {
-      "id": "science-mathematics"
+      "id": "science-mathematics",
+      "images": [{"file": "science-mathematics.png", "width": 48, "height": 48}]
     },
     {
-      "id": "computers-technology"
+      "id": "computers-technology",
+      "images": [{"file": "computers-technology.png", "width": 48, "height": 48}]
     },
     {
-      "id": "health-medicine"
+      "id": "health-medicine",
+      "images": [{"file": "health-medicine.png", "width": 48, "height": 48}]
     },
     {
-      "id": "history"
+      "id": "history",
+      "images": [{"file": "history.png", "width": 48, "height": 48}]
     },
     {
-      "id": "geography-maps-travel"
+      "id": "geography-maps-travel",
+      "images": [{"file": "geography-maps-travel.png", "width": 48, "height": 48}]
     },
     {
-      "id": "society-politics-economy"
+      "id": "society-politics-economy",
+      "images": [{"file": "society-politics-economy.png", "width": 48, "height": 48}]
     },
     {
-      "id": "religion-philosophy"
+      "id": "religion-philosophy",
+      "images": [{"file": "religion-philosophy.png", "width": 48, "height": 48}]
     },
     {
-      "id": "arts-music-film"
+      "id": "arts-music-film",
+      "images": [{"file": "arts-music-film.png", "width": 48, "height": 48}]
     },
     {
-      "id": "games-fandom-humor"
+      "id": "games-fandom-humor",
+      "images": [{"file": "games-fandom-humor.png", "width": 48, "height": 48}]
     },
     {
-      "id": "sports-outdoors"
+      "id": "sports-outdoors",
+      "images": [{"file": "sports-outdoors.png", "width": 48, "height": 48}]
     },
     {
-      "id": "home-food-diy"
+      "id": "home-food-diy",
+      "images": [{"file": "home-food-diy.png", "width": 48, "height": 48}]
     },
     {
-      "id": "survival-preparedness"
+      "id": "survival-preparedness",
+      "images": [{"file": "survival-preparedness.png", "width": 48, "height": 48}]
     },
     {
-      "id": "other"
+      "id": "other",
+      "images": [{"file": "other.png", "width": 48, "height": 48}]
     }
   ]
 }
