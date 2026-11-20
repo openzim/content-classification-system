@@ -96,32 +96,77 @@ Points to study:
 
 ## Taxonomy modeling
 
-- Categories are stored in **SKOS** ([W3C reference](https://www.w3.org/TR/skos-reference/), [Wikipedia](https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System)), a standard designed to represent classifications, thesauri, and controlled vocabularies (concepts, hierarchical relations, multilingual labels).
-- Each category is a `skos:Concept` of a single `skos:ConceptScheme`, with its translations as `skos:prefLabel` (one per language) and optionally `skos:definition` / `skos:scopeNote` to help editors.
-- The SKOS files are generated from the [reference data](#reference-data-and-translations), which is the taxonomy's source of truth (including multilingual labels), and [published](#publication) at `https://id.openzim.org/categories/` in Turtle, JSON-LD and HTML (human-readable).
-- v1 is flat: all categories are top concepts. Future versions may introduce relations between categories (`skos:broader` / `skos:narrower` / `skos:related`), and polyhierarchy is embraced: a concept may have several parents (e.g. "Medical & Health Technologies" attached to both "Applied Sciences" and "Medical Knowledge") instead of being forced into a single branch.
+Pure SKOS has no property for images or other rich metadata (the old `skos:prefSymbol` / `skos:altSymbol` were only ever in drafts, were dropped from the 2009 SKOS Recommendation, and carried no metadata anyway), and schema.org's generic term types have no `broader` / `narrower` / `related` relations. Categories are therefore modeled with a **hybrid of [schema.org](https://schema.org/) (data and metadata, including illustrations) and [SKOS](https://www.w3.org/TR/skos-reference/) ([Wikipedia](https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System)) (relations between categories)**, serialized as **JSON-LD**:
+
+| Need | Term |
+|---|---|
+| A category | `schema:CategoryCode` + `skos:Concept` |
+| The category system | `schema:CategoryCodeSet` + `skos:ConceptScheme` |
+| Membership | `schema:inDefinedTermSet` and `skos:inScheme` |
+| Code / slug | `schema:termCode` |
+| Labels & translations | `schema:name` (language-tagged values) |
+| Description | `schema:description` (language-tagged values) |
+| Illustrations | `schema:image` → `schema:ImageObject` |
+| Hierarchy | `skos:broader` / `skos:narrower` |
+| Associative links | `skos:related` |
+| Top-level categories | `skos:topConceptOf` (on the category) / `skos:hasTopConcept` (on the scheme) |
+
+- The JSON-LD files are generated from the [reference data](#reference-data-and-translations), which is the taxonomy's source of truth (including multilingual labels and illustrations), and [published](#publication) at `https://id.openzim.org/categories/` in JSON-LD and HTML (human-readable). All published files reference a shared external context at `https://id.openzim.org/categories/context.jsonld`, rather than inlining it.
+- v1 is flat: all categories are top concepts. Future versions may introduce relations between categories (`skos:broader` / `skos:narrower` / `skos:related`), and polyhierarchy is embraced: a concept may have several parents (e.g. "Medical & Health Technologies" attached to both "Applied Sciences" and "Medical Knowledge") instead of being forced into a single branch. `narrower` is the inverse of `broader` and `related` is symmetric: both directions would be written explicitly (as would `topConceptOf` / `hasTopConcept`) so consumers don't need a reasoner.
 - Positional numbering (1.1, 1.2, 1.2.1...) is not used: once a concept can have several parents, a single positional number no longer makes sense, and would give a false impression of strict hierarchy. Neighborhood and hierarchy are carried solely by SKOS relations.
+- Consumers must accept either a single value or an array for any property (standard JSON-LD / schema.org flexibility): a JSON-LD processor normalizes this on expansion.
 
 Example:
 
-```turtle
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix cat:  <https://id.openzim.org/categories/> .
-
-cat:health-medicine a skos:Concept ;
-    skos:inScheme cat: ;
-    skos:topConceptOf cat: ;
-    skos:prefLabel "Health & Medicine"@en, "Santé & Médecine"@fr .
+```json
+{
+  "@context": "https://id.openzim.org/categories/context.jsonld",
+  "@graph": [
+    {
+      "@id": "https://id.openzim.org/categories/health-medicine",
+      "@type": ["CategoryCode", "skos:Concept"],
+      "termCode": "health-medicine",
+      "name": [
+        { "@value": "Health & Medicine", "@language": "en" },
+        { "@value": "Santé et médecine", "@language": "fr" }
+      ],
+      "inDefinedTermSet": "https://id.openzim.org/categories/",
+      "inScheme": "https://id.openzim.org/categories/",
+      "topConceptOf": "https://id.openzim.org/categories/",
+      "image": [
+        {
+          "@id": "https://id.openzim.org/images/health-medicine.png",
+          "@type": "ImageObject",
+          "contentUrl": "https://id.openzim.org/images/health-medicine.png",
+          "encodingFormat": "image/png",
+          "width": 48,
+          "height": 48,
+          "caption": { "@value": "Health & Medicine category icon", "@language": "en" },
+          "license": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ]
+    }
+  ]
+}
 ```
+
+## Illustrations
+
+- Each category has one illustration: a 48×48 PNG icon, flat and simple by design (v1 only needs something good enough to show in a list or a filter chip, not a polished brand asset).
+- Icons are generated programmatically by [`categories/generate_images.py`](./categories/generate_images.py) (requires [Pillow](https://pillow.readthedocs.io/), e.g. `uv run --with pillow python3 categories/generate_images.py`) into [`categories/images/`](./categories/images), which is the source of truth checked into the repository; `build.py` only copies these files to `dist/images/` and references them from the JSON-LD.
+- Icons are an original work and released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), independently of the GPLv3 license covering the code in this repository.
+- Each image is a `schema:ImageObject` with its own `@id` (its published URL at `https://id.openzim.org/images/<file>`), so it can be reused outside the category's own JSON-LD. A category could have several images in the future (e.g. a PNG and an SVG version); image order does not matter (JSON-LD arrays are unordered sets).
+- Adding/changing an illustration means adding the file to `categories/images/` and referencing it (`file`, `width`, `height`) from the category's entry in [`categories.json`](./categories/categories.json).
 
 ## Reference data and translations
 
 The [`categories`](./categories) folder holds the reference data:
 
-- [`categories.json`](./categories/categories.json): the concept scheme URI and the ordered list of category identifiers. Future non-translatable data (e.g. relations between categories) belongs here.
+- [`categories.json`](./categories/categories.json): the concept scheme URI and the ordered list of categories, each with its identifier and optional non-translatable metadata (currently `images`; future relations between categories belong here too).
 - [`i18n/en.json`](./categories/i18n/en.json): English labels, in the [banana](https://github.com/wikimedia/banana-i18n) JSON format used by other Kiwix projects, with keys `scheme-label` and `category-<id>`.
 - [`i18n/qqq.json`](./categories/i18n/qqq.json): documentation of each message for translators, with examples of content in each category.
 - `i18n/<lang>.json`: translations, contributed through [TranslateWiki](https://translatewiki.net/) like for other Kiwix projects. They must not be edited by hand in this repository.
+- [`images/`](./categories/images): the category illustrations (see [Illustrations](#illustrations)).
 
 Adding a category means adding its identifier to `categories.json`, and its English label and translator documentation to `en.json` and `qqq.json`. Identifiers are never changed nor removed once published.
 
@@ -132,8 +177,10 @@ TranslateWiki setup: the project has to be registered on translatewiki.net (as o
 [`categories/build.py`](./categories/build.py) generates the files to publish at `https://id.openzim.org/` from the reference data, in a `dist` folder:
 
 ```
-dist/categories/index.{ttl,jsonld,html}        concept scheme, with all categories
-dist/categories/<id>/index.{ttl,jsonld,html}   one category
+dist/categories/context.jsonld                  shared JSON-LD context
+dist/categories/index.{jsonld,html}             concept scheme, with all categories
+dist/categories/<id>/index.{jsonld,html}        one category
+dist/images/<file>                              category illustrations
 ```
 
 ```sh
@@ -142,8 +189,9 @@ python3 categories/build.py --output dist
 
 These files are served by the `ghcr.io/openzim/id` Docker image (see [`Dockerfile`](./Dockerfile)), an nginx serving the generated files, deployed in Kubernetes behind `https://id.openzim.org/`:
 
-- Each URI (e.g. `https://id.openzim.org/categories/health-medicine`, with or without trailing `/`) returns HTML by default, and Turtle or JSON-LD when requested through the `Accept` header (`text/turtle`, `application/ld+json`).
-- Each format is also directly reachable (e.g. `https://id.openzim.org/categories/health-medicine/index.ttl`) for convenience, but these addresses are not guaranteed to be kept: clients must use the URI with content negotiation.
+- Each URI (e.g. `https://id.openzim.org/categories/health-medicine`, with or without trailing `/`) returns HTML by default, and JSON-LD when requested through the `Accept` header (`application/ld+json`).
+- Each format is also directly reachable (e.g. `https://id.openzim.org/categories/health-medicine/index.jsonld`) for convenience, but these addresses are not guaranteed to be kept: clients must use the URI with content negotiation.
+- Illustrations are plain static files at `https://id.openzim.org/images/<file>`, not content-negotiated.
 - Responses allow cross-origin requests, so that web-based readers can fetch the taxonomy.
 
 The image is built and published on every change to `main` (see [`Publish.yml`](./.github/workflows/Publish.yml)). To run it locally:
@@ -151,7 +199,7 @@ The image is built and published on every change to `main` (see [`Publish.yml`](
 ```sh
 docker build -t id-openzim .
 docker run --rm -p 8080:80 id-openzim
-curl -H "Accept: text/turtle" http://localhost:8080/categories/health-medicine
+curl -H "Accept: application/ld+json" http://localhost:8080/categories/health-medicine
 ```
 
 # Tooling
