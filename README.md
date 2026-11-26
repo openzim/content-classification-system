@@ -71,7 +71,7 @@ ZIMs are grouped into **families**: a family is a ZIM name with its language cod
 - When a ZIM has several categories, the `_category` tag is repeated, e.g. `_category:id.openzim.org/categories/science-mathematics;_category:id.openzim.org/categories/courses-textbooks`.
 - Using the host and path (rather than the bare slug or a label) keeps the value stable across time and unambiguous: an old ZIM can always be resolved to its category, and translated labels are obtained from the SKOS taxonomy.
 - Existing ZIMs use `_category` for their content source (e.g. `_category:wikipedia`, see [Categories vs content source](#categories-vs-content-source)). Any `_category` value that does not start with `id.openzim.org/categories/` is such a legacy value and must not be interpreted as a category.
-- Transition: current readers only consider the first `_category` tag, and rely on its legacy value. Until readers are updated, ZIMs should keep their legacy `_category` value first, followed by their categories, e.g. `_category:wikipedia;_category:id.openzim.org/categories/encyclopedias-general-reference`.
+- Transition: current readers only consider the first `_category` tag, and rely on its legacy value (see [Current libkiwix behaviour](#current-libkiwix-behaviour)). Until readers are updated, **every ZIM carrying categories must have an old-style value first, even when it never had one**: ZIMs that had a legacy value keep it first, followed by their categories, e.g. `_category:wikipedia;_category:id.openzim.org/categories/encyclopedias-general-reference`; ZIMs that never had a legacy value use an **empty** `_category` tag instead, e.g. `_category:;_category:id.openzim.org/categories/health-medicine`.
 - Informal / community tags (as described in the foundational document) are not part of this classification system: regular (non-special) ZIM tags already allow this.
 
 ## Transition in readers
@@ -81,6 +81,18 @@ Readers have to keep supporting old ZIMs, which have no category but a legacy `_
 - The categories of a ZIM are all its `_category` values starting with `id.openzim.org/categories/`. Other `_category` values are ignored for classification.
 - A ZIM without any category (old ZIM, third-party ZIM, ZIM not classified yet) is displayed under *Other*, like ZIMs explicitly classified as *Other*. Readers therefore always have an *Other* category.
 - Category labels are taken from the SKOS taxonomy, in the user's language, so *Other* is translated like any other category.
+
+### Current libkiwix behaviour
+
+None of the rules above are implemented yet, as confirmed by testing against libkiwix 14.0.0 (checked against the kiwix-tools / libkiwix changelogs up to the latest releases at the time of writing, kiwix-tools 3.8.2 / libkiwix 14.2.1: no relevant fix landed since, so this still applies to the current kiwix-serve). Category parsing and filtering live in libkiwix itself (`Book`, `Filter`, `Library` classes, and the bundled OPDS/web UI), not in any particular port, so this applies to every libkiwix-based reader (kiwix-serve, kiwix-desktop, kiwix-android, ...), not just kiwix-serve.
+
+Confirmed by loading dummy ZIMs in a local kiwix-serve ([investigation](https://github.com/openzim/content-classification-system/issues/37#issuecomment-7188622455)):
+
+- Only the first `_category` tag is read at all (for the OPDS `<category>` element, `/catalog/v2/categories`, and the `category=` filter). A ZIM's 2nd/3rd categories are invisible everywhere.
+- The `category=` filter never matches a real new-taxonomy value: it compares the whole query string against punctuation-tokenized terms, so a value containing `.`/`/`/`-` (the full URI, and 16 of the 18 hyphenated slugs) can never match as a whole, whatever its position.
+- A ZIM without any `_category` tag gets an empty category, not *Other*: it's excluded from category-based browsing rather than falling into *Other*. An **empty** first `_category` tag reproduces this same "no category" behaviour safely (confirmed with `zimcheck`), which is why it is used as the migration value above for ZIMs with no legacy value.
+
+This is why the first-tag migration rule in [Storing categories in ZIMs](#storing-categories-in-zims) is mandatory, not optional: without an old-style value first, a ZIM's category is simply unusable (unfilterable, shown as a raw URI) in any not-yet-updated libkiwix-based reader. Tracked in kiwix/libkiwix#1382.
 
 ### Option to study: categories provided by the catalog
 
