@@ -3,75 +3,129 @@
   "categories": [
     {
       "id": "for-children",
-      "images": [{"file": "for-children.png", "width": 48, "height": 48}]
+      "images": [
+        {"file": "for-children.png", "width": 48, "height": 48, "scale": 1},
+        {"file": "for-children@2x.png", "width": 48, "height": 48, "scale": 2}
+      ]
     },
     {
       "id": "encyclopedias-general-reference",
-      "images": [{"file": "encyclopedias-general-reference.png", "width": 48, "height": 48}]
+      "images": [
+        {"file": "encyclopedias-general-reference.png", "width": 48, "height": 48, "scale": 1},
+        {"file": "encyclopedias-general-reference@2x.png", "width": 48, "height": 48, "scale": 2}
+      ]
     },
     {
       "id": "languages-dictionaries",
-      "images": [{"file": "languages-dictionaries.png", "width": 48, "height": 48}]
+      "images": [
+        {"file": "languages-dictionaries.png", "width": 48, "height": 48, "scale": 1},
+        {"file": "languages-dictionaries@2x.png", "width": 48, "height": 48, "scale": 2}
+      ]
     },
     {
       "id": "books-literature",
-      "images": [{"file": "books-literature.png", "width": 48, "height": 48}]
+      "images": [
+        {"file": "books-literature.png", "width": 48, "height": 48, "scale": 1},
+        {"file": "books-literature@2x.png", "width": 48, "height": 48, "scale": 2}
+      ]
     },
     {
       "id": "courses-textbooks",
-      "images": [{"file": "courses-textbooks.png", "width": 48, "height": 48}]
+      "images": [
+        {"file": "courses-textbooks.png", "width": 48, "height": 48, "scale": 1},
+        {"file": "courses-textbooks@2x.png", "width": 48, "height": 48, "scale": 2}
+      ]
     },
     {
       "id": "science-mathematics",
-      "images": [{"file": "science-mathematics.png", "width": 48, "height": 48}]
+      "images": [
+        {"file": "science-mathematics.png", "width": 48, "height": 48, "scale": 1},
+        {"file": "science-mathematics@2x.png", "width": 48, "height": 48, "scale": 2}
+      ]
     },
     {
       "id": "computers-technology",
-      "images": [{"file": "computers-technology.png", "width": 48, "height": 48}]
+      "images": [
+        {"file": "computers-technology.png", "width": 48, "height": 48, "scale": 1},
+        {"file": "computers-technology@2x.png", "width": 48, "height": 48, "scale": 2}
+      ]
     },
     {
       "id": "health-medicine",
-      "images": [{"file": "health-medicine.png", "width": 48, "height": 48}]
+      "images": [
+        {"file": "health-medicine.png", "width": 48, "height": 48, "scale": 1},
+        {"file": "health-medicine@2x.png", "width": 48, "height": 48, "scale": 2}
+      ]
     },
     {
       "id": "history",
-      "images": [{"file": "history.png", "width": 48, "height": 48}]
+      "images": [
+        {"file": "history.png", "width": 48, "height": 48, "scale": 1},
+        {"file": "history@2x.png", "width": 48, "height": 48, "scale": 2}
+      ]
     },
     {
       "id": "geography-maps-travel",
-      "images": [{"file": "geography-maps-travel.png", "width": 48, "height": 48}]
+      "images": [
+        {"file": "geography-maps-travel.png", "width": 48, "height": 48, "scale": 1},
+        {"file": "geography-maps-travel@2x.png", "width": 48, "height": 48, "scale": 2}
+      ]
     },
     {
       "id": "society-politics-economy",
-      "images": [{"file": "society-politics-economy.png", "width": 48, "height": 48}]
+      "images": [
+        {"file": "society-politics-economy.png", "width": 48, "height": 48, "scale": 1},
+        {"file": "society-politics-economy@2x.png", "width": 48, "height": 48, "scale": 2}
+      ]
     },
     {
       "id": "religion-philosophy",
-      "images": [{"file": "religion-philosophy.png", "width": 48, "height": 48}]
+      "images": [
+        {"file": "religion-philosophy.png", "width": 48, "height": 48, "scale": 1},
+        {"file": "religion-philosophy@2x.png", "width": 48, "height": 48, "scale": 2}
+      ]
     },
     {
       "id": "arts-music-film",
-      "images": [{"file": "arts-music-film.png", "width": 48, "height": 48}]
+      "images": [
+        {"file": "arts-music-film.png", "width": 48, "height": 48, "scale": 1},
+        {"file": "arts-music-film@2x.png", "width": 48, "height": 48, "scale": 2}
+      ]
     },
     {
       "id": "games-fandom-humor",
-      "images": [{"file": "games-fandom-humor.png", "width": 48, "height": 48}]
+      "images": [
+        {"file": "games-fandom-humor.png", "width": 48, "height": 48, "scale": 1},
+        {"file": "games-fandom-humor@2x.png", "width": 48, "height": 48, "scale": 2}
+      ]
     },
     {
       "id": "sports-outdoors",
-      "images": [{"file": "sports-outdoors.png", "width": 48, "height": 48}]
+      "images": [
+        {"file": "sports-outdoors.png", "width": 48, "height": 48, "scale": 1},
+        {"file": "sports-outdoors@2x.png", "width": 48, "height": 48, "scale": 2}
+      ]
     },
     {
       "id": "home-food-diy",
-      "images": [{"file": "home-food-diy.png", "width": 48, "height": 48}]
+      "images": [
+        {"file": "home-food-diy.png", "width": 48, "height": 48, "scale": 1},
+        {"file": "home-food-diy@2x.png", "width": 48, "height": 48, "scale": 2}
+      ]
     },
     {
       "id": "survival-preparedness",
-      "images": [{"file": "survival-preparedness.png", "width": 48, "height": 48}]
+      "images": [
+        {"file": "survival-preparedness.png", "width": 48, "height": 48, "scale": 1},
+        {"file": "survival-preparedness@2x.png", "width": 48, "height": 48, "scale": 2}
+      ]
     },
     {
       "id": "other",
-      "images": [{"file": "other.png", "width": 48, "height": 48}]
+      "images": [
+        {"file": "other.png", "width": 48, "height": 48, "scale": 1},
+        {"file": "other@2x.png", "width": 48, "height": 48, "scale": 2}
+      ]
     }
   ]
 }
