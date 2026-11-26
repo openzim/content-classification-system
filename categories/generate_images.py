@@ -1,5 +1,6 @@
-"""Generate the 48x48 flat-style PNG illustration for each category (one source image per category.json
-image file, drawn at 4x supersampling and downsampled for clean edges). Requires Pillow:
+"""Generate the flat-style PNG illustration for each category, at @1x (48x48) and @2x (96x96)
+(one source image per category.json image entry, drawn at 4x supersampling and downsampled for
+clean edges). Requires Pillow:
 
     uv run --with pillow python3 categories/generate_images.py
 """
@@ -24,8 +25,8 @@ def new_canvas(bg):
 
 
 def save(img, name):
-    small = img.resize((48, 48), Image.LANCZOS)
-    small.save(OUT / f"{name}.png", optimize=True)
+    img.resize((48, 48), Image.LANCZOS).save(OUT / f"{name}.png", optimize=True)
+    img.resize((96, 96), Image.LANCZOS).save(OUT / f"{name}@2x.png", optimize=True)
 
 
 def star_points(cx, cy, r_out, r_in, n=5, rot=-90):

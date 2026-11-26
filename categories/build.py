@@ -20,6 +20,7 @@ from urllib.parse import urlparse
 HERE = Path(__file__).resolve().parent
 SCHEMA = "http://schema.org/"
 SKOS = "http://www.w3.org/2004/02/skos/core#"
+OPENZIM = "https://id.openzim.org/vocab#"
 IMAGE_BASE = "https://id.openzim.org/images/"
 IMAGE_LICENSE = "https://creativecommons.org/licenses/by-sa/4.0/"
 CONTEXT_URL = "https://id.openzim.org/categories/context.jsonld"
@@ -27,9 +28,13 @@ ENCODING_FORMATS = {".png": "image/png", ".svg": "image/svg+xml", ".jpg": "image
 
 # @vocab covers schema.org terms (name, description, image, termCode, inDefinedTermSet, ImageObject,
 # contentUrl, encodingFormat, caption, license, ...); SKOS relations are mapped explicitly as @id-valued.
+# `scale` (device pixel ratio) has no schema.org equivalent, so it's minted under our own `openzim:` namespace
+# instead of silently falling through to a non-existent schema.org term.
 CONTEXT = {
     "@vocab": SCHEMA,
     "skos": SKOS,
+    "openzim": OPENZIM,
+    "scale": "openzim:scale",
     "broader": {"@id": "skos:broader", "@type": "@id"},
     "narrower": {"@id": "skos:narrower", "@type": "@id"},
     "related": {"@id": "skos:related", "@type": "@id"},
@@ -74,6 +79,7 @@ def load():
                 "encodingFormat": ENCODING_FORMATS[ext],
                 "width": img["width"],
                 "height": img["height"],
+                "scale": img["scale"],
                 "caption": [{"@value": f"{label} category icon", "@language": "en"}],
                 "license": IMAGE_LICENSE,
             })
@@ -169,7 +175,10 @@ def label_en(names):
 def icon_img(c):
     if not c["images"]:
         return ""
-    return f'<img class="icon" src="{html.escape(path(c["images"][0]["contentUrl"]))}" alt="">'
+    base = next((img for img in c["images"] if img["scale"] == 1), c["images"][0])
+    srcset = ", ".join(f'{path(img["contentUrl"])} {img["scale"]}x' for img in c["images"])
+    return (f'<img class="icon" src="{html.escape(path(base["contentUrl"]))}" '
+            f'srcset="{html.escape(srcset)}" alt="">')
 
 
 def html_scheme(scheme):

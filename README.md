@@ -119,6 +119,7 @@ Pure SKOS has no property for images or other rich metadata (the old `skos:prefS
 | Labels & translations | `schema:name` (language-tagged values) |
 | Description | `schema:description` (language-tagged values) |
 | Illustrations | `schema:image` → `schema:ImageObject` |
+| Illustration pixel density | `openzim:scale` (no schema.org equivalent, minted under our own `https://id.openzim.org/vocab#` namespace) |
 | Hierarchy | `skos:broader` / `skos:narrower` |
 | Associative links | `skos:related` |
 | Top-level categories | `skos:topConceptOf` (on the category) / `skos:hasTopConcept` (on the scheme) |
@@ -167,8 +168,9 @@ Example:
 - Each category has one illustration: a 48×48 PNG icon, flat and simple by design (v1 only needs something good enough to show in a list or a filter chip, not a polished brand asset).
 - Icons are generated programmatically by [`categories/generate_images.py`](./categories/generate_images.py) (requires [Pillow](https://pillow.readthedocs.io/), e.g. `uv run --with pillow python3 categories/generate_images.py`) into [`categories/images/`](./categories/images), which is the source of truth checked into the repository; `build.py` only copies these files to `dist/images/` and references them from the JSON-LD.
 - Icons are an original work and released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), independently of the GPLv3 license covering the code in this repository.
-- Each image is a `schema:ImageObject` with its own `@id` (its published URL at `https://id.openzim.org/images/<file>`), so it can be reused outside the category's own JSON-LD. A category could have several images in the future (e.g. a PNG and an SVG version); image order does not matter (JSON-LD arrays are unordered sets).
-- Adding/changing an illustration means adding the file to `categories/images/` and referencing it (`file`, `width`, `height`) from the category's entry in [`categories.json`](./categories/categories.json).
+- Each image is a `schema:ImageObject` with its own `@id` (its published URL at `https://id.openzim.org/images/<file>`), so it can be reused outside the category's own JSON-LD. A category could have several images in the future (e.g. a PNG and an SVG version, or higher-resolution variants); image order does not matter (JSON-LD arrays are unordered sets).
+- Each image also has a `scale` (device pixel ratio, e.g. `1` for standard, `2` for retina/@2x). `width`/`height` are the logical/CSS size the image is meant to be displayed at, not its actual pixel dimensions: a 48×48 @2x image is a 96×96 PNG with `width: 48, height: 48, scale: 2`. Together, `width`, `height` and `scale` identify a specific variant — the same convention used by ZIM illustrations (`width`/`height` in CSS pixels, `scale` the device pixel ratio), so readers can select the right image the same way they already do for ZIM illustrations.
+- Adding/changing an illustration means adding the file to `categories/images/` and referencing it (`file`, `width`, `height`, `scale`) from the category's entry in [`categories.json`](./categories/categories.json).
 
 ## Reference data and translations
 
